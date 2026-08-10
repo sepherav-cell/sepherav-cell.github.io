@@ -1,0 +1,2575 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME: 2025/2026 year (540 year of Gaurabda era)
+PRODID:-//Raku
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:34656462-3531-4731-b432-643439383933
+DTSTAMP:20250130T000000Z
+DTEND;VALUE=DATE:20250131
+DTSTART;VALUE=DATE:20250130
+SUMMARY:Disappearance of Tridandi Swami Srimad Bhakti Gaurava Vaikhanas Maharaj. Disappearance of Sri Haripada Chaudhuri Das Adhikari.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Tridandi Swami Srimad Bhakti Gaurava Vaikhanas Maharaj. Disappearance of Sri Haripada Chaudhuri Das Adhikari.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35666264-3565-4431-a238-323864383636
+DTSTAMP:20250131T000000Z
+DTEND;VALUE=DATE:20250201
+DTSTART;VALUE=DATE:20250131
+SUMMARY:Disappearance of Tridandi Swami Srimad Bhakti Sharan Shanta Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Tridandi Swami Srimad Bhakti Sharan Shanta Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33343562-6232-4365-b464-366538666435
+DTSTAMP:20250202T000000Z
+DTEND;VALUE=DATE:20250203
+DTSTART;VALUE=DATE:20250202
+SUMMARY:Appearance of Tridandi Swami Srimad Bhakti Pavan Janardan Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Tridandi Swami Srimad Bhakti Pavan Janardan Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34333737-6563-4865-a434-643634623463
+DTSTAMP:20250203T000000Z
+DTEND;VALUE=DATE:20250204
+DTSTART;VALUE=DATE:20250203
+SUMMARY:Sri Krishna Vasanta Panchami. Appearance day of Sri Vishnu Priya Devi. Appearance of Srila Pundarik Vidyanidhi, Srila Raghunath Das Goswami, and Srila Raghunandan Thakur. Disappearance of Srila Visvanath Chakravarti Thakur, Tridandi Swami Srimad Bhakti Viveka Bharati Maharaj, and Tridandi Swami Srimad Bhakti Svarup Parvat Maharaj. Sri Saraswati Puja.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Sri Krishna Vasanta Panchami. Appearance day of Sri Vishnu Priya Devi. Appearance of Srila Pundarik Vidyanidhi, Srila Raghunath Das Goswami, and Srila Raghunandan Thakur. Disappearance of Srila Visvanath Chakravarti Thakur, Tridandi Swami Srimad Bhakti Viveka Bharati Maharaj, and Tridandi Swami Srimad Bhakti Svarup Parvat Maharaj. Sri Saraswati Puja.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62313035-6537-4634-b562-303463386138
+DTSTAMP:20250205T000000Z
+DTEND;VALUE=DATE:20250206
+DTSTART;VALUE=DATE:20250205
+SUMMARY:Appearance of Mahavishnu Avatar, Sri Advaita Acharya. Fast until noon.. (because saptami tithi is short (<i>kshaya</i>)). Disappearance of Sripad Virendra Krishna Prabhu.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Mahavishnu Avatar, Sri Advaita Acharya. Fast until noon.. (because saptami tithi is short (<i>kshaya</i>)). Disappearance of Sripad Virendra Krishna Prabhu.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36613339-3761-4664-b334-646637376165
+DTSTAMP:20250206T000000Z
+DTEND;VALUE=DATE:20250207
+DTSTART;VALUE=DATE:20250206
+SUMMARY:Disappearance of Srila Madhva Acharya.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Srila Madhva Acharya.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62373438-3762-4437-b333-626632306230
+DTSTAMP:20250207T000000Z
+DTEND;VALUE=DATE:20250208
+DTSTART;VALUE=DATE:20250207
+SUMMARY:Disappearance of Srila Ramanuja Acharya.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Srila Ramanuja Acharya.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65633333-6433-4164-b564-373332353265
+DTSTAMP:20250208T000000Z
+DTEND;VALUE=DATE:20250209
+DTSTART;VALUE=DATE:20250208
+SUMMARY:Bhaimi Ekadashi. Fast (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Bhaimi Ekadashi. Fast (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62623934-3633-4464-b935-306630386163
+DTSTAMP:20250209T000000Z
+DTEND;VALUE=DATE:20250210
+DTSTART;VALUE=DATE:20250209
+SUMMARY:Paran after worshipping Lord Varahadev and between 08:04 and 11:04 (in Yaroslavl). Varaha Dvadashi. <strong>Appearance of Lord Varaha.</strong>
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran after worshipping Lord Varahadev and between 08:04 and 11:04 (in Yaroslavl). Varaha Dvadashi. <strong>Appearance of Lord Varaha.</strong>
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37313939-3233-4635-a634-366436646163
+DTSTAMP:20250210T000000Z
+DTEND;VALUE=DATE:20250211
+DTSTART;VALUE=DATE:20250210
+SUMMARY:Appearance of Sri Nityananda Prabhu. <strong>Fast until noon.</strong> Grand festival and installation anniversary of Sri Sri Guru Gaura Nityananda Jiu at Sree Chaitanya Saraswata Krishnanushilana Sangha, Ekachakra Dham.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Sri Nityananda Prabhu. <strong>Fast until noon.</strong> Grand festival and installation anniversary of Sri Sri Guru Gaura Nityananda Jiu at Sree Chaitanya Saraswata Krishnanushilana Sangha, Ekachakra Dham.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62613237-6130-4833-a561-613764646363
+DTSTAMP:20250212T000000Z
+DTEND;VALUE=DATE:20250213
+DTSTART;VALUE=DATE:20250212
+SUMMARY:Sri Krishna's Madhurotsav. Appearance of Srila Narottam Das Thakur.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Sri Krishna's Madhurotsav. Appearance of Srila Narottam Das Thakur.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35666264-6663-4135-b936-373734653463
+DTSTAMP:20250215T000000Z
+DTEND;VALUE=DATE:20250216
+DTSTART;VALUE=DATE:20250215
+SUMMARY:Disappearance of Tridandi Swami Sripad Bhakti Premik Siddhanti Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Tridandi Swami Sripad Bhakti Premik Siddhanti Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38623864-3364-4238-b235-386562316536
+DTSTAMP:20250217T000000Z
+DTEND;VALUE=DATE:20250218
+DTSTART;VALUE=DATE:20250217
+SUMMARY:The 152th divine appearance festival of the founder of the Sri Chaitanya Math and worldwide Sri Gaudiya Maths, Bhagavan Sri Srila Bhakti Siddhanta Saraswati Goswami Prabhupad. Anniversary festival of the installation of Sri Gupta Govardhan Sri Mandir, Sri Govinda Kunda, Nabadwip. Disappearance of Srila Purushottam Thakur.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:The 152th divine appearance festival of the founder of the Sri Chaitanya Math and worldwide Sri Gaudiya Maths, Bhagavan Sri Srila Bhakti Siddhanta Saraswati Goswami Prabhupad. Anniversary festival of the installation of Sri Gupta Govardhan Sri Mandir, Sri Govinda Kunda, Nabadwip. Disappearance of Srila Purushottam Thakur.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62646164-3835-4531-a461-343032303737
+DTSTAMP:20250218T000000Z
+DTEND;VALUE=DATE:20250219
+DTSTART;VALUE=DATE:20250218
+SUMMARY:Appearance of Tridandi Swami Srimad Bhakti Saranga Goswami Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Tridandi Swami Srimad Bhakti Saranga Goswami Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33633134-6463-4965-b433-316163636634
+DTSTAMP:20250224T000000Z
+DTEND;VALUE=DATE:20250225
+DTSTART;VALUE=DATE:20250224
+SUMMARY:Vijaya Ekadashi. Fast (in Yaroslavl). Disappearance of Sripad Krishna Govinda Das Adhikari.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Vijaya Ekadashi. Fast (in Yaroslavl). Disappearance of Sripad Krishna Govinda Das Adhikari.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62623261-3763-4237-a131-643964303564
+DTSTAMP:20250225T000000Z
+DTEND;VALUE=DATE:20250226
+DTSTART;VALUE=DATE:20250225
+SUMMARY:Paran between 07:24 and 07:58 (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran between 07:24 and 07:58 (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64373466-3335-4464-a362-373937323338
+DTSTAMP:20250227T000000Z
+DTEND;VALUE=DATE:20250228
+DTSTART;VALUE=DATE:20250227
+SUMMARY:Sri Sri Shivaratri (optional fast). Disappearance of Sripad Yudhamanyu Prabhu Seva Vikram.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Sri Sri Shivaratri (optional fast). Disappearance of Sripad Yudhamanyu Prabhu Seva Vikram.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36653435-6538-4436-b864-343333346132
+DTSTAMP:20250228T000000Z
+DTEND;VALUE=DATE:20250301
+DTSTART;VALUE=DATE:20250228
+SUMMARY:Anniversary festival of the installation of Sri Sadashiva Gangadhar, Sri Govinda Kunda, Nabadwip.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Anniversary festival of the installation of Sri Sadashiva Gangadhar, Sri Govinda Kunda, Nabadwip.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:32646261-3765-4437-a237-343135323262
+DTSTAMP:20250301T000000Z
+DTEND;VALUE=DATE:20250302
+DTSTART;VALUE=DATE:20250301
+SUMMARY:Disappearance of Vaishnava Sarvabhauma Srila Jagannath Das Babaji Maharaj, Srila Rasikananda Dev Goswami, and Tridandi Swami Srimad Bhakti Dayita Madhav Maharaj.  (because pratipad tithi is short (<i>kshaya</i>)). Appearance of Srila Bhakti Kusum Ashram Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Vaishnava Sarvabhauma Srila Jagannath Das Babaji Maharaj, Srila Rasikananda Dev Goswami, and Tridandi Swami Srimad Bhakti Dayita Madhav Maharaj.  (because pratipad tithi is short (<i>kshaya</i>)). Appearance of Srila Bhakti Kusum Ashram Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61656564-6330-4132-b130-373666353366
+DTSTAMP:20250302T000000Z
+DTEND;VALUE=DATE:20250303
+DTSTART;VALUE=DATE:20250302
+SUMMARY:Sri Sri Guru Gauranga Gandharva Radha Ramanasundar Jiu installation anniversary festival, at Sree Chaitanya Saraswata Krishnanushilana Sangha, Kaikhali, Kolkata.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Sri Sri Guru Gauranga Gandharva Radha Ramanasundar Jiu installation anniversary festival, at Sree Chaitanya Saraswata Krishnanushilana Sangha, Kaikhali, Kolkata.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36366134-3839-4731-a665-363137613934
+DTSTAMP:20250303T000000Z
+DTEND;VALUE=DATE:20250304
+DTSTART;VALUE=DATE:20250303
+SUMMARY:Appearance of Srila Purushottam Thakur. Disappearance of Sripad Tulasidas Das Adhikari Prabhu.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Srila Purushottam Thakur. Disappearance of Sripad Tulasidas Das Adhikari Prabhu.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63353531-3836-4332-a535-333837313733
+DTSTAMP:20250304T000000Z
+DTEND;VALUE=DATE:20250305
+DTSTART;VALUE=DATE:20250304
+SUMMARY:Disappearance of Sriyukta Tarangini Devi.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Sriyukta Tarangini Devi.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35626663-3562-4634-a433-323464396462
+DTSTAMP:20250309T000000Z
+DTEND;VALUE=DATE:20250310
+DTSTART;VALUE=DATE:20250309
+SUMMARY:Adhivas festival of    Sri Nabadwip Dham Parikrama.  Beginning of annual seven day festival.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Adhivas festival of    Sri Nabadwip Dham Parikrama.  Beginning of annual seven day festival.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39346437-3233-4561-a337-353932323666
+DTSTAMP:20250310T000000Z
+DTEND;VALUE=DATE:20250311
+DTSTART;VALUE=DATE:20250310
+SUMMARY:Amalaki Ekadashi. Fast (in Yaroslavl).  Sri Nabadwip Dham Parikrama begins. Parikrama of Sri Ishodyan, Sri Yoga Pith (Sriman Mahaprabhu's appearance place), Srivas Angan, Sri Nrisimha Mandir, Sri Advaita Bhavan, Murari Gupta Bhavan, Sri Chaitanya Math, the Temple of Sri Sri Gandharvika-Giridhari and Sriman Mahaprabhu surrounded by the Acharyas of the four Vaishnava sampradayas, Srila Prabhupad's Samadhi Mandir, Srila Gaura Kishor Das Babaji Maharaj's Samadhi, Sri Kazi Samadhi, Sharadanga Sri Jagannath Mandir, Sridhar Angan, and Sri Antardwip.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Amalaki Ekadashi. Fast (in Yaroslavl).  Sri Nabadwip Dham Parikrama begins. Parikrama of Sri Ishodyan, Sri Yoga Pith (Sriman Mahaprabhu's appearance place), Srivas Angan, Sri Nrisimha Mandir, Sri Advaita Bhavan, Murari Gupta Bhavan, Sri Chaitanya Math, the Temple of Sri Sri Gandharvika-Giridhari and Sriman Mahaprabhu surrounded by the Acharyas of the four Vaishnava sampradayas, Srila Prabhupad's Samadhi Mandir, Srila Gaura Kishor Das Babaji Maharaj's Samadhi, Sri Kazi Samadhi, Sharadanga Sri Jagannath Mandir, Sridhar Angan, and Sri Antardwip.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31366162-6430-4637-a362-303961383765
+DTSTAMP:20250311T000000Z
+DTEND;VALUE=DATE:20250312
+DTSTART;VALUE=DATE:20250311
+SUMMARY:Paran between 06:47 and 07:01 (in Yaroslavl). Parikrama of Praudha Maya, Vriddha Shiva, Sri Vishnu Priya's Deity of Sri Gauranga, Sri Jagannath Das Babaji Maharaj's Samadhi Mandir, Sri Koladwip, and other places. Disappearance of Sripad Madhavendra Puri.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran between 06:47 and 07:01 (in Yaroslavl). Parikrama of Praudha Maya, Vriddha Shiva, Sri Vishnu Priya's Deity of Sri Gauranga, Sri Jagannath Das Babaji Maharaj's Samadhi Mandir, Sri Koladwip, and other places. Disappearance of Sripad Madhavendra Puri.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31643762-6131-4433-a637-336438613466
+DTSTAMP:20250312T000000Z
+DTEND;VALUE=DATE:20250313
+DTSTART;VALUE=DATE:20250312
+SUMMARY:Parikrama of Sri Godrumadwip and Madhyadwip, Sri Surabhi Kunj, Suvarna Bihar Math, Sri Nrisimha Palli, Sri Harihara Ksetra, and other places.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Parikrama of Sri Godrumadwip and Madhyadwip, Sri Surabhi Kunj, Suvarna Bihar Math, Sri Nrisimha Palli, Sri Harihara Ksetra, and other places.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36373930-6463-4634-b635-313932613662
+DTSTAMP:20250313T000000Z
+DTEND;VALUE=DATE:20250314
+DTSTART;VALUE=DATE:20250313
+SUMMARY:Adhivas observance ceremony of the appearance of Sri Gauranga. Parikrama of Sri Koladwip, Sri Ritudwip, Sri Jahnudwip, Sri Modadrumadwip, Old Sri Sri Gaura-Gadadhar Mandir, Vidya Nagar Sarvabhauma Gaudiya Math, Srila Vrindavan Das Thakur's appearance place, and the Deity served by Sri Saranga Murari and Vasudev Datta Thakur.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Adhivas observance ceremony of the appearance of Sri Gauranga. Parikrama of Sri Koladwip, Sri Ritudwip, Sri Jahnudwip, Sri Modadrumadwip, Old Sri Sri Gaura-Gadadhar Mandir, Vidya Nagar Sarvabhauma Gaudiya Math, Srila Vrindavan Das Thakur's appearance place, and the Deity served by Sri Saranga Murari and Vasudev Datta Thakur.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35313731-6631-4639-a237-613764353832
+DTSTAMP:20250314T000000Z
+DTEND;VALUE=DATE:20250315
+DTSTART;VALUE=DATE:20250314
+SUMMARY:Sri Gauravirbhava Paurnamasi. Sri Gaura Purnima. Divine appearance of Sri Gauranga. <strong>Total fast until moonrise,</strong> then no grains. Grand festival at Sri Chaitanya Saraswat Math. Vasantotsav and Dol Yatra of Sri Sri Radha-Govinda. Special offering of worship and arati. Sri Chaitanya-charitamrita reading and mahasankirtan. End of year 539 Gaurabda.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Sri Gauravirbhava Paurnamasi. Sri Gaura Purnima. Divine appearance of Sri Gauranga. <strong>Total fast until moonrise,</strong> then no grains. Grand festival at Sri Chaitanya Saraswat Math. Vasantotsav and Dol Yatra of Sri Sri Radha-Govinda. Special offering of worship and arati. Sri Chaitanya-charitamrita reading and mahasankirtan. End of year 539 Gaurabda.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61316132-3835-4730-b831-623764616436
+DTSTAMP:20250315T000000Z
+DTEND;VALUE=DATE:20250316
+DTSTART;VALUE=DATE:20250315
+SUMMARY:Sri Gaura Purnima paran between 06:36 and 10:31 a.m. (in Yaroslavl). <strong>Anandotsav of Sri Jagannath Mishra.</strong> Last gathering of the week-long yearly meeting at Sri Chaitanya Saraswat Math and yearly festival. Start of year 540 Gaurabda.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Sri Gaura Purnima paran between 06:36 and 10:31 a.m. (in Yaroslavl). <strong>Anandotsav of Sri Jagannath Mishra.</strong> Last gathering of the week-long yearly meeting at Sri Chaitanya Saraswat Math and yearly festival. Start of year 540 Gaurabda.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36643831-3338-4661-b833-663933356135
+DTSTAMP:20250319T000000Z
+DTEND;VALUE=DATE:20250320
+DTSTART;VALUE=DATE:20250319
+SUMMARY:Festival at the appearance place of Srila Bhakti Raksak Sridhar Dev-Goswami Maharaj, Sripat Hapaniya:  grand appearance of the Holy Deities of Sripat Hapaniya, Sri Sri Guru Gauranga Radha Gopinath Jiu at Sri Chaitanya Saraswat Ashram. Appearance of Tridandi Swami Srimad Bhakti Sharan Shanta Maharaj. Pancham Dol.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Festival at the appearance place of Srila Bhakti Raksak Sridhar Dev-Goswami Maharaj, Sripat Hapaniya:  grand appearance of the Holy Deities of Sripat Hapaniya, Sri Sri Guru Gauranga Radha Gopinath Jiu at Sri Chaitanya Saraswat Ashram. Appearance of Tridandi Swami Srimad Bhakti Sharan Shanta Maharaj. Pancham Dol.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35343162-3031-4564-b634-656463653431
+DTSTAMP:20250322T000000Z
+DTEND;VALUE=DATE:20250323
+DTSTART;VALUE=DATE:20250322
+SUMMARY:Appearance of Srila Srivas Pandit.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Srila Srivas Pandit.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38386534-6432-4231-a262-323632346263
+DTSTAMP:20250323T000000Z
+DTEND;VALUE=DATE:20250324
+DTSTART;VALUE=DATE:20250323
+SUMMARY:Disappearance of Tridandi Swami Srimad Bhakti Vigraha Bhiksu Goswami Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Tridandi Swami Srimad Bhakti Vigraha Bhiksu Goswami Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63666331-6465-4637-a265-623935663263
+DTSTAMP:20250325T000000Z
+DTEND;VALUE=DATE:20250326
+DTSTART;VALUE=DATE:20250325
+SUMMARY:Papa Vimochani Ekadashi. Fast (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Papa Vimochani Ekadashi. Fast (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38303761-3932-4965-b734-323837346434
+DTSTAMP:20250326T000000Z
+DTEND;VALUE=DATE:20250327
+DTSTART;VALUE=DATE:20250326
+SUMMARY:Paran between 06:05 and 10:19 (in Yaroslavl). Festival in honour of Sriman Mahaprabhu's auspicious arrival at Varaha Nagar. Disappearance of Srila Govinda Ghosh Thakur. Disappearance of Sripad Satyendrachandra Bhattacharya Mahoday.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran between 06:05 and 10:19 (in Yaroslavl). Festival in honour of Sriman Mahaprabhu's auspicious arrival at Varaha Nagar. Disappearance of Srila Govinda Ghosh Thakur. Disappearance of Sripad Satyendrachandra Bhattacharya Mahoday.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66373532-3432-4433-b231-353433333830
+DTSTAMP:20250403T000000Z
+DTEND;VALUE=DATE:20250404
+DTSTART;VALUE=DATE:20250403
+SUMMARY:Appearance of Sripad Ramanuja Acharya and Tridandi Swami Srimad Bhakti Hriday Bon Maharaj. (because panchami tithi is short (<i>kshaya</i>)).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Sripad Ramanuja Acharya and Tridandi Swami Srimad Bhakti Hriday Bon Maharaj. (because panchami tithi is short (<i>kshaya</i>)).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34366237-3430-4266-b161-373435343862
+DTSTAMP:20250404T000000Z
+DTEND;VALUE=DATE:20250405
+DTSTART;VALUE=DATE:20250404
+SUMMARY:Appearance of Tridandi Swami Srimad Bhakti Vilas Tirtha Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Tridandi Swami Srimad Bhakti Vilas Tirtha Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38316536-3131-4236-b831-353531656335
+DTSTAMP:20250406T000000Z
+DTEND;VALUE=DATE:20250407
+DTSTART;VALUE=DATE:20250406
+SUMMARY:Sri Rama Navami.Appearance at noon of Sri Ramachandra. Fast until noon.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Sri Rama Navami.Appearance at noon of Sri Ramachandra. Fast until noon.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37376337-6333-4662-b936-636666376262
+DTSTAMP:20250408T000000Z
+DTEND;VALUE=DATE:20250409
+DTSTART;VALUE=DATE:20250408
+SUMMARY:Kamada Ekadashi. Fast (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Kamada Ekadashi. Fast (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:30656239-3563-4037-a534-656632396239
+DTSTAMP:20250409T000000Z
+DTEND;VALUE=DATE:20250410
+DTSTART;VALUE=DATE:20250409
+SUMMARY:Paran between 05:26 and 10:03 (in Yaroslavl). Festival in honour of the disappearance of Om Vishnupad Paramahamsa Parivrajakacharya-varya Ashtottara-shata-sri Srila Bhakti Sundar Govinda Dev-Goswami Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran between 05:26 and 10:03 (in Yaroslavl). Festival in honour of the disappearance of Om Vishnupad Paramahamsa Parivrajakacharya-varya Ashtottara-shata-sri Srila Bhakti Sundar Govinda Dev-Goswami Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38633665-6266-4366-b164-666135393736
+DTSTAMP:20250412T000000Z
+DTEND;VALUE=DATE:20250413
+DTSTART;VALUE=DATE:20250412
+SUMMARY:Vasanta Rasa of Sri Krishna. Rasa Yatra of Sri Balaram. Appearance of Srila Vamshi Vadanananda Thakur and Srila Shyamananda Prabhu.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Vasanta Rasa of Sri Krishna. Rasa Yatra of Sri Balaram. Appearance of Srila Vamshi Vadanananda Thakur and Srila Shyamananda Prabhu.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63363636-3264-4361-b934-626533376136
+DTSTAMP:20250418T000000Z
+DTEND;VALUE=DATE:20250419
+DTSTART;VALUE=DATE:20250418
+SUMMARY:Disappearance of Sripad Krishnadas Babaji Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Sripad Krishnadas Babaji Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:32663365-3636-4566-b336-636237356232
+DTSTAMP:20250420T000000Z
+DTEND;VALUE=DATE:20250421
+DTSTART;VALUE=DATE:20250420
+SUMMARY:Disappearance of Srila Abhiram Thakur.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Srila Abhiram Thakur.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61363937-3232-4839-a632-643964363862
+DTSTAMP:20250423T000000Z
+DTEND;VALUE=DATE:20250424
+DTSTART;VALUE=DATE:20250423
+SUMMARY:Disappearance of Srila Vrindavan Das Thakur.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Srila Vrindavan Das Thakur.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62653938-6236-4733-b739-343235343738
+DTSTAMP:20250424T000000Z
+DTEND;VALUE=DATE:20250425
+DTSTART;VALUE=DATE:20250424
+SUMMARY:Varuthini Ekadashi. Fast (in Yaroslavl). Disappearance of Sriyukta Saurindranath Bhakti Varidhi Prabhu.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Varuthini Ekadashi. Fast (in Yaroslavl). Disappearance of Sriyukta Saurindranath Bhakti Varidhi Prabhu.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33306362-3332-4037-b231-646239356538
+DTSTAMP:20250425T000000Z
+DTEND;VALUE=DATE:20250426
+DTSTART;VALUE=DATE:20250425
+SUMMARY:Paran between 04:44 and 05:38 (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran between 04:44 and 05:38 (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65386336-6363-4539-b435-626539666234
+DTSTAMP:20250427T000000Z
+DTEND;VALUE=DATE:20250428
+DTSTART;VALUE=DATE:20250427
+SUMMARY:Disappearance of Tridandi Swami Srimad Bhakti Nirmal Acharya Maharaj. (because chaturdashi tithi is short (<i>kshaya</i>)). Appearance of Srila Gadadhar Pandit Goswami.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Tridandi Swami Srimad Bhakti Nirmal Acharya Maharaj. (because chaturdashi tithi is short (<i>kshaya</i>)). Appearance of Srila Gadadhar Pandit Goswami.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61306339-3330-4636-a163-353534636135
+DTSTAMP:20250428T000000Z
+DTEND;VALUE=DATE:20250429
+DTSTART;VALUE=DATE:20250428
+SUMMARY:Appearance of Tridandi Swami Srimad Bhakti Aloka Paramahamsa Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Tridandi Swami Srimad Bhakti Aloka Paramahamsa Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36343134-3162-4663-b137-613539373663
+DTSTAMP:20250429T000000Z
+DTEND;VALUE=DATE:20250430
+DTSTART;VALUE=DATE:20250429
+SUMMARY:Appearance of Tridandi Swami Srimad Bhakti Vichar Jajavar Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Tridandi Swami Srimad Bhakti Vichar Jajavar Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36323763-6334-4432-a136-363437336331
+DTSTAMP:20250430T000000Z
+DTEND;VALUE=DATE:20250501
+DTSTART;VALUE=DATE:20250430
+SUMMARY:Beginning of 21 days Chandan Yatra of Sri Sri Jagannathdev. Aksaya Tritiya: a good day to start some works.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Beginning of 21 days Chandan Yatra of Sri Sri Jagannathdev. Aksaya Tritiya: a good day to start some works.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64636364-6330-4535-b364-326334613939
+DTSTAMP:20250502T000000Z
+DTEND;VALUE=DATE:20250503
+DTSTART;VALUE=DATE:20250502
+SUMMARY:Appearance of Sripad Shankar Acharya. Disappearance of Tridandi Swami Srimad Bhakti Vilas Gabhastinemi Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Sripad Shankar Acharya. Disappearance of Tridandi Swami Srimad Bhakti Vilas Gabhastinemi Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61383562-6532-4833-b761-626463373065
+DTSTAMP:20250504T000000Z
+DTEND;VALUE=DATE:20250505
+DTSTART;VALUE=DATE:20250504
+SUMMARY:Jahnu Saptami. Sri Jahnavi Puja (Sri Ganga Puja).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Jahnu Saptami. Sri Jahnavi Puja (Sri Ganga Puja).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37316536-6261-4765-b763-613238343365
+DTSTAMP:20250506T000000Z
+DTEND;VALUE=DATE:20250507
+DTSTART;VALUE=DATE:20250506
+SUMMARY:Appearance of Sri Nityananda-shakti, Sri Jahnava Devi, and Sri Rama-shakti, Sri Sita Devi. Appearance of Tridandi Swami Srimad Bhakti Sudhir Goswami Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Sri Nityananda-shakti, Sri Jahnava Devi, and Sri Rama-shakti, Sri Sita Devi. Appearance of Tridandi Swami Srimad Bhakti Sudhir Goswami Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35386436-3931-4132-a364-643339323862
+DTSTAMP:20250508T000000Z
+DTEND;VALUE=DATE:20250509
+DTSTART;VALUE=DATE:20250508
+SUMMARY:Mohini Ekadashi. Fast (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Mohini Ekadashi. Fast (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64626137-3733-4536-a338-646463343361
+DTSTAMP:20250509T000000Z
+DTEND;VALUE=DATE:20250510
+DTSTART;VALUE=DATE:20250509
+SUMMARY:Paran between 04:11 and 09:35 (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran between 04:11 and 09:35 (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36376466-3865-4233-b937-636434636266
+DTSTAMP:20250511T000000Z
+DTEND;VALUE=DATE:20250512
+DTSTART;VALUE=DATE:20250511
+SUMMARY:Sri Nrisimha Chaturdashi: appearance day of Sri Nrisimhadev. <strong>Full fast until after sunset</strong>, then no grains (anukalpa).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Sri Nrisimha Chaturdashi: appearance day of Sri Nrisimhadev. <strong>Full fast until after sunset</strong>, then no grains (anukalpa).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34626662-6630-4330-b638-386532386132
+DTSTAMP:20250512T000000Z
+DTEND;VALUE=DATE:20250513
+DTSTART;VALUE=DATE:20250512
+SUMMARY:Sri Nrisimha Chaturdashi paran between 04:04 and 09:32 a.m. (in Yaroslavl). Sri Krishna's Phul Dol and Salila Bihar. Buddha Purnima: appearance day of Lord Buddha. Disappearance of Srila Parameshvari Das Thakur. Appearance of Srila Srinivas Acharya.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Sri Nrisimha Chaturdashi paran between 04:04 and 09:32 a.m. (in Yaroslavl). Sri Krishna's Phul Dol and Salila Bihar. Buddha Purnima: appearance day of Lord Buddha. Disappearance of Srila Parameshvari Das Thakur. Appearance of Srila Srinivas Acharya.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38396534-6538-4833-a263-653164613234
+DTSTAMP:20250513T000000Z
+DTEND;VALUE=DATE:20250514
+DTSTART;VALUE=DATE:20250513
+SUMMARY:Disappearance of Tridandi Swami Srimad Bhakti Saranga Goswami Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Tridandi Swami Srimad Bhakti Saranga Goswami Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34336431-6663-4661-b230-633765363738
+DTSTAMP:20250516T000000Z
+DTEND;VALUE=DATE:20250517
+DTSTART;VALUE=DATE:20250516
+SUMMARY:Disappearance of Srila Ramananda Ray.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Srila Ramananda Ray.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39666136-3862-4634-b137-323662346237
+DTSTAMP:20250520T000000Z
+DTEND;VALUE=DATE:20250521
+DTSTART;VALUE=DATE:20250520
+SUMMARY:Disappearance of Sripad Santosh Krishna Das Adhikari Prabhu.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Sripad Santosh Krishna Das Adhikari Prabhu.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36343231-3233-4932-a437-363933653737
+DTSTAMP:20250523T000000Z
+DTEND;VALUE=DATE:20250524
+DTSTART;VALUE=DATE:20250523
+SUMMARY:Apara Ekadashi. Fast (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Apara Ekadashi. Fast (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33643366-3534-4366-b464-643464343764
+DTSTAMP:20250524T000000Z
+DTEND;VALUE=DATE:20250525
+DTSTART;VALUE=DATE:20250524
+SUMMARY:Paran between 03:41 and 09:25 (in Yaroslavl). Appearance of Srila Vrindavan Das Thakur.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran between 03:41 and 09:25 (in Yaroslavl). Appearance of Srila Vrindavan Das Thakur.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62633564-6231-4236-b737-383262653764
+DTSTAMP:20250528T000000Z
+DTEND;VALUE=DATE:20250529
+DTSTART;VALUE=DATE:20250528
+SUMMARY:Sree Chaitanya Saraswata Krishnanushilana Sangha, Dum Dum Park, Kolkata: Sri Sri Guru Gauranga Radha Madan Mohan Jiu's installation day festival.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Sree Chaitanya Saraswata Krishnanushilana Sangha, Dum Dum Park, Kolkata: Sri Sri Guru Gauranga Radha Madan Mohan Jiu's installation day festival.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35343963-3934-4861-b134-353531353336
+DTSTAMP:20250530T000000Z
+DTEND;VALUE=DATE:20250531
+DTSTART;VALUE=DATE:20250530
+SUMMARY:Disappearance of Srila Bhakti Gaurava Giri Maharaj (Sripad Paramananda Vidyaratna Prabhu).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Srila Bhakti Gaurava Giri Maharaj (Sripad Paramananda Vidyaratna Prabhu).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63383239-3138-4666-a466-633865393264
+DTSTAMP:20250605T000000Z
+DTEND;VALUE=DATE:20250606
+DTSTART;VALUE=DATE:20250605
+SUMMARY:Dashahara. Sri Ganga Puja. Appearance of Sri Ganga Mata Goswamini. Disappearance of Srila Baladev Vidyabhushan Prabhu.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Dashahara. Sri Ganga Puja. Appearance of Sri Ganga Mata Goswamini. Disappearance of Srila Baladev Vidyabhushan Prabhu.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66613164-6538-4232-b464-313935636663
+DTSTAMP:20250606T000000Z
+DTEND;VALUE=DATE:20250607
+DTSTART;VALUE=DATE:20250606
+SUMMARY:No fast today (because next day is mahadvadashi).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:No fast today (because next day is mahadvadashi).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33313265-6561-4631-a134-313164316131
+DTSTAMP:20250607T000000Z
+DTEND;VALUE=DATE:20250608
+DTSTART;VALUE=DATE:20250607
+SUMMARY:Nirjala Ekadashi. Vyanjuli Mahadvadashi. Fast (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Nirjala Ekadashi. Vyanjuli Mahadvadashi. Fast (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:32613764-3330-4239-a665-633163626336
+DTSTAMP:20250608T000000Z
+DTEND;VALUE=DATE:20250609
+DTSTART;VALUE=DATE:20250608
+SUMMARY:Paran between 03:23 and 04:42 (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran between 03:23 and 04:42 (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36643862-6630-4134-a635-623034323335
+DTSTAMP:20250609T000000Z
+DTEND;VALUE=DATE:20250610
+DTSTART;VALUE=DATE:20250609
+SUMMARY:Grand festival of Srila Raghunath Das Goswami at Sripat Panihati.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Grand festival of Srila Raghunath Das Goswami at Sripat Panihati.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37313331-3764-4365-b161-666630636166
+DTSTAMP:20250611T000000Z
+DTEND;VALUE=DATE:20250612
+DTSTART;VALUE=DATE:20250611
+SUMMARY:Snan Yatra (bathing) of Sri Jagannathdev. Disappearance of Srila Mukunda Datta and Srila Sridhar Pandit.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Snan Yatra (bathing) of Sri Jagannathdev. Disappearance of Srila Mukunda Datta and Srila Sridhar Pandit.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37313738-3339-4431-b837-656162346237
+DTSTAMP:20250612T000000Z
+DTEND;VALUE=DATE:20250613
+DTSTART;VALUE=DATE:20250612
+SUMMARY:Disappearance of Srila Shyamananda Prabhu and Sripad Rishabdev Das Adhikari.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Srila Shyamananda Prabhu and Sripad Rishabdev Das Adhikari.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66663862-3430-4661-a536-616437386535
+DTSTAMP:20250613T000000Z
+DTEND;VALUE=DATE:20250614
+DTSTART;VALUE=DATE:20250613
+SUMMARY:Disappearance of Sri Gaurahari Bhakti Sampad Prabhu.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Sri Gaurahari Bhakti Sampad Prabhu.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:32383665-3239-4631-b632-626438616234
+DTSTAMP:20250616T000000Z
+DTEND;VALUE=DATE:20250617
+DTSTART;VALUE=DATE:20250616
+SUMMARY:Appearance of Srila Vakreshvar Pandit.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Srila Vakreshvar Pandit.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:32626664-6634-4734-b334-373533653664
+DTSTAMP:20250621T000000Z
+DTEND;VALUE=DATE:20250622
+DTSTART;VALUE=DATE:20250621
+SUMMARY:Yogini Ekadashi. Fast (in Yaroslavl). Disappearance of Sriyukta Rama Devi.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Yogini Ekadashi. Fast (in Yaroslavl). Disappearance of Sriyukta Rama Devi.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66633766-6162-4837-b964-396333636530
+DTSTAMP:20250622T000000Z
+DTEND;VALUE=DATE:20250623
+DTSTART;VALUE=DATE:20250622
+SUMMARY:Paran between 04:26 and 09:21 (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran between 04:26 and 09:21 (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63363830-6561-4436-a134-346164306565
+DTSTAMP:20250625T000000Z
+DTEND;VALUE=DATE:20250626
+DTSTART;VALUE=DATE:20250625
+SUMMARY:Disappearance of Srila Gadadhar Pandit and Srila Sachchidananda Bhakti Vinod Thakur.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Srila Gadadhar Pandit and Srila Sachchidananda Bhakti Vinod Thakur.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62396138-6530-4162-a138-346465616332
+DTSTAMP:20250626T000000Z
+DTEND;VALUE=DATE:20250627
+DTSTART;VALUE=DATE:20250626
+SUMMARY:Gundicha Marjan: cleaning at the Gundicha Temple at Sri Puri Dham, and cleaning of all Temples of the Lord.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Gundicha Marjan: cleaning at the Gundicha Temple at Sri Puri Dham, and cleaning of all Temples of the Lord.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66653230-3637-4332-a634-366539363731
+DTSTAMP:20250627T000000Z
+DTEND;VALUE=DATE:20250628
+DTSTART;VALUE=DATE:20250627
+SUMMARY:Ratha Yatra of Sri Jagannathdev. Disappearance of Srila Svarup Damodar Goswami Prabhu.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Ratha Yatra of Sri Jagannathdev. Disappearance of Srila Svarup Damodar Goswami Prabhu.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39653339-6231-4830-b963-373766653339
+DTSTAMP:20250701T000000Z
+DTEND;VALUE=DATE:20250702
+DTSTART;VALUE=DATE:20250701
+SUMMARY:Hera Panchami. Sri Sri Laksmi Vijay in Sri Puri Dham.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Hera Panchami. Sri Sri Laksmi Vijay in Sri Puri Dham.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31313961-6237-4534-b964-643839653638
+DTSTAMP:20250703T000000Z
+DTEND;VALUE=DATE:20250704
+DTSTART;VALUE=DATE:20250703
+SUMMARY:Disappearance of Sripad Ajita Krishna Brahmachari.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Sripad Ajita Krishna Brahmachari.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64303264-3462-4432-b564-353431656463
+DTSTAMP:20250705T000000Z
+DTEND;VALUE=DATE:20250706
+DTSTART;VALUE=DATE:20250705
+SUMMARY:Disappearance of Tridandi Swami Bhakti Kamal Madhusudan Maharaj. Disappearance of Sriyukta Krishnamayi Devi. Punar Yatra of Sri Jagannathdev (Return car festival). Punar Yatra of Sri Jagannathdev (Return car festival).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Tridandi Swami Bhakti Kamal Madhusudan Maharaj. Disappearance of Sriyukta Krishnamayi Devi. Punar Yatra of Sri Jagannathdev (Return car festival). Punar Yatra of Sri Jagannathdev (Return car festival).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37633935-6633-4831-b264-313833663435
+DTSTAMP:20250706T000000Z
+DTEND;VALUE=DATE:20250707
+DTSTART;VALUE=DATE:20250706
+SUMMARY:Shayan Ekadashi. Fast (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Shayan Ekadashi. Fast (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62666431-6137-4962-a164-353662393166
+DTSTAMP:20250707T000000Z
+DTEND;VALUE=DATE:20250708
+DTSTART;VALUE=DATE:20250707
+SUMMARY:Paran between 03:32 and 09:27 (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran between 03:32 and 09:27 (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63363366-3764-4230-b966-333861376565
+DTSTAMP:20250710T000000Z
+DTEND;VALUE=DATE:20250711
+DTSTART;VALUE=DATE:20250710
+SUMMARY:Sri Guru Purnima. Appearance of Srila Vyasadev. Disappearance of Srila Sanatan Goswami Prabhu. Beginning of Chaturmasya (when started on Purnima as followed in Sri Chaitanya Saraswat Math). Appearance of Tridandi Swami Srimad Bhakti Bimal Avadhut Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Sri Guru Purnima. Appearance of Srila Vyasadev. Disappearance of Srila Sanatan Goswami Prabhu. Beginning of Chaturmasya (when started on Purnima as followed in Sri Chaitanya Saraswat Math). Appearance of Tridandi Swami Srimad Bhakti Bimal Avadhut Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:32336563-6635-4531-b862-613661663563
+DTSTAMP:20250712T000000Z
+DTEND;VALUE=DATE:20250713
+DTSTART;VALUE=DATE:20250712
+SUMMARY:Disappearance of Tridandi Swami Srimad Bhakti Hriday Bon Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Tridandi Swami Srimad Bhakti Hriday Bon Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62646564-6430-4234-b934-333966646662
+DTSTAMP:20250715T000000Z
+DTEND;VALUE=DATE:20250716
+DTSTART;VALUE=DATE:20250715
+SUMMARY:Disappearance of Srila Gopal Bhatta Goswami Prabhu.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Srila Gopal Bhatta Goswami Prabhu.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61656566-3764-4137-a538-376662653331
+DTSTAMP:20250718T000000Z
+DTEND;VALUE=DATE:20250719
+DTSTART;VALUE=DATE:20250718
+SUMMARY:Disappearance of Srila Lokanath Goswami Prabhu.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Srila Lokanath Goswami Prabhu.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34653632-6365-4433-b866-353339343836
+DTSTAMP:20250721T000000Z
+DTEND;VALUE=DATE:20250722
+DTSTART;VALUE=DATE:20250721
+SUMMARY:Trisprisha Mahadvadashi. Fast (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Trisprisha Mahadvadashi. Fast (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34373135-6265-4463-a234-353963366465
+DTSTAMP:20250722T000000Z
+DTEND;VALUE=DATE:20250723
+DTSTART;VALUE=DATE:20250722
+SUMMARY:Paran between 03:56 and 09:36 (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran between 03:56 and 09:36 (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64306161-3761-4133-a265-643461656231
+DTSTAMP:20250724T000000Z
+DTEND;VALUE=DATE:20250725
+DTSTART;VALUE=DATE:20250724
+SUMMARY:Festival in honour of the disappearance of Om Vishnupad Paramahamsa Parivrajakacharya-varya Ashtottara-shata-sri Srila Bhakti Raksak Sridhar Dev-Goswami Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Festival in honour of the disappearance of Om Vishnupad Paramahamsa Parivrajakacharya-varya Ashtottara-shata-sri Srila Bhakti Raksak Sridhar Dev-Goswami Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35366338-6231-4866-b632-373265333936
+DTSTAMP:20250728T000000Z
+DTEND;VALUE=DATE:20250729
+DTSTART;VALUE=DATE:20250728
+SUMMARY:Disappearance of Srila Vamshi Das Babaji Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Srila Vamshi Das Babaji Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33383833-6663-4465-a135-323834366236
+DTSTAMP:20250730T000000Z
+DTEND;VALUE=DATE:20250731
+DTSTART;VALUE=DATE:20250730
+SUMMARY:Appearance of Tridandi Swami Srimad Bhakti Vijay Trivikram Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Tridandi Swami Srimad Bhakti Vijay Trivikram Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36616331-6139-4131-b432-343532356365
+DTSTAMP:20250731T000000Z
+DTEND;VALUE=DATE:20250801
+DTSTART;VALUE=DATE:20250731
+SUMMARY:Disappearance of Sripad Ananga Mohan Das Adhikari.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Sripad Ananga Mohan Das Adhikari.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62343234-3661-4865-b436-653833396439
+DTSTAMP:20250804T000000Z
+DTEND;VALUE=DATE:20250805
+DTSTART;VALUE=DATE:20250804
+SUMMARY:Disappearance of Tridandi Swami Bhakti Prasun Bodhayan Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Tridandi Swami Bhakti Prasun Bodhayan Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34636538-6331-4661-b831-333962613730
+DTSTAMP:20250805T000000Z
+DTEND;VALUE=DATE:20250806
+DTSTART;VALUE=DATE:20250805
+SUMMARY:Pavitraropani Ekadashi. Fast (in Yaroslavl). Beginning of Jhulan Yatra of Sri Sri Radha-Govinda and start of the one month festival of Sri Hari Smaran at Nabadwip, Sri Chaitanya Saraswat Math.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Pavitraropani Ekadashi. Fast (in Yaroslavl). Beginning of Jhulan Yatra of Sri Sri Radha-Govinda and start of the one month festival of Sri Hari Smaran at Nabadwip, Sri Chaitanya Saraswat Math.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34363536-6439-4139-b633-336432626163
+DTSTAMP:20250806T000000Z
+DTEND;VALUE=DATE:20250807
+DTSTART;VALUE=DATE:20250806
+SUMMARY:Paran between 04:26 and 09:45 (in Yaroslavl). Disappearance of Srila Rupa Goswami and Srila Gauri Das Pandit Goswami.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran between 04:26 and 09:45 (in Yaroslavl). Disappearance of Srila Rupa Goswami and Srila Gauri Das Pandit Goswami.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35316465-6230-4530-a366-393139643730
+DTSTAMP:20250809T000000Z
+DTEND;VALUE=DATE:20250810
+DTSTART;VALUE=DATE:20250809
+SUMMARY:Appearance of Sri Baladev. Fast until noon. End of Jhulan Yatra of Sri Sri Radha-Govinda.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Sri Baladev. Fast until noon. End of Jhulan Yatra of Sri Sri Radha-Govinda.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34643430-6264-4162-b338-326339656463
+DTSTAMP:20250814T000000Z
+DTEND;VALUE=DATE:20250815
+DTSTART;VALUE=DATE:20250814
+SUMMARY: Disappearance of Tridandi Swami Bhakti Vilas Tapasvi Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION: Disappearance of Tridandi Swami Bhakti Vilas Tapasvi Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65353438-3331-4262-a236-366265663736
+DTSTAMP:20250816T000000Z
+DTEND;VALUE=DATE:20250817
+DTSTART;VALUE=DATE:20250816
+SUMMARY:Sri Sri Krishna Janmashtami. Complete fast until midnight, then no grains.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Sri Sri Krishna Janmashtami. Complete fast until midnight, then no grains.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31646633-3664-4433-b561-613333646434
+DTSTAMP:20250817T000000Z
+DTEND;VALUE=DATE:20250818
+DTSTART;VALUE=DATE:20250817
+SUMMARY:Sri Nandotsav. Sri Janmashtami paran between 04:49 and 09:52 a.m. (in Yaroslavl). Appearance of Vishva-varenya Tridandi Swami Srimad Bhaktivedanta Swami Maharaj Prabhupad.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Sri Nandotsav. Sri Janmashtami paran between 04:49 and 09:52 a.m. (in Yaroslavl). Appearance of Vishva-varenya Tridandi Swami Srimad Bhaktivedanta Swami Maharaj Prabhupad.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63323532-3939-4430-a432-386639643964
+DTSTAMP:20250819T000000Z
+DTEND;VALUE=DATE:20250820
+DTSTART;VALUE=DATE:20250819
+SUMMARY:Annada Ekadashi. Fast (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Annada Ekadashi. Fast (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38393233-3762-4133-b036-303561663766
+DTSTAMP:20250820T000000Z
+DTEND;VALUE=DATE:20250821
+DTSTART;VALUE=DATE:20250820
+SUMMARY:Paran between 04:55 and 09:53 (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran between 04:55 and 09:53 (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39353736-3332-4833-b739-343466303137
+DTSTAMP:20250828T000000Z
+DTEND;VALUE=DATE:20250829
+DTSTART;VALUE=DATE:20250828
+SUMMARY:Appearance of Sri Sita Devi, the consort of Sri Advaita Prabhu.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Sri Sita Devi, the consort of Sri Advaita Prabhu.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:32633333-3331-4435-a639-386535383231
+DTSTAMP:20250830T000000Z
+DTEND;VALUE=DATE:20250831
+DTSTART;VALUE=DATE:20250830
+SUMMARY:Sri Lalita Saptami. <strong>Appearance of Sri Lalita Devi.</strong>
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Sri Lalita Saptami. <strong>Appearance of Sri Lalita Devi.</strong>
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31616238-6439-4932-a537-326537396238
+DTSTAMP:20250831T000000Z
+DTEND;VALUE=DATE:20250901
+DTSTART;VALUE=DATE:20250831
+SUMMARY:Sri Radhashtami. <strong>Srimati Radharani's appearance at noon.</strong> Fast until noon.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Sri Radhashtami. <strong>Srimati Radharani's appearance at noon.</strong> Fast until noon.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34323263-6561-4235-b533-663232613836
+DTSTAMP:20250903T000000Z
+DTEND;VALUE=DATE:20250904
+DTSTART;VALUE=DATE:20250903
+SUMMARY:Parshva Ekadashi. Fast (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Parshva Ekadashi. Fast (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61613635-6537-4762-b363-393732306365
+DTSTAMP:20250904T000000Z
+DTEND;VALUE=DATE:20250905
+DTSTART;VALUE=DATE:20250904
+SUMMARY:Paran after worshipping Lord Vamanadev and between 05:27 and 10:01 (in Yaroslavl). <strong>Appearance of Sri Vamanadev.</strong> <strong>Appearance of Srila Jiva Goswami Prabhu.</strong>
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran after worshipping Lord Vamanadev and between 05:27 and 10:01 (in Yaroslavl). <strong>Appearance of Sri Vamanadev.</strong> <strong>Appearance of Srila Jiva Goswami Prabhu.</strong>
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37333662-6236-4531-a366-616433643365
+DTSTAMP:20250905T000000Z
+DTEND;VALUE=DATE:20250906
+DTSTART;VALUE=DATE:20250905
+SUMMARY:Appearance of Srila Sachchidananda Bhakti Vinod Thakur.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Srila Sachchidananda Bhakti Vinod Thakur.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39316462-6232-4433-b836-363437323437
+DTSTAMP:20250906T000000Z
+DTEND;VALUE=DATE:20250907
+DTSTART;VALUE=DATE:20250906
+SUMMARY:Disappearance of Srila Haridas Thakur.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Srila Haridas Thakur.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37633933-6366-4862-a633-363037386437
+DTSTAMP:20250907T000000Z
+DTEND;VALUE=DATE:20250908
+DTSTART;VALUE=DATE:20250907
+SUMMARY:Vishvarup Mahotsav. End of month-long festival at Nabadwip, Sri Chaitanya Saraswat Math.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Vishvarup Mahotsav. End of month-long festival at Nabadwip, Sri Chaitanya Saraswat Math.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38316666-6639-4139-b564-323739316133
+DTSTAMP:20250909T000000Z
+DTEND;VALUE=DATE:20250910
+DTSTART;VALUE=DATE:20250909
+SUMMARY:Disappearance of Tridandi Swami Srimad Bhakti Vilas Tirtha Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Tridandi Swami Srimad Bhakti Vilas Tirtha Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31633135-3966-4665-b037-383336623733
+DTSTAMP:20250917T000000Z
+DTEND;VALUE=DATE:20250918
+DTSTART;VALUE=DATE:20250917
+SUMMARY:Indira Ekadashi. Fast (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Indira Ekadashi. Fast (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62366534-3230-4565-b438-313839363232
+DTSTAMP:20250918T000000Z
+DTEND;VALUE=DATE:20250919
+DTSTART;VALUE=DATE:20250918
+SUMMARY:Paran between 05:57 and 10:08 (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran between 05:57 and 10:08 (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63636133-6534-4839-a162-636634356430
+DTSTAMP:20250922T000000Z
+DTEND;VALUE=DATE:20250923
+DTSTART;VALUE=DATE:20250922
+SUMMARY:Appearance festival of Tridnadi Swami Srimad Bhakti Nirmal Acharya Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance festival of Tridnadi Swami Srimad Bhakti Nirmal Acharya Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64643337-3632-4662-a165-626163323766
+DTSTAMP:20250924T000000Z
+DTEND;VALUE=DATE:20250925
+DTSTART;VALUE=DATE:20250924
+SUMMARY:Disappearance of Sriyukta Radharani Devi Chaudurani.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Sriyukta Radharani Devi Chaudurani.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35373932-3833-4462-b135-356562666135
+DTSTAMP:20250925T000000Z
+DTEND;VALUE=DATE:20250926
+DTSTART;VALUE=DATE:20250925
+SUMMARY:Disappearance of Tridandi Swami Sripad Bhakti Dayita Damodar Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Tridandi Swami Sripad Bhakti Dayita Damodar Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38386430-6332-4831-b031-316436353639
+DTSTAMP:20251002T000000Z
+DTEND;VALUE=DATE:20251003
+DTSTART;VALUE=DATE:20251002
+SUMMARY:Vijay Utsav of Sri Ramachandra. Appearance of Sri Madhva Acharya
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Vijay Utsav of Sri Ramachandra. Appearance of Sri Madhva Acharya
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65363539-3439-4633-b531-353833396566
+DTSTAMP:20251003T000000Z
+DTEND;VALUE=DATE:20251004
+DTSTART;VALUE=DATE:20251003
+SUMMARY:Papankusha Ekadashi. Fast (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Papankusha Ekadashi. Fast (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:32613639-6138-4464-b730-363931636533
+DTSTAMP:20251004T000000Z
+DTEND;VALUE=DATE:20251005
+DTSTART;VALUE=DATE:20251004
+SUMMARY:Paran between 06:30 and 10:15 (in Yaroslavl). Disappearance of Srila Raghunath Das Goswami, Srila Raghunath Bhatta Goswami, and Srila Krishnadas Kaviraj Goswami.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran between 06:30 and 10:15 (in Yaroslavl). Disappearance of Srila Raghunath Das Goswami, Srila Raghunath Bhatta Goswami, and Srila Krishnadas Kaviraj Goswami.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64646238-6162-4335-a464-343638346332
+DTSTAMP:20251007T000000Z
+DTEND;VALUE=DATE:20251008
+DTSTART;VALUE=DATE:20251007
+SUMMARY:Sharadiya Rasa Yatra of Sri Krishna. Disappearance of Srila Murari Gupta. Beginning of Urja Vrata, Damodar Vrata, Kartik Vrata and Niyam-seva Vrata if begun from the purnima day, as followed in Sri Chaitanya Saraswat Math.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Sharadiya Rasa Yatra of Sri Krishna. Disappearance of Srila Murari Gupta. Beginning of Urja Vrata, Damodar Vrata, Kartik Vrata and Niyam-seva Vrata if begun from the purnima day, as followed in Sri Chaitanya Saraswat Math.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66326435-6331-4836-b266-313962613932
+DTSTAMP:20251009T000000Z
+DTEND;VALUE=DATE:20251010
+DTSTART;VALUE=DATE:20251009
+SUMMARY:Disappearance of Tridandi Swami Srimad Bhakti Srirup Puri Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Tridandi Swami Srimad Bhakti Srirup Puri Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64366461-3365-4837-a434-393364376262
+DTSTAMP:20251011T000000Z
+DTEND;VALUE=DATE:20251012
+DTSTART;VALUE=DATE:20251011
+SUMMARY:Disappearance of Srila Narottam Das Thakur.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Srila Narottam Das Thakur.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66646334-6339-4633-b539-393664346137
+DTSTAMP:20251012T000000Z
+DTEND;VALUE=DATE:20251013
+DTSTART;VALUE=DATE:20251012
+SUMMARY:Disappearance of Srila Bhakti Vichar Jajavar Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Srila Bhakti Vichar Jajavar Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35633532-3533-4337-b638-383264643636
+DTSTAMP:20251014T000000Z
+DTEND;VALUE=DATE:20251015
+DTSTART;VALUE=DATE:20251014
+SUMMARY:Bahulashtami. Manifestation day of Sri Radha Kunda. Sannyas day of Srila Bhakti Sundar Govinda Dev-Goswami Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Bahulashtami. Manifestation day of Sri Radha Kunda. Sannyas day of Srila Bhakti Sundar Govinda Dev-Goswami Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38363831-3638-4631-a661-396539616663
+DTSTAMP:20251015T000000Z
+DTEND;VALUE=DATE:20251016
+DTSTART;VALUE=DATE:20251015
+SUMMARY:The grand 131th appearance day celebration of Sri Chaitanya Saraswat Math's Founder-President-Acharya, Om Vishnupad Paramahamsa Parivrajakacharya-varya Ashtottara-shata-sri Srila Bhakti Raksak Sridhar Dev-Goswami Maharaj. Appearance of Srila Virachandra Prabhu. Disappearance of Sripad Sakhi Charan Das Babaji Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:The grand 131th appearance day celebration of Sri Chaitanya Saraswat Math's Founder-President-Acharya, Om Vishnupad Paramahamsa Parivrajakacharya-varya Ashtottara-shata-sri Srila Bhakti Raksak Sridhar Dev-Goswami Maharaj. Appearance of Srila Virachandra Prabhu. Disappearance of Sripad Sakhi Charan Das Babaji Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65613534-3038-4139-a631-353232646437
+DTSTAMP:20251017T000000Z
+DTEND;VALUE=DATE:20251018
+DTSTART;VALUE=DATE:20251017
+SUMMARY:Rama Ekadashi. Fast (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Rama Ekadashi. Fast (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31333732-6266-4938-b936-653339396231
+DTSTAMP:20251018T000000Z
+DTEND;VALUE=DATE:20251019
+DTSTART;VALUE=DATE:20251018
+SUMMARY:Paran between 07:01 and 10:23 (in Yaroslavl). Festival in honour of Sri Gauranga Mahaprabhu's auspicious arrival at Sripat Panihati.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran between 07:01 and 10:23 (in Yaroslavl). Festival in honour of Sri Gauranga Mahaprabhu's auspicious arrival at Sripat Panihati.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33613537-3938-4732-a464-633437623663
+DTSTAMP:20251020T000000Z
+DTEND;VALUE=DATE:20251021
+DTSTART;VALUE=DATE:20251020
+SUMMARY:Offering and placing of lamps (or candles) on Vishnu Mandirs.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Offering and placing of lamps (or candles) on Vishnu Mandirs.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35646235-3662-4263-b562-313636333537
+DTSTAMP:20251021T000000Z
+DTEND;VALUE=DATE:20251022
+DTSTART;VALUE=DATE:20251021
+SUMMARY:Dipavali. Offering and placing of lamps (or candles) on Vishnu Mandirs. Go Puja (cow-worship) and Go Krida (the pleasure of the cows).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Dipavali. Offering and placing of lamps (or candles) on Vishnu Mandirs. Go Puja (cow-worship) and Go Krida (the pleasure of the cows).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36323632-6437-4262-b533-326437653136
+DTSTAMP:20251022T000000Z
+DTEND;VALUE=DATE:20251023
+DTSTART;VALUE=DATE:20251022
+SUMMARY:Sri Govardhan Puja (before 15:46 in Govardhan). Grand Annakut Mahotsav ('Rice Mountain Festival') at Srila Sridhar Swami Seva Ashram in Sri Govardhan and in the Temple in Sri Gupta Govardhan.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Sri Govardhan Puja (before 15:46 in Govardhan). Grand Annakut Mahotsav ('Rice Mountain Festival') at Srila Sridhar Swami Seva Ashram in Sri Govardhan and in the Temple in Sri Gupta Govardhan.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63643265-6137-4538-a134-336439356430
+DTSTAMP:20251023T000000Z
+DTEND;VALUE=DATE:20251024
+DTSTART;VALUE=DATE:20251023
+SUMMARY:Disappearance of Srila Vasudev Ghosh Thakur. Disappearance of Tridandi Swami Srimad Bhakti Sarvasva Giri Maharaj. Bhratri Dvitiya krityam (festival where brothers and sisters honour each other).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Srila Vasudev Ghosh Thakur. Disappearance of Tridandi Swami Srimad Bhakti Sarvasva Giri Maharaj. Bhratri Dvitiya krityam (festival where brothers and sisters honour each other).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66353732-3365-4134-b139-656564663733
+DTSTAMP:20251025T000000Z
+DTEND;VALUE=DATE:20251026
+DTSTART;VALUE=DATE:20251025
+SUMMARY:Disappearance festival of Vishva-varenya Tridandi Swami Srimad Bhaktivedanta Swami Maharaj Prabhupad.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance festival of Vishva-varenya Tridandi Swami Srimad Bhaktivedanta Swami Maharaj Prabhupad.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31643438-3635-4966-b132-396433326439
+DTSTAMP:20251026T000000Z
+DTEND;VALUE=DATE:20251027
+DTSTART;VALUE=DATE:20251026
+SUMMARY:Disappearance of Tridandi Swami Srimad Bhakti Aloka Paramahamsa Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Tridandi Swami Srimad Bhakti Aloka Paramahamsa Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64386235-3837-4132-a233-393934626239
+DTSTAMP:20251029T000000Z
+DTEND;VALUE=DATE:20251030
+DTSTART;VALUE=DATE:20251029
+SUMMARY:Disappearance of Sri Gadadhar Das Goswami, Srila Dhananjay Pandit, and Srila Srinivas Acharya Prabhu. Sri Gopashtami, Sri Goshthastami, Go Puja, and Go Gras-dan.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Sri Gadadhar Das Goswami, Srila Dhananjay Pandit, and Srila Srinivas Acharya Prabhu. Sri Gopashtami, Sri Goshthastami, Go Puja, and Go Gras-dan.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:32346237-3566-4366-b239-646461313231
+DTSTAMP:20251101T000000Z
+DTEND;VALUE=DATE:20251102
+DTSTART;VALUE=DATE:20251101
+SUMMARY:Sri Utthan Ekadashi. Fast (in Yaroslavl). Disappearance of Om Vishnupad Paramahamsa Sri Srila Gaura Kishor Das Babaji Maharaj. Appearance of Tridandi Swami Srimad Bhakti Dayita Madhav Goswami Maharaj. Sri Bhishma Panchaka.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Sri Utthan Ekadashi. Fast (in Yaroslavl). Disappearance of Om Vishnupad Paramahamsa Sri Srila Gaura Kishor Das Babaji Maharaj. Appearance of Tridandi Swami Srimad Bhakti Dayita Madhav Goswami Maharaj. Sri Bhishma Panchaka.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61396564-3637-4366-a464-346638626563
+DTSTAMP:20251102T000000Z
+DTEND;VALUE=DATE:20251103
+DTSTART;VALUE=DATE:20251102
+SUMMARY:Paran between 07:35 and 10:33 (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran between 07:35 and 10:33 (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66343438-3131-4532-a633-656136306533
+DTSTAMP:20251104T000000Z
+DTEND;VALUE=DATE:20251105
+DTSTART;VALUE=DATE:20251104
+SUMMARY:Disappearance of Srila Bhugarbha Goswami and Srila Kashishvar Pandit.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Srila Bhugarbha Goswami and Srila Kashishvar Pandit.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65663336-6432-4666-a435-323061643138
+DTSTAMP:20251105T000000Z
+DTEND;VALUE=DATE:20251106
+DTSTART;VALUE=DATE:20251105
+SUMMARY:Rasa Yatra of Sri Krishna. Installation anniversary of Sri Sri Guru Gauranga Gandharva Rasa Bihari Jiu, Sri Chaitanya Saraswat Math and Mission, Sri Vrindavan. Disappearance of Srila Sundarananda Thakur. Appearance of Srila Nimbarka Acharya. End of Chaturmasya and Niyama-seva vratas when began from Purnima (as in Sri Chaitanya Saraswat Math).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Rasa Yatra of Sri Krishna. Installation anniversary of Sri Sri Guru Gauranga Gandharva Rasa Bihari Jiu, Sri Chaitanya Saraswat Math and Mission, Sri Vrindavan. Disappearance of Srila Sundarananda Thakur. Appearance of Srila Nimbarka Acharya. End of Chaturmasya and Niyama-seva vratas when began from Purnima (as in Sri Chaitanya Saraswat Math).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38383564-6565-4533-b161-636334653364
+DTSTAMP:20251111T000000Z
+DTEND;VALUE=DATE:20251112
+DTSTART;VALUE=DATE:20251111
+SUMMARY:Oran Shashthi. Grand festival for honouring the appearance of Sri Sri Nitai-Chaitanya Jiu at Sri Puri Dham, Sri Chaitanya Saraswat Math.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Oran Shashthi. Grand festival for honouring the appearance of Sri Sri Nitai-Chaitanya Jiu at Sri Puri Dham, Sri Chaitanya Saraswat Math.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64623636-6561-4334-a664-373737376364
+DTSTAMP:20251115T000000Z
+DTEND;VALUE=DATE:20251116
+DTSTART;VALUE=DATE:20251115
+SUMMARY:No fast today (because next day is mahadvadashi). Disappearance of Sriyukta Dhananjay Das Prabhu.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:No fast today (because next day is mahadvadashi). Disappearance of Sriyukta Dhananjay Das Prabhu.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36616263-6464-4565-a234-623865323465
+DTSTAMP:20251116T000000Z
+DTEND;VALUE=DATE:20251117
+DTSTART;VALUE=DATE:20251116
+SUMMARY:Paksha Varddhini Mahadvadashi. Fast (in Yaroslavl). Disappearance of Srila Narahari Sarkar Thakur and Srila Kaliya Krishnadas.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paksha Varddhini Mahadvadashi. Fast (in Yaroslavl). Disappearance of Srila Narahari Sarkar Thakur and Srila Kaliya Krishnadas.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64363865-6163-4138-b565-633964303436
+DTSTAMP:20251117T000000Z
+DTEND;VALUE=DATE:20251118
+DTSTART;VALUE=DATE:20251117
+SUMMARY:Paran between 08:09 and 10:46 (in Yaroslavl). Disappearance of Srila Saranga Thakur.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran between 08:09 and 10:46 (in Yaroslavl). Disappearance of Srila Saranga Thakur.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61313264-3238-4463-b331-653230623232
+DTSTAMP:20251120T000000Z
+DTEND;VALUE=DATE:20251121
+DTSTART;VALUE=DATE:20251120
+SUMMARY:Disappearance of Srila Jagabandhu Bhakti Ranjan.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Srila Jagabandhu Bhakti Ranjan.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:32393330-6466-4166-b761-626531343865
+DTSTAMP:20251128T000000Z
+DTEND;VALUE=DATE:20251129
+DTSTART;VALUE=DATE:20251128
+SUMMARY:Disappearance of Srila Madhusudan Das Babaji Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Srila Madhusudan Das Babaji Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38306632-3331-4932-b839-663763633865
+DTSTAMP:20251129T000000Z
+DTEND;VALUE=DATE:20251130
+DTSTART;VALUE=DATE:20251129
+SUMMARY:Appearance of Tridandi Swami Srimad Bhakti Kamal Madhusudan Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Tridandi Swami Srimad Bhakti Kamal Madhusudan Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63623233-6431-4638-b630-313731363863
+DTSTAMP:20251130T000000Z
+DTEND;VALUE=DATE:20251201
+DTSTART;VALUE=DATE:20251130
+SUMMARY:Disappearance of Tridandi Swami Srimad Bhakti Kusum Shraman Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Tridandi Swami Srimad Bhakti Kusum Shraman Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61623536-3732-4664-b234-333135616438
+DTSTAMP:20251201T000000Z
+DTEND;VALUE=DATE:20251202
+DTSTART;VALUE=DATE:20251201
+SUMMARY:Moksada Ekadashi. Fast (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Moksada Ekadashi. Fast (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61396634-3334-4662-b237-343639623166
+DTSTAMP:20251202T000000Z
+DTEND;VALUE=DATE:20251203
+DTSTART;VALUE=DATE:20251202
+SUMMARY:Paran between 08:39 and 09:42 (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran between 08:39 and 09:42 (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34346135-3536-4466-b266-663661343938
+DTSTAMP:20251206T000000Z
+DTEND;VALUE=DATE:20251207
+DTSTART;VALUE=DATE:20251206
+SUMMARY:The grand 97th appearance day celebration of Sri Chaitanya Saraswat Math's Sevaite-President-Acharya, Om Vishnupad Paramahamsa Parivrajakacharya Sri Srimad Bhakti Sundar Govinda Dev-Goswami Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:The grand 97th appearance day celebration of Sri Chaitanya Saraswat Math's Sevaite-President-Acharya, Om Vishnupad Paramahamsa Parivrajakacharya Sri Srimad Bhakti Sundar Govinda Dev-Goswami Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65356162-3265-4861-b434-353961336364
+DTSTAMP:20251207T000000Z
+DTEND;VALUE=DATE:20251208
+DTSTART;VALUE=DATE:20251207
+SUMMARY:Festivals at the appearance place of Srila B.S. Govinda Dev-Goswami Maharaj and his youth Pastimes place: Bamunpara and Nandan Ghat.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Festivals at the appearance place of Srila B.S. Govinda Dev-Goswami Maharaj and his youth Pastimes place: Bamunpara and Nandan Ghat.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31616438-3761-4437-b132-343263313964
+DTSTAMP:20251208T000000Z
+DTEND;VALUE=DATE:20251209
+DTSTART;VALUE=DATE:20251208
+SUMMARY:Disappearance festival of the founder of the Sri Chaitanya Math and worldwide Sri Gaudiya Maths, Bhagavan Sri Srila Bhakti Siddhanta Saraswati Goswami Prabhupad.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance festival of the founder of the Sri Chaitanya Math and worldwide Sri Gaudiya Maths, Bhagavan Sri Srila Bhakti Siddhanta Saraswati Goswami Prabhupad.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63613736-3137-4261-b562-653339393434
+DTSTAMP:20251215T000000Z
+DTEND;VALUE=DATE:20251216
+DTSTART;VALUE=DATE:20251215
+SUMMARY:Saphala Ekadashi. Fast (in Yaroslavl). Disappearance of Srila Devananda Pandit and Srimad Bhakti Prakash Aranya Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Saphala Ekadashi. Fast (in Yaroslavl). Disappearance of Srila Devananda Pandit and Srimad Bhakti Prakash Aranya Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37383632-3931-4237-b535-306231363439
+DTSTAMP:20251216T000000Z
+DTEND;VALUE=DATE:20251217
+DTSTART;VALUE=DATE:20251216
+SUMMARY:Paran between 08:58 and 11:09 (in Yaroslavl). Disappearance of Sripad Bhakti Bhudev Shrauti Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran between 08:58 and 11:09 (in Yaroslavl). Disappearance of Sripad Bhakti Bhudev Shrauti Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62653635-6639-4031-b435-666436356464
+DTSTAMP:20251217T000000Z
+DTEND;VALUE=DATE:20251218
+DTSTART;VALUE=DATE:20251217
+SUMMARY:Disappearance of Srila Mahesh Pandit and Srila Uddharan Das Thakur.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Srila Mahesh Pandit and Srila Uddharan Das Thakur.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37333439-6433-4531-a232-333635373261
+DTSTAMP:20251221T000000Z
+DTEND;VALUE=DATE:20251222
+DTSTART;VALUE=DATE:20251221
+SUMMARY:Appearance of Srila Lochan Das Thakur.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Srila Lochan Das Thakur.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:32386565-3336-4363-a135-643537613864
+DTSTAMP:20251223T000000Z
+DTEND;VALUE=DATE:20251224
+DTSTART;VALUE=DATE:20251223
+SUMMARY:Disappearance of Srila Jiva Goswami Prabhu. Disappearance of Srila Jagadish Pandit.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Srila Jiva Goswami Prabhu. Disappearance of Srila Jagadish Pandit.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31313130-3332-4965-a132-323631376165
+DTSTAMP:20251230T000000Z
+DTEND;VALUE=DATE:20251231
+DTSTART;VALUE=DATE:20251230
+SUMMARY:Putrada Ekadashi. Fast (in Yaroslavl). Appearance of Srila Jagadish Pandit.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Putrada Ekadashi. Fast (in Yaroslavl). Appearance of Srila Jagadish Pandit.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33633964-6462-4532-b835-313532313634
+DTSTAMP:20251231T000000Z
+DTEND;VALUE=DATE:20260101
+DTSTART;VALUE=DATE:20251231
+SUMMARY:Paran between 09:03 and 11:16 (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran between 09:03 and 11:16 (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64323435-6566-4736-b736-623862663136
+DTSTAMP:20260103T000000Z
+DTEND;VALUE=DATE:20260104
+DTSTART;VALUE=DATE:20260103
+SUMMARY:Pushyabhisheka Yatra of Sri Krishna. Disappearance of Sripad Bhakti Sharan Vaisnava Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Pushyabhisheka Yatra of Sri Krishna. Disappearance of Sripad Bhakti Sharan Vaisnava Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66316462-3965-4635-b935-373864616664
+DTSTAMP:20260106T000000Z
+DTEND;VALUE=DATE:20260107
+DTSTART;VALUE=DATE:20260106
+SUMMARY:Appearance of Srila Gopal Bhatta Goswami Prabhu. Disappearance of Srila Ramachandra Kaviraj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Srila Gopal Bhatta Goswami Prabhu. Disappearance of Srila Ramachandra Kaviraj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31663762-3865-4533-b531-346332376239
+DTSTAMP:20260107T000000Z
+DTEND;VALUE=DATE:20260108
+DTSTART;VALUE=DATE:20260107
+SUMMARY:Disappearance of Sripad Yadavendu Bhakti Chandan.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Sripad Yadavendu Bhakti Chandan.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38643835-6462-4235-b139-633664333665
+DTSTAMP:20260109T000000Z
+DTEND;VALUE=DATE:20260110
+DTSTART;VALUE=DATE:20260109
+SUMMARY:Disappearance of Srila Jayadev Goswami.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Srila Jayadev Goswami.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39623864-3666-4561-a233-643930666433
+DTSTAMP:20260111T000000Z
+DTEND;VALUE=DATE:20260112
+DTSTART;VALUE=DATE:20260111
+SUMMARY:Disappearance of Srila Lochan Das Thakur.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Srila Lochan Das Thakur.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66363430-3565-4631-a339-346262623936
+DTSTAMP:20260113T000000Z
+DTEND;VALUE=DATE:20260114
+DTSTART;VALUE=DATE:20260113
+SUMMARY:Sriman Mahaprabhu leaves Nabadwip in the night to go to Katwa to take sannyas.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Sriman Mahaprabhu leaves Nabadwip in the night to go to Katwa to take sannyas.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65633535-6164-4333-a561-643938326638
+DTSTAMP:20260114T000000Z
+DTEND;VALUE=DATE:20260115
+DTSTART;VALUE=DATE:20260114
+SUMMARY:Shat-tila Ekadashi. Fast (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Shat-tila Ekadashi. Fast (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63303861-3761-4436-b732-383536393033
+DTSTAMP:20260115T000000Z
+DTEND;VALUE=DATE:20260116
+DTSTART;VALUE=DATE:20260115
+SUMMARY:Paran between 08:51 and 11:16 (in Yaroslavl). Remembrance of Sriman Mahaprabhu's sannyas-lila.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran between 08:51 and 11:16 (in Yaroslavl). Remembrance of Sriman Mahaprabhu's sannyas-lila.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38653334-3135-4937-a130-313235646137
+DTSTAMP:20260119T000000Z
+DTEND;VALUE=DATE:20260120
+DTSTART;VALUE=DATE:20260119
+SUMMARY:Disappearance of Tridandi Swami Srimad Bhakti Gaurava Vaikhanas Maharaj. Disappearance of Sri Haripada Chaudhuri Das Adhikari.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Tridandi Swami Srimad Bhakti Gaurava Vaikhanas Maharaj. Disappearance of Sri Haripada Chaudhuri Das Adhikari.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31353166-3534-4461-a234-666332633337
+DTSTAMP:20260120T000000Z
+DTEND;VALUE=DATE:20260121
+DTSTART;VALUE=DATE:20260120
+SUMMARY:Disappearance of Tridandi Swami Srimad Bhakti Sharan Shanta Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Tridandi Swami Srimad Bhakti Sharan Shanta Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37633937-6536-4136-a234-623538316361
+DTSTAMP:20260122T000000Z
+DTEND;VALUE=DATE:20260123
+DTSTART;VALUE=DATE:20260122
+SUMMARY:Appearance of Tridandi Swami Srimad Bhakti Pavan Janardan Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Tridandi Swami Srimad Bhakti Pavan Janardan Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31396365-6639-4938-a434-363761373962
+DTSTAMP:20260123T000000Z
+DTEND;VALUE=DATE:20260124
+DTSTART;VALUE=DATE:20260123
+SUMMARY:Sri Krishna Vasanta Panchami. Appearance day of Sri Vishnu Priya Devi. Appearance of Srila Pundarik Vidyanidhi, Srila Raghunath Das Goswami, and Srila Raghunandan Thakur. Disappearance of Srila Visvanath Chakravarti Thakur, Tridandi Swami Srimad Bhakti Viveka Bharati Maharaj, and Tridandi Swami Srimad Bhakti Svarup Parvat Maharaj. Sri Saraswati Puja.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Sri Krishna Vasanta Panchami. Appearance day of Sri Vishnu Priya Devi. Appearance of Srila Pundarik Vidyanidhi, Srila Raghunath Das Goswami, and Srila Raghunandan Thakur. Disappearance of Srila Visvanath Chakravarti Thakur, Tridandi Swami Srimad Bhakti Viveka Bharati Maharaj, and Tridandi Swami Srimad Bhakti Svarup Parvat Maharaj. Sri Saraswati Puja.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39643537-6636-4830-b636-346237663639
+DTSTAMP:20260125T000000Z
+DTEND;VALUE=DATE:20260126
+DTSTART;VALUE=DATE:20260125
+SUMMARY:Appearance of Mahavishnu Avatar, Sri Advaita Acharya. Fast until noon..
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Mahavishnu Avatar, Sri Advaita Acharya. Fast until noon..
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62636235-6266-4334-b739-386465653832
+DTSTAMP:20260126T000000Z
+DTEND;VALUE=DATE:20260127
+DTSTART;VALUE=DATE:20260126
+SUMMARY:Disappearance of Sripad Virendra Krishna Prabhu.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Sripad Virendra Krishna Prabhu.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64376263-6134-4533-a461-656531343862
+DTSTAMP:20260127T000000Z
+DTEND;VALUE=DATE:20260128
+DTSTART;VALUE=DATE:20260127
+SUMMARY:Disappearance of Srila Madhva Acharya.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Srila Madhva Acharya.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33653330-6538-4334-b434-313038613933
+DTSTAMP:20260128T000000Z
+DTEND;VALUE=DATE:20260129
+DTSTART;VALUE=DATE:20260128
+SUMMARY:Disappearance of Srila Ramanuja Acharya.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Srila Ramanuja Acharya.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31656665-3864-4338-a365-336663643865
+DTSTAMP:20260129T000000Z
+DTEND;VALUE=DATE:20260130
+DTSTART;VALUE=DATE:20260129
+SUMMARY:Trisprisha Mahadvadashi. Fast (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Trisprisha Mahadvadashi. Fast (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39626263-6136-4665-b066-356166386565
+DTSTAMP:20260130T000000Z
+DTEND;VALUE=DATE:20260131
+DTSTART;VALUE=DATE:20260130
+SUMMARY:Paran after worshipping Lord Varahadev and between 08:26 and 11:11 (in Yaroslavl). Varaha Dvadashi. <strong>Appearance of Lord Varaha.</strong>
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran after worshipping Lord Varahadev and between 08:26 and 11:11 (in Yaroslavl). Varaha Dvadashi. <strong>Appearance of Lord Varaha.</strong>
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35393665-6537-4166-b731-616231356539
+DTSTAMP:20260131T000000Z
+DTEND;VALUE=DATE:20260201
+DTSTART;VALUE=DATE:20260131
+SUMMARY:Appearance of Sri Nityananda Prabhu. <strong>Fast until noon.</strong> Grand festival and installation anniversary of Sri Sri Guru Gaura Nityananda Jiu at Sree Chaitanya Saraswata Krishnanushilana Sangha, Ekachakra Dham.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Sri Nityananda Prabhu. <strong>Fast until noon.</strong> Grand festival and installation anniversary of Sri Sri Guru Gaura Nityananda Jiu at Sree Chaitanya Saraswata Krishnanushilana Sangha, Ekachakra Dham.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:32646231-3337-4939-a430-326663323362
+DTSTAMP:20260201T000000Z
+DTEND;VALUE=DATE:20260202
+DTSTART;VALUE=DATE:20260201
+SUMMARY:Sri Krishna's Madhurotsav. Appearance of Srila Narottam Das Thakur.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Sri Krishna's Madhurotsav. Appearance of Srila Narottam Das Thakur.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39336231-6439-4364-b966-333363353365
+DTSTAMP:20260204T000000Z
+DTEND;VALUE=DATE:20260205
+DTSTART;VALUE=DATE:20260204
+SUMMARY:Disappearance of Tridandi Swami Sripad Bhakti Premik Siddhanti Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Tridandi Swami Sripad Bhakti Premik Siddhanti Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36316339-6438-4531-b861-646666626432
+DTSTAMP:20260206T000000Z
+DTEND;VALUE=DATE:20260207
+DTSTART;VALUE=DATE:20260206
+SUMMARY:The 153th divine appearance festival of the founder of the Sri Chaitanya Math and worldwide Sri Gaudiya Maths, Bhagavan Sri Srila Bhakti Siddhanta Saraswati Goswami Prabhupad. Anniversary festival of the installation of Sri Gupta Govardhan Sri Mandir, Sri Govinda Kunda, Nabadwip. Disappearance of Srila Purushottam Thakur.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:The 153th divine appearance festival of the founder of the Sri Chaitanya Math and worldwide Sri Gaudiya Maths, Bhagavan Sri Srila Bhakti Siddhanta Saraswati Goswami Prabhupad. Anniversary festival of the installation of Sri Gupta Govardhan Sri Mandir, Sri Govinda Kunda, Nabadwip. Disappearance of Srila Purushottam Thakur.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34336230-3765-4765-a435-643262643837
+DTSTAMP:20260207T000000Z
+DTEND;VALUE=DATE:20260208
+DTSTART;VALUE=DATE:20260207
+SUMMARY:Appearance of Tridandi Swami Srimad Bhakti Saranga Goswami Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Tridandi Swami Srimad Bhakti Saranga Goswami Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36393739-6266-4162-b938-376334343936
+DTSTAMP:20260213T000000Z
+DTEND;VALUE=DATE:20260214
+DTSTART;VALUE=DATE:20260213
+SUMMARY:Vijaya Ekadashi. Fast (in Yaroslavl). Disappearance of Sripad Krishna Govinda Das Adhikari.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Vijaya Ekadashi. Fast (in Yaroslavl). Disappearance of Sripad Krishna Govinda Das Adhikari.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64623463-3962-4538-a462-393939393362
+DTSTAMP:20260214T000000Z
+DTEND;VALUE=DATE:20260215
+DTSTART;VALUE=DATE:20260214
+SUMMARY:Paran between 07:53 and 11:00 (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran between 07:53 and 11:00 (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38356531-6462-4231-b761-383064623365
+DTSTAMP:20260216T000000Z
+DTEND;VALUE=DATE:20260217
+DTSTART;VALUE=DATE:20260216
+SUMMARY:Sri Sri Shivaratri (optional fast). Disappearance of Sripad Yudhamanyu Prabhu Seva Vikram.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Sri Sri Shivaratri (optional fast). Disappearance of Sripad Yudhamanyu Prabhu Seva Vikram.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62346134-3631-4437-b431-326231653333
+DTSTAMP:20260217T000000Z
+DTEND;VALUE=DATE:20260218
+DTSTART;VALUE=DATE:20260217
+SUMMARY:Anniversary festival of the installation of Sri Sadashiva Gangadhar, Sri Govinda Kunda, Nabadwip.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Anniversary festival of the installation of Sri Sadashiva Gangadhar, Sri Govinda Kunda, Nabadwip.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31316238-3330-4663-b163-326331326135
+DTSTAMP:20260218T000000Z
+DTEND;VALUE=DATE:20260219
+DTSTART;VALUE=DATE:20260218
+SUMMARY:Disappearance of Vaishnava Sarvabhauma Srila Jagannath Das Babaji Maharaj, Srila Rasikananda Dev Goswami, and Tridandi Swami Srimad Bhakti Dayita Madhav Maharaj. 
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Vaishnava Sarvabhauma Srila Jagannath Das Babaji Maharaj, Srila Rasikananda Dev Goswami, and Tridandi Swami Srimad Bhakti Dayita Madhav Maharaj. 
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35323331-3130-4139-a163-393162616232
+DTSTAMP:20260219T000000Z
+DTEND;VALUE=DATE:20260220
+DTSTART;VALUE=DATE:20260219
+SUMMARY:Appearance of Srila Bhakti Kusum Ashram Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Srila Bhakti Kusum Ashram Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36363535-3662-4432-a337-623834656434
+DTSTAMP:20260220T000000Z
+DTEND;VALUE=DATE:20260221
+DTSTART;VALUE=DATE:20260220
+SUMMARY:Sri Sri Guru Gauranga Gandharva Radha Ramanasundar Jiu installation anniversary festival, at Sree Chaitanya Saraswata Krishnanushilana Sangha, Kaikhali, Kolkata.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Sri Sri Guru Gauranga Gandharva Radha Ramanasundar Jiu installation anniversary festival, at Sree Chaitanya Saraswata Krishnanushilana Sangha, Kaikhali, Kolkata.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64643939-3437-4737-a335-313139643235
+DTSTAMP:20260221T000000Z
+DTEND;VALUE=DATE:20260222
+DTSTART;VALUE=DATE:20260221
+SUMMARY:Appearance of Srila Purushottam Thakur. Disappearance of Sripad Tulasidas Das Adhikari Prabhu.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Srila Purushottam Thakur. Disappearance of Sripad Tulasidas Das Adhikari Prabhu.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35666435-3963-4232-a139-383361663835
+DTSTAMP:20260222T000000Z
+DTEND;VALUE=DATE:20260223
+DTSTART;VALUE=DATE:20260222
+SUMMARY:Disappearance of Sriyukta Tarangini Devi.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Sriyukta Tarangini Devi.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62343538-3862-4336-a633-343162303963
+DTSTAMP:20260226T000000Z
+DTEND;VALUE=DATE:20260227
+DTSTART;VALUE=DATE:20260226
+SUMMARY:Adhivas festival of    Sri Nabadwip Dham Parikrama.  Beginning of annual seven day festival.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Adhivas festival of    Sri Nabadwip Dham Parikrama.  Beginning of annual seven day festival.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64393339-6233-4562-a265-353135373934
+DTSTAMP:20260227T000000Z
+DTEND;VALUE=DATE:20260228
+DTSTART;VALUE=DATE:20260227
+SUMMARY:Amalaki Ekadashi. Fast (in Yaroslavl).  Sri Nabadwip Dham Parikrama begins. Parikrama of Sri Ishodyan, Sri Yoga Pith (Sriman Mahaprabhu's appearance place), Srivas Angan, Sri Nrisimha Mandir, Sri Advaita Bhavan, Murari Gupta Bhavan, Sri Chaitanya Math, the Temple of Sri Sri Gandharvika-Giridhari and Sriman Mahaprabhu surrounded by the Acharyas of the four Vaishnava sampradayas, Srila Prabhupad's Samadhi Mandir, Srila Gaura Kishor Das Babaji Maharaj's Samadhi, Sri Kazi Samadhi, Sharadanga Sri Jagannath Mandir, Sridhar Angan, and Sri Antardwip.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Amalaki Ekadashi. Fast (in Yaroslavl).  Sri Nabadwip Dham Parikrama begins. Parikrama of Sri Ishodyan, Sri Yoga Pith (Sriman Mahaprabhu's appearance place), Srivas Angan, Sri Nrisimha Mandir, Sri Advaita Bhavan, Murari Gupta Bhavan, Sri Chaitanya Math, the Temple of Sri Sri Gandharvika-Giridhari and Sriman Mahaprabhu surrounded by the Acharyas of the four Vaishnava sampradayas, Srila Prabhupad's Samadhi Mandir, Srila Gaura Kishor Das Babaji Maharaj's Samadhi, Sri Kazi Samadhi, Sharadanga Sri Jagannath Mandir, Sridhar Angan, and Sri Antardwip.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66663764-3161-4837-b932-653039353738
+DTSTAMP:20260228T000000Z
+DTEND;VALUE=DATE:20260301
+DTSTART;VALUE=DATE:20260228
+SUMMARY:Paran between 07:17 and 10:47 (in Yaroslavl). Parikrama of Praudha Maya, Vriddha Shiva, Sri Vishnu Priya's Deity of Sri Gauranga, Sri Jagannath Das Babaji Maharaj's Samadhi Mandir, Sri Koladwip, and other places. Disappearance of Sripad Madhavendra Puri.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran between 07:17 and 10:47 (in Yaroslavl). Parikrama of Praudha Maya, Vriddha Shiva, Sri Vishnu Priya's Deity of Sri Gauranga, Sri Jagannath Das Babaji Maharaj's Samadhi Mandir, Sri Koladwip, and other places. Disappearance of Sripad Madhavendra Puri.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33383639-3538-4363-a130-313737646232
+DTSTAMP:20260301T000000Z
+DTEND;VALUE=DATE:20260302
+DTSTART;VALUE=DATE:20260301
+SUMMARY:Parikrama of Sri Godrumadwip and Madhyadwip, Sri Surabhi Kunj, Suvarna Bihar Math, Sri Nrisimha Palli, Sri Harihara Ksetra, and other places.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Parikrama of Sri Godrumadwip and Madhyadwip, Sri Surabhi Kunj, Suvarna Bihar Math, Sri Nrisimha Palli, Sri Harihara Ksetra, and other places.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64393561-6531-4265-b561-396462383837
+DTSTAMP:20260302T000000Z
+DTEND;VALUE=DATE:20260303
+DTSTART;VALUE=DATE:20260302
+SUMMARY:Adhivas observance ceremony of the appearance of Sri Gauranga. Parikrama of Sri Koladwip, Sri Ritudwip, Sri Jahnudwip, Sri Modadrumadwip, Old Sri Sri Gaura-Gadadhar Mandir, Vidya Nagar Sarvabhauma Gaudiya Math, Srila Vrindavan Das Thakur's appearance place, and the Deity served by Sri Saranga Murari and Vasudev Datta Thakur.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Adhivas observance ceremony of the appearance of Sri Gauranga. Parikrama of Sri Koladwip, Sri Ritudwip, Sri Jahnudwip, Sri Modadrumadwip, Old Sri Sri Gaura-Gadadhar Mandir, Vidya Nagar Sarvabhauma Gaudiya Math, Srila Vrindavan Das Thakur's appearance place, and the Deity served by Sri Saranga Murari and Vasudev Datta Thakur.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62626562-3761-4164-b762-363866646634
+DTSTAMP:20260303T000000Z
+DTEND;VALUE=DATE:20260304
+DTSTART;VALUE=DATE:20260303
+SUMMARY:Sri Gauravirbhava Paurnamasi. Sri Gaura Purnima. Divine appearance of Sri Gauranga. <strong>Total fast until moonrise,</strong> then no grains. Grand festival at Sri Chaitanya Saraswat Math. Vasantotsav and Dol Yatra of Sri Sri Radha-Govinda. Special offering of worship and arati. Sri Chaitanya-charitamrita reading and mahasankirtan. End of year 540 Gaurabda.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Sri Gauravirbhava Paurnamasi. Sri Gaura Purnima. Divine appearance of Sri Gauranga. <strong>Total fast until moonrise,</strong> then no grains. Grand festival at Sri Chaitanya Saraswat Math. Vasantotsav and Dol Yatra of Sri Sri Radha-Govinda. Special offering of worship and arati. Sri Chaitanya-charitamrita reading and mahasankirtan. End of year 540 Gaurabda.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33623734-3633-4136-b539-663331393533
+DTSTAMP:20260304T000000Z
+DTEND;VALUE=DATE:20260305
+DTSTART;VALUE=DATE:20260304
+SUMMARY:Sri Gaura Purnima paran between 07:06 and 10:43 a.m. (in Yaroslavl). <strong>Anandotsav of Sri Jagannath Mishra.</strong> Last gathering of the week-long yearly meeting at Sri Chaitanya Saraswat Math and yearly festival. Start of year 541 Gaurabda.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Sri Gaura Purnima paran between 07:06 and 10:43 a.m. (in Yaroslavl). <strong>Anandotsav of Sri Jagannath Mishra.</strong> Last gathering of the week-long yearly meeting at Sri Chaitanya Saraswat Math and yearly festival. Start of year 541 Gaurabda.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37373766-6233-4534-b264-643239353265
+DTSTAMP:20260308T000000Z
+DTEND;VALUE=DATE:20260309
+DTSTART;VALUE=DATE:20260308
+SUMMARY:Festival at the appearance place of Srila Bhakti Raksak Sridhar Dev-Goswami Maharaj, Sripat Hapaniya:  grand appearance of the Holy Deities of Sripat Hapaniya, Sri Sri Guru Gauranga Radha Gopinath Jiu at Sri Chaitanya Saraswat Ashram. Appearance of Tridandi Swami Srimad Bhakti Sharan Shanta Maharaj. Pancham Dol.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Festival at the appearance place of Srila Bhakti Raksak Sridhar Dev-Goswami Maharaj, Sripat Hapaniya:  grand appearance of the Holy Deities of Sripat Hapaniya, Sri Sri Guru Gauranga Radha Gopinath Jiu at Sri Chaitanya Saraswat Ashram. Appearance of Tridandi Swami Srimad Bhakti Sharan Shanta Maharaj. Pancham Dol.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33613437-6137-4663-b366-333336636661
+DTSTAMP:20260311T000000Z
+DTEND;VALUE=DATE:20260312
+DTSTART;VALUE=DATE:20260311
+SUMMARY:Appearance of Srila Srivas Pandit.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Srila Srivas Pandit.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39313239-6562-4564-b035-636461373437
+DTSTAMP:20260312T000000Z
+DTEND;VALUE=DATE:20260313
+DTSTART;VALUE=DATE:20260312
+SUMMARY:Disappearance of Tridandi Swami Srimad Bhakti Vigraha Bhiksu Goswami Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Tridandi Swami Srimad Bhakti Vigraha Bhiksu Goswami Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34303563-6136-4537-a231-303364396665
+DTSTAMP:20260314T000000Z
+DTEND;VALUE=DATE:20260315
+DTSTART;VALUE=DATE:20260314
+SUMMARY:Papa Vimochani Ekadashi. Fast (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Papa Vimochani Ekadashi. Fast (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66336566-6232-4364-b932-306634646565
+DTSTAMP:20260315T000000Z
+DTEND;VALUE=DATE:20260316
+DTSTART;VALUE=DATE:20260315
+SUMMARY:Paran between 10:58 and 18:23 (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran between 10:58 and 18:23 (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31343761-3431-4634-a538-323331326637
+DTSTAMP:20260316T000000Z
+DTEND;VALUE=DATE:20260317
+DTSTART;VALUE=DATE:20260316
+SUMMARY:Festival in honour of Sriman Mahaprabhu's auspicious arrival at Varaha Nagar. Disappearance of Srila Govinda Ghosh Thakur. Disappearance of Sripad Satyendrachandra Bhattacharya Mahoday.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Festival in honour of Sriman Mahaprabhu's auspicious arrival at Varaha Nagar. Disappearance of Srila Govinda Ghosh Thakur. Disappearance of Sripad Satyendrachandra Bhattacharya Mahoday.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34336236-6533-4234-a238-383663623634
+DTSTAMP:20260323T000000Z
+DTEND;VALUE=DATE:20260324
+DTSTART;VALUE=DATE:20260323
+SUMMARY:Appearance of Sripad Ramanuja Acharya and Tridandi Swami Srimad Bhakti Hriday Bon Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Sripad Ramanuja Acharya and Tridandi Swami Srimad Bhakti Hriday Bon Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33303236-3831-4263-b230-613962666461
+DTSTAMP:20260325T000000Z
+DTEND;VALUE=DATE:20260326
+DTSTART;VALUE=DATE:20260325
+SUMMARY:Appearance of Tridandi Swami Srimad Bhakti Vilas Tirtha Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Appearance of Tridandi Swami Srimad Bhakti Vilas Tirtha Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38353733-3431-4762-b730-333032656134
+DTSTAMP:20260327T000000Z
+DTEND;VALUE=DATE:20260328
+DTSTART;VALUE=DATE:20260327
+SUMMARY:Sri Rama Navami.Appearance at noon of Sri Ramachandra. Fast until noon.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Sri Rama Navami.Appearance at noon of Sri Ramachandra. Fast until noon.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39323338-3136-4562-b731-633231356263
+DTSTAMP:20260328T000000Z
+DTEND;VALUE=DATE:20260329
+DTSTART;VALUE=DATE:20260328
+SUMMARY:Trisprisha Mahadvadashi. Fast (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Trisprisha Mahadvadashi. Fast (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61633564-3565-4962-b439-366333363661
+DTSTAMP:20260329T000000Z
+DTEND;VALUE=DATE:20260330
+DTSTART;VALUE=DATE:20260329
+SUMMARY:Paran between 05:08 and 18:53 (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran between 05:08 and 18:53 (in Yaroslavl).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61613732-6634-4434-b831-643831646263
+DTSTAMP:20260330T000000Z
+DTEND;VALUE=DATE:20260331
+DTSTART;VALUE=DATE:20260330
+SUMMARY:Festival in honour of the disappearance of Om Vishnupad Paramahamsa Parivrajakacharya-varya Ashtottara-shata-sri Srila Bhakti Sundar Govinda Dev-Goswami Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Festival in honour of the disappearance of Om Vishnupad Paramahamsa Parivrajakacharya-varya Ashtottara-shata-sri Srila Bhakti Sundar Govinda Dev-Goswami Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64396363-3531-4865-b336-396133666362
+DTSTAMP:20260402T000000Z
+DTEND;VALUE=DATE:20260403
+DTSTART;VALUE=DATE:20260402
+SUMMARY:Vasanta Rasa of Sri Krishna. Rasa Yatra of Sri Balaram. Appearance of Srila Vamshi Vadanananda Thakur and Srila Shyamananda Prabhu.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Vasanta Rasa of Sri Krishna. Rasa Yatra of Sri Balaram. Appearance of Srila Vamshi Vadanananda Thakur and Srila Shyamananda Prabhu.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36336163-6362-4234-b430-313436643539
+DTSTAMP:20260407T000000Z
+DTEND;VALUE=DATE:20260408
+DTSTART;VALUE=DATE:20260407
+SUMMARY:Disappearance of Sripad Krishnadas Babaji Maharaj.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Sripad Krishnadas Babaji Maharaj.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66326164-3330-4961-b235-616262326435
+DTSTAMP:20260409T000000Z
+DTEND;VALUE=DATE:20260410
+DTSTART;VALUE=DATE:20260409
+SUMMARY:Disappearance of Srila Abhiram Thakur.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Srila Abhiram Thakur.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37323332-3534-4136-b465-326639313133
+DTSTAMP:20260412T000000Z
+DTEND;VALUE=DATE:20260413
+DTSTART;VALUE=DATE:20260412
+SUMMARY:Disappearance of Srila Vrindavan Das Thakur.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Disappearance of Srila Vrindavan Das Thakur.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61643237-6439-4632-b361-633538306531
+DTSTAMP:20260413T000000Z
+DTEND;VALUE=DATE:20260414
+DTSTART;VALUE=DATE:20260413
+SUMMARY:Varuthini Ekadashi. Fast (in Yaroslavl). Disappearance of Sriyukta Saurindranath Bhakti Varidhi Prabhu.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Varuthini Ekadashi. Fast (in Yaroslavl). Disappearance of Sriyukta Saurindranath Bhakti Varidhi Prabhu.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33663337-3331-4435-a634-396663626262
+DTSTAMP:20260414T000000Z
+DTEND;VALUE=DATE:20260415
+DTSTART;VALUE=DATE:20260414
+SUMMARY:Paran between 05:13 and 09:58 (in Yaroslavl).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Paran between 05:13 and 09:58 (in Yaroslavl).
+END:VALARM
+END:VEVENT
+END:VCALENDAR

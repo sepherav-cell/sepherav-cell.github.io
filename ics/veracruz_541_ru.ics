@@ -1,0 +1,2747 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME: 2026/2027 год (541 эры Гаурабда)
+PRODID:-//Raku
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:66303938-3134-4364-a666-653662343231
+DTSTAMP:20260106T000000Z
+DTEND;VALUE=DATE:20260107
+DTSTART;VALUE=DATE:20260106
+SUMMARY:День явления Шрилы Гопала Бхатты Госвами Прабху. День ухода Шрилы Рамачандры Кавираджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Шрилы Гопала Бхатты Госвами Прабху. День ухода Шрилы Рамачандры Кавираджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64356662-6635-4163-b262-353239383833
+DTSTAMP:20260107T000000Z
+DTEND;VALUE=DATE:20260108
+DTSTART;VALUE=DATE:20260107
+SUMMARY:День ухода Шрипада Ядавенду Бхакти Чандана.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрипада Ядавенду Бхакти Чандана.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66653961-6163-4733-a338-343639303439
+DTSTAMP:20260109T000000Z
+DTEND;VALUE=DATE:20260110
+DTSTART;VALUE=DATE:20260109
+SUMMARY:День ухода Шрилы Джаядева Госвами.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрилы Джаядева Госвами.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62386136-3336-4236-a330-643561396465
+DTSTAMP:20260111T000000Z
+DTEND;VALUE=DATE:20260112
+DTSTART;VALUE=DATE:20260111
+SUMMARY:День ухода Шрилы Лочана даса Тхакура.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрилы Лочана даса Тхакура.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62303363-3332-4532-b736-346262626264
+DTSTAMP:20260113T000000Z
+DTEND;VALUE=DATE:20260114
+DTSTART;VALUE=DATE:20260113
+SUMMARY:Экадаши, но нет поста (поскольку завтра махадвадаши). Шриман Махапрабху ночью покидает Навадвип и отправляется в Катву, чтобы принять <i>санньясу</i> (День, в который Махапрабху покидает дом, чтобы принять санньясу — <i>макара-санкранти</i> — вычисляется каждый год по солнечному календарю).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Экадаши, но нет поста (поскольку завтра махадвадаши). Шриман Махапрабху ночью покидает Навадвип и отправляется в Катву, чтобы принять <i>санньясу</i> (День, в который Махапрабху покидает дом, чтобы принять санньясу — <i>макара-санкранти</i> — вычисляется каждый год по солнечному календарю).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35363461-3332-4032-b434-336436363638
+DTSTAMP:20260114T000000Z
+DTEND;VALUE=DATE:20260115
+DTSTART;VALUE=DATE:20260114
+SUMMARY:Вьянджули махадвадаши.
+                    Пост (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Вьянджули махадвадаши.
+                    Пост (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38356231-6561-4431-b136-623332323835
+DTSTAMP:20260115T000000Z
+DTEND;VALUE=DATE:20260116
+DTSTART;VALUE=DATE:20260115
+SUMMARY:Паран 07:00 — 09:04 (в Веракрузе). Памятование о санньяса-лиле Шримана Махапрабху. 
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 07:00 — 09:04 (в Веракрузе). Памятование о санньяса-лиле Шримана Махапрабху. 
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36313465-6234-4134-a231-636331623235
+DTSTAMP:20260119T000000Z
+DTEND;VALUE=DATE:20260120
+DTSTART;VALUE=DATE:20260119
+SUMMARY:День ухода Триданди Свами Шримад Бхакти Гаурава Вайканаса Махараджа. День ухода Шри Харипада Чаудхури даса Адхикари.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Триданди Свами Шримад Бхакти Гаурава Вайканаса Махараджа. День ухода Шри Харипада Чаудхури даса Адхикари.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36396135-6365-4531-b733-613033366538
+DTSTAMP:20260120T000000Z
+DTEND;VALUE=DATE:20260121
+DTSTART;VALUE=DATE:20260120
+SUMMARY:День ухода Триданди Свами Шримад Бхакти Шарана Шанты Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Триданди Свами Шримад Бхакти Шарана Шанты Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63353438-3835-4438-b136-313866353661
+DTSTAMP:20260122T000000Z
+DTEND;VALUE=DATE:20260123
+DTSTART;VALUE=DATE:20260122
+SUMMARY:День явления Шрилы Бхакти Павана Джанардана Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Шрилы Бхакти Павана Джанардана Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66333762-3462-4663-b464-616466363463
+DTSTAMP:20260123T000000Z
+DTEND;VALUE=DATE:20260124
+DTSTART;VALUE=DATE:20260123
+SUMMARY:Шри Кришна Васанта Панчами. День явления Шрилы Рагхунатха даса Госвами. День явления Шри Вишнуприи Деви. День явления Шрилы Пундарика Видьянидхи. День явления Шрилы Рагхунандана Тхакура. День ухода Шрилы Вишванатха Чакраварти Тхакура. День ухода Триданди Свами Шримад Бхакти Вивека Бхарати Махараджа. День ухода Триданди Свами Шримад Бхакти Сварупа Парвата Махараджа. Шри Сарасвати Пуджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Шри Кришна Васанта Панчами. День явления Шрилы Рагхунатха даса Госвами. День явления Шри Вишнуприи Деви. День явления Шрилы Пундарика Видьянидхи. День явления Шрилы Рагхунандана Тхакура. День ухода Шрилы Вишванатха Чакраварти Тхакура. День ухода Триданди Свами Шримад Бхакти Вивека Бхарати Махараджа. День ухода Триданди Свами Шримад Бхакти Сварупа Парвата Махараджа. Шри Сарасвати Пуджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38623661-6433-4838-a538-376262333436
+DTSTAMP:20260125T000000Z
+DTEND;VALUE=DATE:20260126
+DTSTART;VALUE=DATE:20260125
+SUMMARY:Явление Аватара Маха-Вишну, Шри Адвайты Ачарьи.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Явление Аватара Маха-Вишну, Шри Адвайты Ачарьи.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38393264-6433-4665-b965-316664663332
+DTSTAMP:20260126T000000Z
+DTEND;VALUE=DATE:20260127
+DTSTART;VALUE=DATE:20260126
+SUMMARY:День ухода Шрипада Вирендры Кришны Прабху.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрипада Вирендры Кришны Прабху.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64633738-6231-4334-a462-393939343763
+DTSTAMP:20260127T000000Z
+DTEND;VALUE=DATE:20260128
+DTSTART;VALUE=DATE:20260127
+SUMMARY:День ухода Шрилы Мадхвы Ачарьи.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрилы Мадхвы Ачарьи.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38393738-6331-4365-a134-373134393564
+DTSTAMP:20260128T000000Z
+DTEND;VALUE=DATE:20260129
+DTSTART;VALUE=DATE:20260128
+SUMMARY:Бхаими экадаши.
+                    Пост (в Веракрузе). День ухода Шрипада Рамануджи Ачарьи.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Бхаими экадаши.
+                    Пост (в Веракрузе). День ухода Шрипада Рамануджи Ачарьи.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37346531-3162-4537-b763-386565346462
+DTSTAMP:20260129T000000Z
+DTEND;VALUE=DATE:20260130
+DTSTART;VALUE=DATE:20260129
+SUMMARY:Паран после поклонения Варахадеву 06:59 — 10:44 (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран после поклонения Варахадеву 06:59 — 10:44 (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:32346530-6336-4237-a563-623331376631
+DTSTAMP:20260130T000000Z
+DTEND;VALUE=DATE:20260131
+DTSTART;VALUE=DATE:20260130
+SUMMARY:Вараха Двадаши. День явления Господа Варахадева.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Вараха Двадаши. День явления Господа Варахадева.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64316266-3532-4532-a466-356636623533
+DTSTAMP:20260131T000000Z
+DTEND;VALUE=DATE:20260201
+DTSTART;VALUE=DATE:20260131
+SUMMARY:Явление Шри Нитьянанды Прабху. Пост до полудня. Большой фестиваль в честь годовщины установления Шри Шри Гуру Гауры Нитьянанды Джиу в Шри Чайтанья Сарасвата Кришнанушилана Санге в Экачакра Дхаме.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Явление Шри Нитьянанды Прабху. Пост до полудня. Большой фестиваль в честь годовщины установления Шри Шри Гуру Гауры Нитьянанды Джиу в Шри Чайтанья Сарасвата Кришнанушилана Санге в Экачакра Дхаме.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66313931-3336-4530-b166-323666393239
+DTSTAMP:20260201T000000Z
+DTEND;VALUE=DATE:20260202
+DTSTART;VALUE=DATE:20260201
+SUMMARY:День явления Шрилы Нароттама даса Тхакура.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Шрилы Нароттама даса Тхакура.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37353165-3836-4666-b964-376138616134
+DTSTAMP:20260204T000000Z
+DTEND;VALUE=DATE:20260205
+DTSTART;VALUE=DATE:20260204
+SUMMARY:День ухода Триданди Свами Шрипада Бхакти Премика Сиддханти Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Триданди Свами Шрипада Бхакти Премика Сиддханти Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37613435-3466-4435-b635-373339313931
+DTSTAMP:20260206T000000Z
+DTEND;VALUE=DATE:20260207
+DTSTART;VALUE=DATE:20260206
+SUMMARY:153-й благословенный праздник явления основателя Шри Чайтанья Матха и всех мировых Гаудия Матхов, Бхагавана Шри Шрилы Бхактисиддханты Сарасвати Госвами Прабхупады. Годовщина установления Шри Гупта Говардхана, Шри Мандира, Шри Говинда Кунды в Навадвипе. День ухода Шрилы Пурушоттама Тхакура.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:153-й благословенный праздник явления основателя Шри Чайтанья Матха и всех мировых Гаудия Матхов, Бхагавана Шри Шрилы Бхактисиддханты Сарасвати Госвами Прабхупады. Годовщина установления Шри Гупта Говардхана, Шри Мандира, Шри Говинда Кунды в Навадвипе. День ухода Шрилы Пурушоттама Тхакура.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62353863-3866-4538-b536-393233363462
+DTSTAMP:20260207T000000Z
+DTEND;VALUE=DATE:20260208
+DTSTART;VALUE=DATE:20260207
+SUMMARY:День явления Триданди Свами Шримад Бхакти Саранги Госвами Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Триданди Свами Шримад Бхакти Саранги Госвами Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39333736-3339-4466-a331-363538356334
+DTSTAMP:20260212T000000Z
+DTEND;VALUE=DATE:20260213
+DTSTART;VALUE=DATE:20260212
+SUMMARY:Виджая экадаши.
+                    Пост (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Виджая экадаши.
+                    Пост (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65323031-6435-4435-b362-346333656238
+DTSTAMP:20260213T000000Z
+DTEND;VALUE=DATE:20260214
+DTSTART;VALUE=DATE:20260213
+SUMMARY:Паран 08:51 — 10:43 (в Веракрузе). День ухода Шрипада Кришны Говинды даса Адхикари.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 08:51 — 10:43 (в Веракрузе). День ухода Шрипада Кришны Говинды даса Адхикари.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65303931-3963-4534-a434-623731343939
+DTSTAMP:20260216T000000Z
+DTEND;VALUE=DATE:20260217
+DTSTART;VALUE=DATE:20260216
+SUMMARY:Шри Шиваратри  (пост по желанию). День ухода Шрипада Юдхаманью Прабху Сева Викрама.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Шри Шиваратри  (пост по желанию). День ухода Шрипада Юдхаманью Прабху Сева Викрама.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66376539-6366-4163-b563-666561643464
+DTSTAMP:20260217T000000Z
+DTEND;VALUE=DATE:20260218
+DTSTART;VALUE=DATE:20260217
+SUMMARY:Годовщина установления Шри Садашивы Гангадхара, Шри Говинда Кунда, Навадвип.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Годовщина установления Шри Садашивы Гангадхара, Шри Говинда Кунда, Навадвип.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63306131-6164-4361-b964-646431353161
+DTSTAMP:20260218T000000Z
+DTEND;VALUE=DATE:20260219
+DTSTART;VALUE=DATE:20260218
+SUMMARY:День ухода Вайшнава Сарвабхаумы Шрилы Джаганнатха даса Бабаджи Махараджа. День ухода Шрилы Расикананды Дева Госвами. День ухода Триданди Свами Шримад Бхакти Дайита Мадхава Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Вайшнава Сарвабхаумы Шрилы Джаганнатха даса Бабаджи Махараджа. День ухода Шрилы Расикананды Дева Госвами. День ухода Триданди Свами Шримад Бхакти Дайита Мадхава Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65616138-6232-4134-a438-666136636135
+DTSTAMP:20260219T000000Z
+DTEND;VALUE=DATE:20260220
+DTSTART;VALUE=DATE:20260219
+SUMMARY:День явления Шрилы Бхакти Кусум Ашрама Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Шрилы Бхакти Кусум Ашрама Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61613137-3566-4435-a262-366265323435
+DTSTAMP:20260220T000000Z
+DTEND;VALUE=DATE:20260221
+DTSTART;VALUE=DATE:20260220
+SUMMARY:Фестиваль, посвящённый годовщине установления Божеств Шри Шри Гуру Гауранги Радха Раманасундар Джиу в Шри Чайтанья Сарасвата Кришнанушилана Санге, Кайкали, Калькутта.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Фестиваль, посвящённый годовщине установления Божеств Шри Шри Гуру Гауранги Радха Раманасундар Джиу в Шри Чайтанья Сарасвата Кришнанушилана Санге, Кайкали, Калькутта.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39386531-3162-4661-b535-353563323662
+DTSTAMP:20260221T000000Z
+DTEND;VALUE=DATE:20260222
+DTSTART;VALUE=DATE:20260221
+SUMMARY:День явления Шрилы Пурушоттама Тхакура. День ухода Шрипада Туласидаса Даса Адхикари Прабху.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Шрилы Пурушоттама Тхакура. День ухода Шрипада Туласидаса Даса Адхикари Прабху.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66663166-3335-4936-b334-653432656237
+DTSTAMP:20260222T000000Z
+DTEND;VALUE=DATE:20260223
+DTSTART;VALUE=DATE:20260222
+SUMMARY:День явления Шрилы Бхакти Севана Хришикеша Махараджа. День ухода Шриюкта Тарангини Деви.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Шрилы Бхакти Севана Хришикеша Махараджа. День ухода Шриюкта Тарангини Деви.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31626435-3363-4363-a162-333633343462
+DTSTAMP:20260226T000000Z
+DTEND;VALUE=DATE:20260227
+DTSTART;VALUE=DATE:20260226
+SUMMARY:Адхивас Шри Навадвип Дхам Парикрамы. Начало ежегодного семидневного фестиваля.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Адхивас Шри Навадвип Дхам Парикрамы. Начало ежегодного семидневного фестиваля.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38386235-3132-4430-a431-656635373931
+DTSTAMP:20260227T000000Z
+DTEND;VALUE=DATE:20260228
+DTSTART;VALUE=DATE:20260227
+SUMMARY:Амалаки экадаши.
+                    Пост (в Веракрузе).  Начало Шри Навадвип Дхамa Парикрамы. Парикрама Шри Ишодьяна, Шри Йогапитха (места явления Шримана Махапрабху), Шривас Ангана, Шри Нрисимха Мандира, Шри Адвайта Бхавана, Мурари Гупта Бхавана, Шри Чайтанья Матха, храма Шри Шри Гандхарвика-Гиридхари и Шримана Махапрабху, а также ачарьев четырёх вайшнавских сампрадай, самадхи-мандира Шрилы Прабхупады, самадхи Шрилы Гауракишора даса Бабаджи Махараджа, самадхи Шри Чханда Кази, Шараданга Шри Джаганнатха Мандира, Шридхар Ангана, Шри Симантадвипа, Шри Рудрадвипа и Шри Антардвипа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Амалаки экадаши.
+                    Пост (в Веракрузе).  Начало Шри Навадвип Дхамa Парикрамы. Парикрама Шри Ишодьяна, Шри Йогапитха (места явления Шримана Махапрабху), Шривас Ангана, Шри Нрисимха Мандира, Шри Адвайта Бхавана, Мурари Гупта Бхавана, Шри Чайтанья Матха, храма Шри Шри Гандхарвика-Гиридхари и Шримана Махапрабху, а также ачарьев четырёх вайшнавских сампрадай, самадхи-мандира Шрилы Прабхупады, самадхи Шрилы Гауракишора даса Бабаджи Махараджа, самадхи Шри Чханда Кази, Шараданга Шри Джаганнатха Мандира, Шридхар Ангана, Шри Симантадвипа, Шри Рудрадвипа и Шри Антардвипа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38306535-3932-4334-b732-663936396332
+DTSTAMP:20260228T000000Z
+DTEND;VALUE=DATE:20260301
+DTSTART;VALUE=DATE:20260228
+SUMMARY:Паран 06:44 — 09:00 (в Веракрузе). Парикрама храма Праудха Майи, Вриддха Шивы, Божества Шри Гауранги, установленного Шри Вишнуприей, Самадхи Мандира Шри Джаганнатха даса Бабаджи Махараджа, Шри Коладвипа и других святых мест. День ухода Шрилы Мадхавендры Пури.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 06:44 — 09:00 (в Веракрузе). Парикрама храма Праудха Майи, Вриддха Шивы, Божества Шри Гауранги, установленного Шри Вишнуприей, Самадхи Мандира Шри Джаганнатха даса Бабаджи Махараджа, Шри Коладвипа и других святых мест. День ухода Шрилы Мадхавендры Пури.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37653736-3463-4830-a638-393061653932
+DTSTAMP:20260301T000000Z
+DTEND;VALUE=DATE:20260302
+DTSTART;VALUE=DATE:20260301
+SUMMARY:Парикрама Шри Годрумадвипа и Мадхьядвипа, Шри Сурабхи Кунджа, Суварнабихар Матха, Шри Нрисимха Палли, Шри Харихара Кшетры и других святых мест.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Парикрама Шри Годрумадвипа и Мадхьядвипа, Шри Сурабхи Кунджа, Суварнабихар Матха, Шри Нрисимха Палли, Шри Харихара Кшетры и других святых мест.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39373330-3136-4561-b830-313731613631
+DTSTAMP:20260302T000000Z
+DTEND;VALUE=DATE:20260303
+DTSTART;VALUE=DATE:20260302
+SUMMARY:Адхивас явления Шри Гауранги. Парикрама Шри Коладвипа, Шри Ритудвипа, Шри Джахнудвипа, Шри Модадрумадвипа, старого Шри Шри Гаура-Гададхар Мандира, Видьянагар Сарвабхаума Гаудия Матха, места явления Шрилы Вриндавана даса Тхакура и Божеств Шри Саранга Мурари и Васудева Датты Тхакура.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Адхивас явления Шри Гауранги. Парикрама Шри Коладвипа, Шри Ритудвипа, Шри Джахнудвипа, Шри Модадрумадвипа, старого Шри Шри Гаура-Гададхар Мандира, Видьянагар Сарвабхаума Гаудия Матха, места явления Шрилы Вриндавана даса Тхакура и Божеств Шри Саранга Мурари и Васудева Датты Тхакура.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37353637-3133-4936-b663-393638386466
+DTSTAMP:20260303T000000Z
+DTEND;VALUE=DATE:20260304
+DTSTART;VALUE=DATE:20260303
+SUMMARY:Шри Гауравирбхав Паурнамаси. Шри Гаура Пурнима  Явление Шри Гауранги Махапрабху. Полный пост до восхода луны, затем пост на зерновые. Главный фестиваль в Шри Чайтанья Сарасват Матхе. Васантотсав и Дол-ятра Шри Шри Радхи-Говинды. Особые подношения и арати. Чтение "Шри Чайтанья-чаритамриты" и маха-санкиртан. Завершение 540-го года эры Гаурабда.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Шри Гауравирбхав Паурнамаси. Шри Гаура Пурнима  Явление Шри Гауранги Махапрабху. Полный пост до восхода луны, затем пост на зерновые. Главный фестиваль в Шри Чайтанья Сарасват Матхе. Васантотсав и Дол-ятра Шри Шри Радхи-Говинды. Особые подношения и арати. Чтение "Шри Чайтанья-чаритамриты" и маха-санкиртан. Завершение 540-го года эры Гаурабда.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:32613137-6162-4831-b937-616430383634
+DTSTAMP:20260304T000000Z
+DTEND;VALUE=DATE:20260305
+DTSTART;VALUE=DATE:20260304
+SUMMARY:Шри Гаура Пурнима паран от 06:41 до 10:37 (в Веракрузе). <strong>Анандотсав Шри Джаганнатха Мишры.</strong> Последний день ежегодного недельного фестиваля в Шри Чайтанья Сарасват Матхе. Начало 541 года Гаурабда эры.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Шри Гаура Пурнима паран от 06:41 до 10:37 (в Веракрузе). <strong>Анандотсав Шри Джаганнатха Мишры.</strong> Последний день ежегодного недельного фестиваля в Шри Чайтанья Сарасват Матхе. Начало 541 года Гаурабда эры.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36383832-6433-4137-b936-386163333162
+DTSTAMP:20260308T000000Z
+DTEND;VALUE=DATE:20260309
+DTSTART;VALUE=DATE:20260308
+SUMMARY:Фестиваль в Шрипат Хапании, месте Явления Шрилы Бхакти Ракшака Шридхара Дев-Госвами Махараджа: священный день явления Божеств Шри Шри Гауранга Радха Гопинатх джиу в Шрипат Хапании, Шри Чайтанья Сарасват Ашрам. День явления Триданди Свами Шримад Бхакти Шарана Шанты Махараджа. Панчама Дол.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Фестиваль в Шрипат Хапании, месте Явления Шрилы Бхакти Ракшака Шридхара Дев-Госвами Махараджа: священный день явления Божеств Шри Шри Гауранга Радха Гопинатх джиу в Шрипат Хапании, Шри Чайтанья Сарасват Ашрам. День явления Триданди Свами Шримад Бхакти Шарана Шанты Махараджа. Панчама Дол.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39623463-3164-4465-a465-666564346134
+DTSTAMP:20260311T000000Z
+DTEND;VALUE=DATE:20260312
+DTSTART;VALUE=DATE:20260311
+SUMMARY:День явления Шриваса Пандита.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Шриваса Пандита.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64356633-3833-4330-b335-316265336536
+DTSTAMP:20260312T000000Z
+DTEND;VALUE=DATE:20260313
+DTSTART;VALUE=DATE:20260312
+SUMMARY:День ухода Триданди Свами Шримад Бхакти Виграха Бхикшу Госвами Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Триданди Свами Шримад Бхакти Виграха Бхикшу Госвами Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31633833-3634-4139-a563-366237653631
+DTSTAMP:20260314T000000Z
+DTEND;VALUE=DATE:20260315
+DTSTART;VALUE=DATE:20260314
+SUMMARY:Папа Вимочани экадаши.
+                    Пост (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Папа Вимочани экадаши.
+                    Пост (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63643865-3634-4463-b938-616365613635
+DTSTAMP:20260315T000000Z
+DTEND;VALUE=DATE:20260316
+DTSTART;VALUE=DATE:20260315
+SUMMARY:Паран 06:32 — 10:32 (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 06:32 — 10:32 (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61393938-3366-4238-a435-626164393162
+DTSTAMP:20260316T000000Z
+DTEND;VALUE=DATE:20260317
+DTSTART;VALUE=DATE:20260316
+SUMMARY:Фестиваль в честь дня прибытия Шримана Махапрабху в Вараханагар. День ухода Шрилы Говинды Гхоша Тхакура. День ухода Шрипада Сатьендрачандры Бхаттачарьи Маходоя.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Фестиваль в честь дня прибытия Шримана Махапрабху в Вараханагар. День ухода Шрилы Говинды Гхоша Тхакура. День ухода Шрипада Сатьендрачандры Бхаттачарьи Маходоя.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38623462-6336-4439-a537-656265636438
+DTSTAMP:20260323T000000Z
+DTEND;VALUE=DATE:20260324
+DTSTART;VALUE=DATE:20260323
+SUMMARY:День явления Шрипада Рамануджи Ачарьи и Триданди Свами Шримад Бхакти Хридой Бон Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Шрипада Рамануджи Ачарьи и Триданди Свами Шримад Бхакти Хридой Бон Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62653261-3765-4561-a631-376235333162
+DTSTAMP:20260325T000000Z
+DTEND;VALUE=DATE:20260326
+DTSTART;VALUE=DATE:20260325
+SUMMARY:День явления Триданди Свами Шримад Бхакти Вилас Тиртхи Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Триданди Свами Шримад Бхакти Вилас Тиртхи Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36323765-3835-4732-b938-633632393363
+DTSTAMP:20260327T000000Z
+DTEND;VALUE=DATE:20260328
+DTSTART;VALUE=DATE:20260327
+SUMMARY:Шри Рама Навами. Пост до полудня. Явление Шри Рамачандры в полдень.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Шри Рама Навами. Пост до полудня. Явление Шри Рамачандры в полдень.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31383535-3836-4963-b664-323836653162
+DTSTAMP:20260328T000000Z
+DTEND;VALUE=DATE:20260329
+DTSTART;VALUE=DATE:20260328
+SUMMARY:Камада экадаши.
+                    Пост (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Камада экадаши.
+                    Пост (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37303666-6139-4164-b234-663461613638
+DTSTAMP:20260329T000000Z
+DTEND;VALUE=DATE:20260330
+DTSTART;VALUE=DATE:20260329
+SUMMARY:Паран 06:20 — 10:25 (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 06:20 — 10:25 (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:32663262-3737-4133-b466-336466376163
+DTSTAMP:20260330T000000Z
+DTEND;VALUE=DATE:20260331
+DTSTART;VALUE=DATE:20260330
+SUMMARY:Фестиваль в честь дня ухода Ом Вишнупады Парамахамсы Паривраджакачарья-варьи Аштоттара-шата-шри Шрилы Бхакти Сундара Говинды Дев-Госвами Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Фестиваль в честь дня ухода Ом Вишнупады Парамахамсы Паривраджакачарья-варьи Аштоттара-шата-шри Шрилы Бхакти Сундара Говинды Дев-Госвами Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62633234-3834-4261-b666-623235653737
+DTSTAMP:20260402T000000Z
+DTEND;VALUE=DATE:20260403
+DTSTART;VALUE=DATE:20260402
+SUMMARY:Васанта Раса Шри Кришны. Раса Ятра Шри Баларамы. День явления Шрилы Вамшивадананды Тхакура. День явления Шрилы Шьямананды Прабху.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Васанта Раса Шри Кришны. Раса Ятра Шри Баларамы. День явления Шрилы Вамшивадананды Тхакура. День явления Шрилы Шьямананды Прабху.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65626162-3236-4364-b935-613535643736
+DTSTAMP:20260407T000000Z
+DTEND;VALUE=DATE:20260408
+DTSTART;VALUE=DATE:20260407
+SUMMARY:День ухода Шрипада Кришнадаса Бабаджи Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрипада Кришнадаса Бабаджи Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37363836-3339-4231-b638-396562643136
+DTSTAMP:20260409T000000Z
+DTEND;VALUE=DATE:20260410
+DTSTART;VALUE=DATE:20260409
+SUMMARY:День ухода Шрилы Абхирама Тхакура.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрилы Абхирама Тхакура.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63393165-6531-4139-b166-643138336262
+DTSTAMP:20260412T000000Z
+DTEND;VALUE=DATE:20260413
+DTSTART;VALUE=DATE:20260412
+SUMMARY:День ухода Шрилы Вриндавана даса Тхакура.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрилы Вриндавана даса Тхакура.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63303932-3233-4564-a337-396534303265
+DTSTAMP:20260413T000000Z
+DTEND;VALUE=DATE:20260414
+DTSTART;VALUE=DATE:20260413
+SUMMARY:Варутхини экадаши.
+                    Пост (в Веракрузе). День ухода Шрикюкты Сауриндранатха Бхакти Варидхи Прабху. 
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Варутхини экадаши.
+                    Пост (в Веракрузе). День ухода Шрикюкты Сауриндранатха Бхакти Варидхи Прабху. 
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36306166-3264-4263-b737-383438363434
+DTSTAMP:20260414T000000Z
+DTEND;VALUE=DATE:20260415
+DTSTART;VALUE=DATE:20260414
+SUMMARY:Паран 07:07 — 09:47 (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 07:07 — 09:47 (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61356437-6330-4133-a566-336161646635
+DTSTAMP:20260416T000000Z
+DTEND;VALUE=DATE:20260417
+DTSTART;VALUE=DATE:20260416
+SUMMARY:День ухода Триданди Свами Шрилы Бхакти Нирмала Ачарьи Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Триданди Свами Шрилы Бхакти Нирмала Ачарьи Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35346539-6262-4361-b465-313835613131
+DTSTAMP:20260417T000000Z
+DTEND;VALUE=DATE:20260418
+DTSTART;VALUE=DATE:20260417
+SUMMARY:День явления Шрилы Гададхара Пандита.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Шрилы Гададхара Пандита.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63373539-3966-4734-b362-623239653162
+DTSTAMP:20260418T000000Z
+DTEND;VALUE=DATE:20260419
+DTSTART;VALUE=DATE:20260418
+SUMMARY:День явления Триданди Свами Шримад Бхакти Алоки Парамахамсы Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Триданди Свами Шримад Бхакти Алоки Парамахамсы Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35346566-3133-4963-b364-386138386539
+DTSTAMP:20260419T000000Z
+DTEND;VALUE=DATE:20260420
+DTSTART;VALUE=DATE:20260419
+SUMMARY:Акшая Трития: удачный день для начала нового дела. Начало 21‑дневной Чандан Ятры Шри Шри Джаганнатхадева. День явления Триданди Свами Шримад Бхакти Вичара Джаджавара Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Акшая Трития: удачный день для начала нового дела. Начало 21‑дневной Чандан Ятры Шри Шри Джаганнатхадева. День явления Триданди Свами Шримад Бхакти Вичара Джаджавара Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62336465-3363-4263-a432-376566383833
+DTSTAMP:20260422T000000Z
+DTEND;VALUE=DATE:20260423
+DTSTART;VALUE=DATE:20260422
+SUMMARY:День явления Шрипада Шанкарачарьи. День ухода Триданди Свами Шримад Бхакти Вилас Габхастинеми Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Шрипада Шанкарачарьи. День ухода Триданди Свами Шримад Бхакти Вилас Габхастинеми Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64373131-3033-4566-b232-643762323766
+DTSTAMP:20260423T000000Z
+DTEND;VALUE=DATE:20260424
+DTSTART;VALUE=DATE:20260423
+SUMMARY:Джахну Саптами. Шри Джахнави пуджа (Шри Ганга пуджа).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Джахну Саптами. Шри Джахнави пуджа (Шри Ганга пуджа).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64666138-6436-4332-b461-393366666238
+DTSTAMP:20260425T000000Z
+DTEND;VALUE=DATE:20260426
+DTSTART;VALUE=DATE:20260425
+SUMMARY:Явление Нитьянанда-шакти, Шри Джахнавы Деви. Явление Рама-шакти, Шри Ситы Деви. День явления Шрилы Бхакти Судхира Госвами Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Явление Нитьянанда-шакти, Шри Джахнавы Деви. Явление Рама-шакти, Шри Ситы Деви. День явления Шрилы Бхакти Судхира Госвами Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:32656534-3765-4364-a235-383837646335
+DTSTAMP:20260427T000000Z
+DTEND;VALUE=DATE:20260428
+DTSTART;VALUE=DATE:20260427
+SUMMARY:Мохини экадаши.
+                    Пост (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Мохини экадаши.
+                    Пост (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37636361-3939-4638-a435-643734643063
+DTSTAMP:20260428T000000Z
+DTEND;VALUE=DATE:20260429
+DTSTART;VALUE=DATE:20260428
+SUMMARY:Паран 06:58 — 08:07 (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 06:58 — 08:07 (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62326663-6664-4138-a432-303632383562
+DTSTAMP:20260430T000000Z
+DTEND;VALUE=DATE:20260501
+DTSTART;VALUE=DATE:20260430
+SUMMARY:Шри Нрисимха Чатурдаши: явление Шри Нрисимхадева. <strong>Пост до заката</strong>, затем экадашный прасад (анукалпа).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Шри Нрисимха Чатурдаши: явление Шри Нрисимхадева. <strong>Пост до заката</strong>, затем экадашный прасад (анукалпа).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61393562-6462-4131-b033-343837396365
+DTSTAMP:20260501T000000Z
+DTEND;VALUE=DATE:20260502
+DTSTART;VALUE=DATE:20260501
+SUMMARY:Нрисимха Чатурдаши паран 06:56 — 11:13 (в Веракрузе). Пхул Дол Шри Кришны и Салила Бихар. Будда Пурнима: Явление Господа Будды. День явления Шрилы Шриниваса Ачарьи. День ухода Шрилы Парамешвари даса Тхакура.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Нрисимха Чатурдаши паран 06:56 — 11:13 (в Веракрузе). Пхул Дол Шри Кришны и Салила Бихар. Будда Пурнима: Явление Господа Будды. День явления Шрилы Шриниваса Ачарьи. День ухода Шрилы Парамешвари даса Тхакура.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34323439-3339-4738-b635-613866386164
+DTSTAMP:20260502T000000Z
+DTEND;VALUE=DATE:20260503
+DTSTART;VALUE=DATE:20260502
+SUMMARY:День ухода Триданди Свами Шримад Бхакти Саранги Госвами Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Триданди Свами Шримад Бхакти Саранги Госвами Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63393365-6364-4736-a431-643136313362
+DTSTAMP:20260507T000000Z
+DTEND;VALUE=DATE:20260508
+DTSTART;VALUE=DATE:20260507
+SUMMARY:День ухода Шрилы Рамананды Рая.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрилы Рамананды Рая.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37353962-3164-4436-b764-643466613133
+DTSTAMP:20260511T000000Z
+DTEND;VALUE=DATE:20260512
+DTSTART;VALUE=DATE:20260511
+SUMMARY:День ухода Шрипада Сантоша Кришнадаса Адхикари Прабху. 
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрипада Сантоша Кришнадаса Адхикари Прабху. 
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38323632-6666-4638-b639-323432666137
+DTSTAMP:20260512T000000Z
+DTEND;VALUE=DATE:20260513
+DTSTART;VALUE=DATE:20260512
+SUMMARY:Апара экадаши.
+                    Пост (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Апара экадаши.
+                    Пост (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37383537-6236-4336-a638-366365323330
+DTSTAMP:20260513T000000Z
+DTEND;VALUE=DATE:20260514
+DTSTART;VALUE=DATE:20260513
+SUMMARY:Паран 06:50 — 11:10 (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 06:50 — 11:10 (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63343930-3435-4564-b835-323337373363
+DTSTAMP:20260514T000000Z
+DTEND;VALUE=DATE:20260515
+DTSTART;VALUE=DATE:20260514
+SUMMARY:День явления Шрилы Вриндавана даса Тхакура. 
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Шрилы Вриндавана даса Тхакура. 
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66393830-6637-4165-b632-626530373561
+DTSTAMP:20260526T000000Z
+DTEND;VALUE=DATE:20260527
+DTSTART;VALUE=DATE:20260526
+SUMMARY:Падмини экадаши.
+                    Пост (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Падмини экадаши.
+                    Пост (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37643731-6437-4564-b466-373732653137
+DTSTAMP:20260527T000000Z
+DTEND;VALUE=DATE:20260528
+DTSTART;VALUE=DATE:20260527
+SUMMARY:Паран 06:46 — 11:09 (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 06:46 — 11:09 (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33373936-3766-4262-b237-333765313834
+DTSTAMP:20260611T000000Z
+DTEND;VALUE=DATE:20260612
+DTSTART;VALUE=DATE:20260611
+SUMMARY:Парама экадаши. Пост сегодня (в Веракрузе), поскольку экадаши был короткий (кшая)
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Парама экадаши. Пост сегодня (в Веракрузе), поскольку экадаши был короткий (кшая)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39363964-3337-4763-b533-323133323439
+DTSTAMP:20260612T000000Z
+DTEND;VALUE=DATE:20260613
+DTSTART;VALUE=DATE:20260612
+SUMMARY:Паран 06:46 — 11:11 (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 06:46 — 11:11 (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64643661-3839-4164-b164-656162653566
+DTSTAMP:20260616T000000Z
+DTEND;VALUE=DATE:20260617
+DTSTART;VALUE=DATE:20260616
+SUMMARY:Шри Чайтанья Сарасвата Кришнанушилана Санга, Дам Дам Парк, Калькутта: Фестиваль, посвящённый установлению Божеств Шри Шри Гуру Гауранги Радха Мадана Мохан Джиу.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Шри Чайтанья Сарасвата Кришнанушилана Санга, Дам Дам Парк, Калькутта: Фестиваль, посвящённый установлению Божеств Шри Шри Гуру Гауранги Радха Мадана Мохан Джиу.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36303363-6339-4664-a566-326532376132
+DTSTAMP:20260618T000000Z
+DTEND;VALUE=DATE:20260619
+DTSTART;VALUE=DATE:20260618
+SUMMARY:День ухода Шрилы Бхакти Гауравы Гири Махараджа (Шрипада Парамананды Видьяратны Прабху).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрилы Бхакти Гауравы Гири Махараджа (Шрипада Парамананды Видьяратны Прабху).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34333361-3835-4438-b831-373632643765
+DTSTAMP:20260624T000000Z
+DTEND;VALUE=DATE:20260625
+DTSTART;VALUE=DATE:20260624
+SUMMARY:Дашахара Шри Ганга Пуджа. День явления Шри Гангаматы Госвамини. День ухода Шрилы Баладева Видьябхушана Прабху. День явления Шрипада Бхакти Виджая Нрисимхи Махараджа
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Дашахара Шри Ганга Пуджа. День явления Шри Гангаматы Госвамини. День ухода Шрилы Баладева Видьябхушана Прабху. День явления Шрипада Бхакти Виджая Нрисимхи Махараджа
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:32623938-6239-4133-a631-646433313362
+DTSTAMP:20260625T000000Z
+DTEND;VALUE=DATE:20260626
+DTSTART;VALUE=DATE:20260625
+SUMMARY:Нирджала экадаши.
+                    Пост (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Нирджала экадаши.
+                    Пост (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61373865-6632-4439-a635-666438666638
+DTSTAMP:20260626T000000Z
+DTEND;VALUE=DATE:20260627
+DTSTART;VALUE=DATE:20260626
+SUMMARY:Паран 06:48 — 11:13 (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 06:48 — 11:13 (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61633737-6132-4334-b333-613033323664
+DTSTAMP:20260627T000000Z
+DTEND;VALUE=DATE:20260628
+DTSTART;VALUE=DATE:20260627
+SUMMARY:Большой фестиваль Шрилы Рагхунатха Даса Госвами в Шрипат Панихати.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Большой фестиваль Шрилы Рагхунатха Даса Госвами в Шрипат Панихати.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35616163-3736-4565-b336-356663333931
+DTSTAMP:20260629T000000Z
+DTEND;VALUE=DATE:20260630
+DTSTART;VALUE=DATE:20260629
+SUMMARY:<i>Снана-ятра</i> (омовение) Шри Джаганнатхадева. День ухода Шрилы Мукунды Датты. День ухода Шрилы Шридхара Пандита.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:<i>Снана-ятра</i> (омовение) Шри Джаганнатхадева. День ухода Шрилы Мукунды Датты. День ухода Шрилы Шридхара Пандита.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33633166-6533-4538-b933-386235623862
+DTSTAMP:20260630T000000Z
+DTEND;VALUE=DATE:20260701
+DTSTART;VALUE=DATE:20260630
+SUMMARY:День ухода Шрилы Шьямананды Прабху. День ухода Шрипада Ришабхадева даса Адхикари.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрилы Шьямананды Прабху. День ухода Шрипада Ришабхадева даса Адхикари.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62323234-3866-4461-a131-336130643966
+DTSTAMP:20260702T000000Z
+DTEND;VALUE=DATE:20260703
+DTSTART;VALUE=DATE:20260702
+SUMMARY:День ухода Шри Гаурахари Бхакти Сампада Прабху.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шри Гаурахари Бхакти Сампада Прабху.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61623963-6437-4638-a336-396233383566
+DTSTAMP:20260705T000000Z
+DTEND;VALUE=DATE:20260706
+DTSTART;VALUE=DATE:20260705
+SUMMARY:День явления Шрилы Вакрешвара Пандита.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Шрилы Вакрешвара Пандита.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38633734-3963-4835-b164-636338396262
+DTSTAMP:20260710T000000Z
+DTEND;VALUE=DATE:20260711
+DTSTART;VALUE=DATE:20260710
+SUMMARY:Йогини экадаши.
+                    Пост (в Веракрузе). День ухода Шриюкты Рамы Деви.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Йогини экадаши.
+                    Пост (в Веракрузе). День ухода Шриюкты Рамы Деви.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36346365-3436-4763-b531-636566306438
+DTSTAMP:20260711T000000Z
+DTEND;VALUE=DATE:20260712
+DTSTART;VALUE=DATE:20260711
+SUMMARY:Паран 06:53 — 11:17 (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 06:53 — 11:17 (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66316537-3463-4731-b232-313531623236
+DTSTAMP:20260714T000000Z
+DTEND;VALUE=DATE:20260715
+DTSTART;VALUE=DATE:20260714
+SUMMARY:День ухода Шрилы Гададхара Пандита. День ухода Шрилы Сат-чит-ананды Бхактивинода Тхакура.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрилы Гададхара Пандита. День ухода Шрилы Сат-чит-ананды Бхактивинода Тхакура.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66323963-6566-4236-b564-633736646434
+DTSTAMP:20260715T000000Z
+DTEND;VALUE=DATE:20260716
+DTSTART;VALUE=DATE:20260715
+SUMMARY:Гундича Марджана: большая уборка в храме Гундича в Шри Пури Дхаме, уборка во всех храмах Господа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Гундича Марджана: большая уборка в храме Гундича в Шри Пури Дхаме, уборка во всех храмах Господа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:32646432-3630-4538-b131-313637303831
+DTSTAMP:20260716T000000Z
+DTEND;VALUE=DATE:20260717
+DTSTART;VALUE=DATE:20260716
+SUMMARY:Ратха-ятра Шри Джаганнатхадева. День ухода Шрилы Сварупа Дамодара Госвами.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Ратха-ятра Шри Джаганнатхадева. День ухода Шрилы Сварупа Дамодара Госвами.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37656362-6534-4763-a334-386661653863
+DTSTAMP:20260720T000000Z
+DTEND;VALUE=DATE:20260721
+DTSTART;VALUE=DATE:20260720
+SUMMARY:Хера Панчами. Шри Шри Лакшми Виджая (в день праздника в Шри Пури Дхаме).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Хера Панчами. Шри Шри Лакшми Виджая (в день праздника в Шри Пури Дхаме).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63323764-6165-4431-b366-323935396261
+DTSTAMP:20260722T000000Z
+DTEND;VALUE=DATE:20260723
+DTSTART;VALUE=DATE:20260722
+SUMMARY:День ухода Шрипада Аджиты Кришны Брахмачари.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрипада Аджиты Кришны Брахмачари.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61646461-3131-4336-b738-663137323764
+DTSTAMP:20260724T000000Z
+DTEND;VALUE=DATE:20260725
+DTSTART;VALUE=DATE:20260724
+SUMMARY:Экадаши, но нет поста (поскольку завтра махадвадаши). День ухода Триданди Свами Бхакти Камала Мадхусудана Махараджа. День ухода Шриюкты Кришнамайи Деви. Пунар Ятра Шри Джаганнатхадева (фестиваль возвращения колесниц).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Экадаши, но нет поста (поскольку завтра махадвадаши). День ухода Триданди Свами Бхакти Камала Мадхусудана Махараджа. День ухода Шриюкты Кришнамайи Деви. Пунар Ятра Шри Джаганнатхадева (фестиваль возвращения колесниц).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35613365-3738-4136-a230-656564343632
+DTSTAMP:20260725T000000Z
+DTEND;VALUE=DATE:20260726
+DTSTART;VALUE=DATE:20260725
+SUMMARY:Пакша Варддхини махадвадаши.
+                    Пост (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Пакша Варддхини махадвадаши.
+                    Пост (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61333132-3563-4365-b930-656238323865
+DTSTAMP:20260726T000000Z
+DTEND;VALUE=DATE:20260727
+DTSTART;VALUE=DATE:20260726
+SUMMARY:Паран 06:59 — 11:20 (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 06:59 — 11:20 (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36386365-6363-4334-b361-613533303837
+DTSTAMP:20260729T000000Z
+DTEND;VALUE=DATE:20260730
+DTSTART;VALUE=DATE:20260729
+SUMMARY:Шри Гуру Пурнима. Явление Шрилы Вьясадева. Начало чатурмасьи (когда врата начинается в Пурниму, как принято в ШЧСМ). День явления Шрилы Бхакти Бимала Авадхута Махараджа. День ухода Шрилы Санатаны Госвами Прабху.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Шри Гуру Пурнима. Явление Шрилы Вьясадева. Начало чатурмасьи (когда врата начинается в Пурниму, как принято в ШЧСМ). День явления Шрилы Бхакти Бимала Авадхута Махараджа. День ухода Шрилы Санатаны Госвами Прабху.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35343665-6666-4139-b934-643561376562
+DTSTAMP:20260731T000000Z
+DTEND;VALUE=DATE:20260801
+DTSTART;VALUE=DATE:20260731
+SUMMARY:День ухода Триданди Свами Шримад Бхакти Хридой Бон Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Триданди Свами Шримад Бхакти Хридой Бон Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61326634-6233-4634-b734-373866623238
+DTSTAMP:20260801T000000Z
+DTEND;VALUE=DATE:20260802
+DTSTART;VALUE=DATE:20260801
+SUMMARY:День явления Шрилы Бхакти Амриты Махавира Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Шрилы Бхакти Амриты Махавира Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36333562-3466-4762-a339-633561396538
+DTSTAMP:20260803T000000Z
+DTEND;VALUE=DATE:20260804
+DTSTART;VALUE=DATE:20260803
+SUMMARY:День ухода Шрилы Гопала Бхатты Госвами Прабху.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрилы Гопала Бхатты Госвами Прабху.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65616564-6266-4563-b365-316364653764
+DTSTAMP:20260806T000000Z
+DTEND;VALUE=DATE:20260807
+DTSTART;VALUE=DATE:20260806
+SUMMARY:День ухода Шрилы Локанатха Госвами Прабху.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрилы Локанатха Госвами Прабху.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38646166-6237-4233-a531-363434643538
+DTSTAMP:20260808T000000Z
+DTEND;VALUE=DATE:20260809
+DTSTART;VALUE=DATE:20260808
+SUMMARY:Камика экадаши.
+                    Пост (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Камика экадаши.
+                    Пост (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:32346566-3765-4566-b863-666265653935
+DTSTAMP:20260809T000000Z
+DTEND;VALUE=DATE:20260810
+DTSTART;VALUE=DATE:20260809
+SUMMARY:Паран 07:03 — 11:20 (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 07:03 — 11:20 (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63383263-3863-4863-b430-376135386234
+DTSTAMP:20260812T000000Z
+DTEND;VALUE=DATE:20260813
+DTSTART;VALUE=DATE:20260812
+SUMMARY:Праздник в честь ухода Ом Вишнупады Парамахамсы Паривраджакачарья-варьи Аштоттара-шата-шри Шрилы Бхакти Ракшака Шридхара Дев-Госвами Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Праздник в честь ухода Ом Вишнупады Парамахамсы Паривраджакачарья-варьи Аштоттара-шата-шри Шрилы Бхакти Ракшака Шридхара Дев-Госвами Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31326361-3234-4966-b539-333233346466
+DTSTAMP:20260816T000000Z
+DTEND;VALUE=DATE:20260817
+DTSTART;VALUE=DATE:20260816
+SUMMARY:День ухода Шрилы Вамшидаса Бабаджи Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрилы Вамшидаса Бабаджи Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39383661-3736-4362-a430-626563343462
+DTSTAMP:20260818T000000Z
+DTEND;VALUE=DATE:20260819
+DTSTART;VALUE=DATE:20260818
+SUMMARY:День явления Шрилы Бхакти Виджая Тривикрама Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Шрилы Бхакти Виджая Тривикрама Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66386333-6563-4535-a538-366661653431
+DTSTAMP:20260819T000000Z
+DTEND;VALUE=DATE:20260820
+DTSTART;VALUE=DATE:20260819
+SUMMARY:День ухода Шрипада Ананга Мохана даса Адхикари.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрипада Ананга Мохана даса Адхикари.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36616534-3365-4532-a261-363734383633
+DTSTAMP:20260822T000000Z
+DTEND;VALUE=DATE:20260823
+DTSTART;VALUE=DATE:20260822
+SUMMARY:День ухода Триданди Свами Бхакти Прасун Бодхаяна Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Триданди Свами Бхакти Прасун Бодхаяна Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62353862-3663-4862-a135-326137393238
+DTSTAMP:20260823T000000Z
+DTEND;VALUE=DATE:20260824
+DTSTART;VALUE=DATE:20260823
+SUMMARY:Павитраропани экадаши.
+                    Пост (в Веракрузе). Начало Джхулан Ятры Шри Шри Радхи-Говинды и начало ежемесячного фестиваля Шри Хари Смараны в Навадвипе, ШЧСМ.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Павитраропани экадаши.
+                    Пост (в Веракрузе). Начало Джхулан Ятры Шри Шри Радхи-Говинды и начало ежемесячного фестиваля Шри Хари Смараны в Навадвипе, ШЧСМ.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31376631-3934-4633-b532-646464643961
+DTSTAMP:20260824T000000Z
+DTEND;VALUE=DATE:20260825
+DTSTART;VALUE=DATE:20260824
+SUMMARY:Паран 07:07 — 11:19 (в Веракрузе). День ухода Шрилы Рупы Госвами. День ухода Шрилы Гауридаса Пандита Госвами.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 07:07 — 11:19 (в Веракрузе). День ухода Шрилы Рупы Госвами. День ухода Шрилы Гауридаса Пандита Госвами.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38313132-3864-4362-a162-656434316165
+DTSTAMP:20260828T000000Z
+DTEND;VALUE=DATE:20260829
+DTSTART;VALUE=DATE:20260828
+SUMMARY:Явление Шри Баладева.. Пост до полудня. Завершение Джхулан Ятры Шри Шри Радхи-Говинды.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Явление Шри Баладева.. Пост до полудня. Завершение Джхулан Ятры Шри Шри Радхи-Говинды.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63366563-6337-4233-b965-663866633433
+DTSTAMP:20260831T000000Z
+DTEND;VALUE=DATE:20260901
+DTSTART;VALUE=DATE:20260831
+SUMMARY:День явления Шрилы Бхакти Ранджана Мадхусудана Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Шрилы Бхакти Ранджана Мадхусудана Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66363162-3463-4637-b464-626239353839
+DTSTAMP:20260902T000000Z
+DTEND;VALUE=DATE:20260903
+DTSTART;VALUE=DATE:20260902
+SUMMARY:День ухода Триданди Свами Бхакти Виласа Тапасви Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Триданди Свами Бхакти Виласа Тапасви Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39306131-3438-4230-b638-326462613632
+DTSTAMP:20260904T000000Z
+DTEND;VALUE=DATE:20260905
+DTSTART;VALUE=DATE:20260904
+SUMMARY:Шри Кришна Джанмаштами. Полный пост до полуночи, затем экадашный прасад.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Шри Кришна Джанмаштами. Полный пост до полуночи, затем экадашный прасад.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66376637-6132-4531-b838-393631626330
+DTSTAMP:20260905T000000Z
+DTEND;VALUE=DATE:20260906
+DTSTART;VALUE=DATE:20260905
+SUMMARY:Шри Нандотсав. Шри Джанмаштами паран 07:10 — 11:18 (в Веракрузе). День явления Вишва-варенья Триданди Свами Шримад Бхактиведанты Свами Махараджа Прабхупады. 
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Шри Нандотсав. Шри Джанмаштами паран 07:10 — 11:18 (в Веракрузе). День явления Вишва-варенья Триданди Свами Шримад Бхактиведанты Свами Махараджа Прабхупады. 
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:32383961-6536-4531-a639-653132343539
+DTSTAMP:20260906T000000Z
+DTEND;VALUE=DATE:20260907
+DTSTART;VALUE=DATE:20260906
+SUMMARY:Экадаши, но нет поста (поскольку дашами виддха).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Экадаши, но нет поста (поскольку дашами виддха).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34653462-6634-4264-b332-383330373164
+DTSTAMP:20260907T000000Z
+DTEND;VALUE=DATE:20260908
+DTSTART;VALUE=DATE:20260907
+SUMMARY:Аннада экадаши. Пост (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Аннада экадаши. Пост (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31346133-3536-4438-b739-663434613938
+DTSTAMP:20260908T000000Z
+DTEND;VALUE=DATE:20260909
+DTSTART;VALUE=DATE:20260908
+SUMMARY:Паран 07:11 — 11:18 (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 07:11 — 11:18 (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31653365-6265-4162-a434-363739353530
+DTSTAMP:20260916T000000Z
+DTEND;VALUE=DATE:20260917
+DTSTART;VALUE=DATE:20260916
+SUMMARY:День явления Шри Ситы Деви, супруги Шри Адвайты Прабху.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Шри Ситы Деви, супруги Шри Адвайты Прабху.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31326532-3433-4239-b937-383639366232
+DTSTAMP:20260918T000000Z
+DTEND;VALUE=DATE:20260919
+DTSTART;VALUE=DATE:20260918
+SUMMARY:Шри Лалита Саптами. Явление Шри Лалиты Деви.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Шри Лалита Саптами. Явление Шри Лалиты Деви.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66656165-6133-4833-a332-396262346230
+DTSTAMP:20260919T000000Z
+DTEND;VALUE=DATE:20260920
+DTSTART;VALUE=DATE:20260919
+SUMMARY:<strong>Шри Радхаштами.</strong> Явление Шримати Радхарани в полдень. <strong>Пост до полудня</strong>.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:<strong>Шри Радхаштами.</strong> Явление Шримати Радхарани в полдень. <strong>Пост до полудня</strong>.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33646336-3136-4835-a137-646638346533
+DTSTAMP:20260922T000000Z
+DTEND;VALUE=DATE:20260923
+DTSTART;VALUE=DATE:20260922
+SUMMARY:Пост на Вишну-шринкхала-йогу, а тажке в честь явления Господа Ваманы (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Пост на Вишну-шринкхала-йогу, а тажке в честь явления Господа Ваманы (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35356635-3662-4630-b261-393662633836
+DTSTAMP:20260923T000000Z
+DTEND;VALUE=DATE:20260924
+DTSTART;VALUE=DATE:20260923
+SUMMARY:Паран после поклонения Ваманадеву 07:13 — 09:45 (в Веракрузе). Явление Шри Ваманадева. День явления Шрилы Дживы Госвами Прабху.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран после поклонения Ваманадеву 07:13 — 09:45 (в Веракрузе). Явление Шри Ваманадева. День явления Шрилы Дживы Госвами Прабху.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66356439-6166-4536-a461-356637346431
+DTSTAMP:20260924T000000Z
+DTEND;VALUE=DATE:20260925
+DTSTART;VALUE=DATE:20260924
+SUMMARY:День явления Шрилы Сат-чит-ананды Бхактивинода Тхакура.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Шрилы Сат-чит-ананды Бхактивинода Тхакура.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35396539-6134-4864-b261-373764616539
+DTSTAMP:20260925T000000Z
+DTEND;VALUE=DATE:20260926
+DTSTART;VALUE=DATE:20260925
+SUMMARY:День ухода Шрилы Харидаса Тхакура.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрилы Харидаса Тхакура.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33336365-6161-4238-a336-646263313536
+DTSTAMP:20260926T000000Z
+DTEND;VALUE=DATE:20260927
+DTSTART;VALUE=DATE:20260926
+SUMMARY:Вишварупа Махотсав. Завершение ежемесячного фестиваля в Навадвипе.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Вишварупа Махотсав. Завершение ежемесячного фестиваля в Навадвипе.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39386461-6231-4336-a637-633363666663
+DTSTAMP:20260928T000000Z
+DTEND;VALUE=DATE:20260929
+DTSTART;VALUE=DATE:20260928
+SUMMARY:День ухода Триданди Свами Шримад Бхакти Вилас Тиртхи Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Триданди Свами Шримад Бхакти Вилас Тиртхи Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33653939-6463-4437-b635-623532333936
+DTSTAMP:20261006T000000Z
+DTEND;VALUE=DATE:20261007
+DTSTART;VALUE=DATE:20261006
+SUMMARY:Индира экадаши.
+                    Пост (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Индира экадаши.
+                    Пост (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34623436-3531-4165-a466-363038333662
+DTSTAMP:20261007T000000Z
+DTEND;VALUE=DATE:20261008
+DTSTART;VALUE=DATE:20261007
+SUMMARY:Паран 07:16 — 11:13 (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 07:16 — 11:13 (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64623362-6365-4363-b164-633264356230
+DTSTAMP:20261011T000000Z
+DTEND;VALUE=DATE:20261012
+DTSTART;VALUE=DATE:20261011
+SUMMARY:День явления Триданди Свами Шрилы Бхакти Нирмала Ачарьи Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Триданди Свами Шрилы Бхакти Нирмала Ачарьи Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61343338-3333-4361-b832-636364633233
+DTSTAMP:20261013T000000Z
+DTEND;VALUE=DATE:20261014
+DTSTART;VALUE=DATE:20261013
+SUMMARY:День ухода Шриюкты Радхарани Деви Чаудурани.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шриюкты Радхарани Деви Чаудурани.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66666331-3933-4633-a139-663662353361
+DTSTAMP:20261014T000000Z
+DTEND;VALUE=DATE:20261015
+DTSTART;VALUE=DATE:20261014
+SUMMARY:День ухода Триданди Свами Шрипада Бхакти Дайита Дамодара Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Триданди Свами Шрипада Бхакти Дайита Дамодара Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64366630-3539-4137-a161-633336616163
+DTSTAMP:20261021T000000Z
+DTEND;VALUE=DATE:20261022
+DTSTART;VALUE=DATE:20261021
+SUMMARY:Папанкуша экадаши.
+                    Пост (в Веракрузе). Виджай Утсав Шри Рамачандры. День явления Шрилы Мадхвы Ачарьи.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Папанкуша экадаши.
+                    Пост (в Веракрузе). Виджай Утсав Шри Рамачандры. День явления Шрилы Мадхвы Ачарьи.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34396366-6537-4162-b834-336338643031
+DTSTAMP:20261022T000000Z
+DTEND;VALUE=DATE:20261023
+DTSTART;VALUE=DATE:20261022
+SUMMARY:Паран 07:21 — 11:12 (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 07:21 — 11:12 (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61333764-6665-4666-a132-613035666561
+DTSTAMP:20261023T000000Z
+DTEND;VALUE=DATE:20261024
+DTSTART;VALUE=DATE:20261023
+SUMMARY:День ухода Шрилы Рагхунатха даса Госвами, Шрилы Рагхунатха Бхатты Госвами и Шрилы Кришнадаса Кавираджа Госвами.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрилы Рагхунатха даса Госвами, Шрилы Рагхунатха Бхатты Госвами и Шрилы Кришнадаса Кавираджа Госвами.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65653539-3836-4763-b763-636236663332
+DTSTAMP:20261026T000000Z
+DTEND;VALUE=DATE:20261027
+DTSTART;VALUE=DATE:20261026
+SUMMARY:Шарадия Раса Ятра Шри Кришны. День ухода Шрилы Мурари Гупты. Начало Урджа враты, Дамодар враты, Картика враты и Нияма-сева враты, если врата начата в Пурниму, как это принято в Шри Чайтанья Сарасват Матхе.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Шарадия Раса Ятра Шри Кришны. День ухода Шрилы Мурари Гупты. Начало Урджа враты, Дамодар враты, Картика враты и Нияма-сева враты, если врата начата в Пурниму, как это принято в Шри Чайтанья Сарасват Матхе.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65663463-3234-4237-b531-343265646364
+DTSTAMP:20261029T000000Z
+DTEND;VALUE=DATE:20261030
+DTSTART;VALUE=DATE:20261029
+SUMMARY:День ухода Триданди Свами Шримад Бхакти Шрирупа Пури Махараджа (поскольку трития титхи короткий (<i>кшая</i>)).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Триданди Свами Шримад Бхакти Шрирупа Пури Махараджа (поскольку трития титхи короткий (<i>кшая</i>)).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39323535-3465-4166-a162-656132303362
+DTSTAMP:20261030T000000Z
+DTEND;VALUE=DATE:20261031
+DTSTART;VALUE=DATE:20261030
+SUMMARY:День ухода Шрилы Нароттама даса Тхакура.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрилы Нароттама даса Тхакура.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65616636-6532-4639-b364-343637353962
+DTSTAMP:20261031T000000Z
+DTEND;VALUE=DATE:20261101
+DTSTART;VALUE=DATE:20261031
+SUMMARY:День ухода Триданди Свами Шримад Бхакти Вичара Джаджавара Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Триданди Свами Шримад Бхакти Вичара Джаджавара Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33666334-6231-4035-a161-363230346534
+DTSTAMP:20261102T000000Z
+DTEND;VALUE=DATE:20261103
+DTSTART;VALUE=DATE:20261102
+SUMMARY:Бахулаштами. День явления Шри Радха-кунды. День санньясы Шрилы Бхакти Сундара Говинды Дев-Госвами Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Бахулаштами. День явления Шри Радха-кунды. День санньясы Шрилы Бхакти Сундара Говинды Дев-Госвами Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34353632-3732-4263-a635-623839393835
+DTSTAMP:20261103T000000Z
+DTEND;VALUE=DATE:20261104
+DTSTART;VALUE=DATE:20261103
+SUMMARY:Большой праздник 132-го дня явления Основателя-Президента-Ачарьи Шри Чайтанья Сарасват Матха, Шрилы Ом Вишнупады Парамахамсы Паривраджакачарья-варьи Аштоттара-шата-Шри Шрилы Бхакти Ракшака Шридхара Дев-Госвами Махараджа. День явления Шрилы Вирачандры Прабху. День ухода Шрипада Сакхичарана даса Бабаджи Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Большой праздник 132-го дня явления Основателя-Президента-Ачарьи Шри Чайтанья Сарасват Матха, Шрилы Ом Вишнупады Парамахамсы Паривраджакачарья-варьи Аштоттара-шата-Шри Шрилы Бхакти Ракшака Шридхара Дев-Госвами Махараджа. День явления Шрилы Вирачандры Прабху. День ухода Шрипада Сакхичарана даса Бабаджи Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62373164-3530-4431-b438-313934336331
+DTSTAMP:20261104T000000Z
+DTEND;VALUE=DATE:20261105
+DTSTART;VALUE=DATE:20261104
+SUMMARY:Рама экадаши.
+                    Пост (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Рама экадаши.
+                    Пост (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65623836-3734-4132-b265-373232353163
+DTSTAMP:20261105T000000Z
+DTEND;VALUE=DATE:20261106
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Паран 06:26 — 10:13 (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 06:26 — 10:13 (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38353239-3432-4261-b464-326538326336
+DTSTAMP:20261106T000000Z
+DTEND;VALUE=DATE:20261107
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Фестиваль в честь прибытия Шри Гауранги Махапрабху в Шрипат Панихати.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Фестиваль в честь прибытия Шри Гауранги Махапрабху в Шрипат Панихати.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34306264-6637-4334-b862-363530366537
+DTSTAMP:20261108T000000Z
+DTEND;VALUE=DATE:20261109
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Предложение светильников (или свечей) в Вишну-мандирах.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Предложение светильников (или свечей) в Вишну-мандирах.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33656361-6464-4638-b366-396161643563
+DTSTAMP:20261109T000000Z
+DTEND;VALUE=DATE:20261110
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Дипавали. Подношение светильников (или свеч) в мандирах (храмах) Вишну. Го-пуджа (поклонение коровам) и Го-крида (служение коровам).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Дипавали. Подношение светильников (или свеч) в мандирах (храмах) Вишну. Го-пуджа (поклонение коровам) и Го-крида (служение коровам).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66356435-6337-4561-a266-366134303832
+DTSTAMP:20261110T000000Z
+DTEND;VALUE=DATE:20261111
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Шри Говардхан-пуджа(до 01:07). Большой Аннакут Махотсав ("Праздник Рисовой Горы") в Шрила Шридхар Свами Сева Ашраме на Шри Говардхане и в Храме на Шри Гупта Говардхане. Го-пуджа (поклонение коровам) и Го-крида (служение коровам).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Шри Говардхан-пуджа(до 01:07). Большой Аннакут Махотсав ("Праздник Рисовой Горы") в Шрила Шридхар Свами Сева Ашраме на Шри Говардхане и в Храме на Шри Гупта Говардхане. Го-пуджа (поклонение коровам) и Го-крида (служение коровам).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35613461-6538-4438-a562-373632396235
+DTSTAMP:20261111T000000Z
+DTEND;VALUE=DATE:20261112
+DTSTART;VALUE=DATE:20261111
+SUMMARY:День ухода Шрилы Васудева Гхоша Тхакура. День ухода Триданди Свами Шримад Бхакти Сарвасвы Гири Махараджа. Бхратри Двития критьям (фестиваль, во время которого братья и сёстры чествуют друг друга). 
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрилы Васудева Гхоша Тхакура. День ухода Триданди Свами Шримад Бхакти Сарвасвы Гири Махараджа. Бхратри Двития критьям (фестиваль, во время которого братья и сёстры чествуют друг друга). 
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39323530-6261-4461-a361-633664623638
+DTSTAMP:20261113T000000Z
+DTEND;VALUE=DATE:20261114
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Фестиваль в честь ухода Вишва-варенья Триданди Свами Шримад Бхактиведанты Свами Махараджа Прабхупады. 
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Фестиваль в честь ухода Вишва-варенья Триданди Свами Шримад Бхактиведанты Свами Махараджа Прабхупады. 
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61396236-6562-4464-a565-373164333436
+DTSTAMP:20261114T000000Z
+DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261114
+SUMMARY:День ухода Триданди Свами Шримад Бхакти Алоки Парамахамсы Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Триданди Свами Шримад Бхакти Алоки Парамахамсы Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36633863-6337-4164-b439-333633373366
+DTSTAMP:20261117T000000Z
+DTEND;VALUE=DATE:20261118
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Шри Гопаштами, Шри Гоштхаштами, Го пуджа и Го Грас-дан. День ухода Шрилы Шриниваса Ачарьи. День ухода Шрилы Гададхара даса Госвами. День ухода Шрилы Дхананджаи Пандита.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Шри Гопаштами, Шри Гоштхаштами, Го пуджа и Го Грас-дан. День ухода Шрилы Шриниваса Ачарьи. День ухода Шрилы Гададхара даса Госвами. День ухода Шрилы Дхананджаи Пандита.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35653736-3233-4336-b364-663063343339
+DTSTAMP:20261120T000000Z
+DTEND;VALUE=DATE:20261121
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Шри Уттхана экадаши.
+                    Пост (в Веракрузе). День явления Триданди Свами Шримад Бхакти Дайита Мадхава Госвами Махараджа. День ухода Ом Вишнупада Парамахамсы Шри Шрилы Гауракишора даса Бабаджи Махараджа. Шри Бхишма Панчакам.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Шри Уттхана экадаши.
+                    Пост (в Веракрузе). День явления Триданди Свами Шримад Бхакти Дайита Мадхава Госвами Махараджа. День ухода Ом Вишнупада Парамахамсы Шри Шрилы Гауракишора даса Бабаджи Махараджа. Шри Бхишма Панчакам.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62336163-3733-4335-b966-376533653465
+DTSTAMP:20261121T000000Z
+DTEND;VALUE=DATE:20261122
+DTSTART;VALUE=DATE:20261121
+SUMMARY:Паран 06:35 — 10:18 (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 06:35 — 10:18 (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65383339-3332-4138-a663-336465656138
+DTSTAMP:20261123T000000Z
+DTEND;VALUE=DATE:20261124
+DTSTART;VALUE=DATE:20261123
+SUMMARY:День ухода Шрилы Бхугарбхи Госвами. День ухода Шрилы Кашишвара Пандита.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрилы Бхугарбхи Госвами. День ухода Шрилы Кашишвара Пандита.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63616532-3232-4566-a537-616539666433
+DTSTAMP:20261124T000000Z
+DTEND;VALUE=DATE:20261125
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Раса Ятра Шри Кришны. День явления Шрилы Нимбарки Ачарьи. День ухода Шрилы Сундарананды Тхакура. Окончание Чатурмасьи и Нияма-сева врат, если они начинались с пурнимы, как это принято в Шри Чайтанья Сарасват Матхе.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Раса Ятра Шри Кришны. День явления Шрилы Нимбарки Ачарьи. День ухода Шрилы Сундарананды Тхакура. Окончание Чатурмасьи и Нияма-сева врат, если они начинались с пурнимы, как это принято в Шри Чайтанья Сарасват Матхе.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38656436-3936-4531-b632-313234336161
+DTSTAMP:20261130T000000Z
+DTEND;VALUE=DATE:20261201
+DTSTART;VALUE=DATE:20261130
+SUMMARY:Оран Шаштхи. Большой фестиваль в честь явления Шри Шри Нитай-Чайтаньи Джиу в Шри Пури Дхаме, Шри Чайтанья Сарасват Матх.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Оран Шаштхи. Большой фестиваль в честь явления Шри Шри Нитай-Чайтаньи Джиу в Шри Пури Дхаме, Шри Чайтанья Сарасват Матх.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64363434-3936-4131-b237-333136376135
+DTSTAMP:20261204T000000Z
+DTEND;VALUE=DATE:20261205
+DTSTART;VALUE=DATE:20261204
+SUMMARY:Утпанна экадаши.
+                    Пост (в Веракрузе). День ухода Шриюкты Дхананджаи даса Прабху.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Утпанна экадаши.
+                    Пост (в Веракрузе). День ухода Шриюкты Дхананджаи даса Прабху.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63333863-6133-4131-b162-663933393534
+DTSTAMP:20261205T000000Z
+DTEND;VALUE=DATE:20261206
+DTSTART;VALUE=DATE:20261205
+SUMMARY:Паран 06:44 — 10:24 (в Веракрузе). День ухода Шрилы Нарахари Саракара Тхакура. День ухода Шрилы Калия Кришнадаса.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 06:44 — 10:24 (в Веракрузе). День ухода Шрилы Нарахари Саракара Тхакура. День ухода Шрилы Калия Кришнадаса.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38616165-3766-4634-b237-326461373062
+DTSTAMP:20261206T000000Z
+DTEND;VALUE=DATE:20261207
+DTSTART;VALUE=DATE:20261206
+SUMMARY:День ухода Шрилы Шаранги Тхакура.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрилы Шаранги Тхакура.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64653566-3564-4263-a433-643832636535
+DTSTAMP:20261208T000000Z
+DTEND;VALUE=DATE:20261209
+DTSTART;VALUE=DATE:20261208
+SUMMARY:День ухода Шрилы Джагабандху Бхакти Ранджана.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрилы Джагабандху Бхакти Ранджана.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33623465-6438-4864-a562-386336376339
+DTSTAMP:20261217T000000Z
+DTEND;VALUE=DATE:20261218
+DTSTART;VALUE=DATE:20261217
+SUMMARY:День ухода Шрилы Мадхусудана даса Бабаджи Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрилы Мадхусудана даса Бабаджи Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:32656462-3536-4666-b432-356634356536
+DTSTAMP:20261218T000000Z
+DTEND;VALUE=DATE:20261219
+DTSTART;VALUE=DATE:20261218
+SUMMARY:День явления Триданди Свами Шримад Бхакти Камала Мадхусудана Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Триданди Свами Шримад Бхакти Камала Мадхусудана Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62356162-3266-4934-b663-616534396436
+DTSTAMP:20261219T000000Z
+DTEND;VALUE=DATE:20261220
+DTSTART;VALUE=DATE:20261219
+SUMMARY:Экадаши, но нет поста (поскольку дашами виддха). День ухода Триданди Свами Шримад Бхакти Кусум Шрамана Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Экадаши, но нет поста (поскольку дашами виддха). День ухода Триданди Свами Шримад Бхакти Кусум Шрамана Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31363739-3436-4533-a538-323538383232
+DTSTAMP:20261220T000000Z
+DTEND;VALUE=DATE:20261221
+DTSTART;VALUE=DATE:20261220
+SUMMARY:Мокшада экадаши. Пост (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Мокшада экадаши. Пост (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36306137-3730-4135-b666-613439333430
+DTSTAMP:20261221T000000Z
+DTEND;VALUE=DATE:20261222
+DTSTART;VALUE=DATE:20261221
+SUMMARY:Паран 06:53 — 10:32 (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 06:53 — 10:32 (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34376536-3732-4537-b866-643632656265
+DTSTAMP:20261225T000000Z
+DTEND;VALUE=DATE:20261226
+DTSTART;VALUE=DATE:20261225
+SUMMARY:Большой праздник 98‑го дня явления Севаите-Президента-Ачарьи Шри Чайтанья Сарасват Матха, Ом Вишнупады Парамахамсы Паривраджакачарьи Шри Шримад Бхакти Сундара Говинды Дев-Госвами Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Большой праздник 98‑го дня явления Севаите-Президента-Ачарьи Шри Чайтанья Сарасват Матха, Ом Вишнупады Парамахамсы Паривраджакачарьи Шри Шримад Бхакти Сундара Говинды Дев-Госвами Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37653331-6438-4433-b337-666463356431
+DTSTAMP:20261226T000000Z
+DTEND;VALUE=DATE:20261227
+DTSTART;VALUE=DATE:20261226
+SUMMARY:Фестиваль в местах Явления, детства и юности Шрилы Б.С. Говинды Дев-Госвами Махараджа: Бамунпаре и Надан Гхатe.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Фестиваль в местах Явления, детства и юности Шрилы Б.С. Говинды Дев-Госвами Махараджа: Бамунпаре и Надан Гхатe.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66353464-6237-4763-b665-613937633063
+DTSTAMP:20261227T000000Z
+DTEND;VALUE=DATE:20261228
+DTSTART;VALUE=DATE:20261227
+SUMMARY:Фестиваль в честь ухода основателя Шри Чайтанья Матха и Шри Гаудия Матхов по всему миру, Бхагавана Шри Шрилы Бхактисиддханты Сарасвати Госвами Прабхупады.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Фестиваль в честь ухода основателя Шри Чайтанья Матха и Шри Гаудия Матхов по всему миру, Бхагавана Шри Шрилы Бхактисиддханты Сарасвати Госвами Прабхупады.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31316164-3733-4166-b230-393263373361
+DTSTAMP:20270102T000000Z
+DTEND;VALUE=DATE:20270103
+DTSTART;VALUE=DATE:20270102
+SUMMARY:Экадаши, но нет поста (поскольку дашами виддха).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Экадаши, но нет поста (поскольку дашами виддха).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35363831-3663-4630-b834-653361343737
+DTSTAMP:20270103T000000Z
+DTEND;VALUE=DATE:20270104
+DTSTART;VALUE=DATE:20270103
+SUMMARY:Сапхала экадаши. Пост (в Веракрузе). День ухода Шрилы Девананды Пандита. День ухода Шримад Бхакти Пракаш Араньи Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Сапхала экадаши. Пост (в Веракрузе). День ухода Шрилы Девананды Пандита. День ухода Шримад Бхакти Пракаш Араньи Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35356166-6261-4330-a134-393163396337
+DTSTAMP:20270104T000000Z
+DTEND;VALUE=DATE:20270105
+DTSTART;VALUE=DATE:20270104
+SUMMARY:Паран 08:03 — 10:38 (в Веракрузе). День ухода Шрипада Бхакти Бхудев Шраути Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 08:03 — 10:38 (в Веракрузе). День ухода Шрипада Бхакти Бхудев Шраути Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39313739-3539-4635-b766-383837346266
+DTSTAMP:20270105T000000Z
+DTEND;VALUE=DATE:20270106
+DTSTART;VALUE=DATE:20270105
+SUMMARY:День ухода Шрилы Махеша Пандита. День ухода Шрилы Уддхарана даса Тхакура.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрилы Махеша Пандита. День ухода Шрилы Уддхарана даса Тхакура.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39386639-3931-4433-a337-366563336532
+DTSTAMP:20270108T000000Z
+DTEND;VALUE=DATE:20270109
+DTSTART;VALUE=DATE:20270108
+SUMMARY:День явления Шрилы Лочана даса Тхакура.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Шрилы Лочана даса Тхакура.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38326264-3633-4337-b639-376563376663
+DTSTAMP:20270110T000000Z
+DTEND;VALUE=DATE:20270111
+DTSTART;VALUE=DATE:20270110
+SUMMARY:День ухода Шрилы Дживы Госвами Прабху. День ухода Шрилы Джагадиша Пандита.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрилы Дживы Госвами Прабху. День ухода Шрилы Джагадиша Пандита.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65663434-3265-4362-a437-356535323235
+DTSTAMP:20270114T000000Z
+DTEND;VALUE=DATE:20270115
+DTSTART;VALUE=DATE:20270114
+SUMMARY:Шриман Махапрабху ночью покидает Навадвип и отправляется в Катву, чтобы принять <i>санньясу</i> (День, в который Махапрабху покидает дом, чтобы принять санньясу — <i>макара-санкранти</i> — вычисляется каждый год по солнечному календарю).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Шриман Махапрабху ночью покидает Навадвип и отправляется в Катву, чтобы принять <i>санньясу</i> (День, в который Махапрабху покидает дом, чтобы принять санньясу — <i>макара-санкранти</i> — вычисляется каждый год по солнечному календарю).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35383466-6536-4931-a638-313730663163
+DTSTAMP:20270116T000000Z
+DTEND;VALUE=DATE:20270117
+DTSTART;VALUE=DATE:20270116
+SUMMARY:Памятование о санньяса-лиле Шримана Махапрабху. 
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Памятование о санньяса-лиле Шримана Махапрабху. 
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38633766-6531-4239-b562-656333613238
+DTSTAMP:20270118T000000Z
+DTEND;VALUE=DATE:20270119
+DTSTART;VALUE=DATE:20270118
+SUMMARY:Путрада экадаши.
+                    Пост (в Веракрузе). День явления Шрилы Джагадиша Пандита.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Путрада экадаши.
+                    Пост (в Веракрузе). День явления Шрилы Джагадиша Пандита.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33343261-3731-4438-a561-333763306434
+DTSTAMP:20270119T000000Z
+DTEND;VALUE=DATE:20270120
+DTSTART;VALUE=DATE:20270119
+SUMMARY:Паран 07:00 — 10:43 (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 07:00 — 10:43 (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37393766-3434-4432-a165-393664383831
+DTSTAMP:20270122T000000Z
+DTEND;VALUE=DATE:20270123
+DTSTART;VALUE=DATE:20270122
+SUMMARY:Пушьябхишека Ятра Шри Кришны. День ухода Шрипада Бхакти Шарана Вайшнава Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Пушьябхишека Ятра Шри Кришны. День ухода Шрипада Бхакти Шарана Вайшнава Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66613333-6534-4961-b564-373361363131
+DTSTAMP:20270125T000000Z
+DTEND;VALUE=DATE:20270126
+DTSTART;VALUE=DATE:20270125
+SUMMARY:День явления Шрилы Гопала Бхатты Госвами Прабху. День ухода Шрилы Рамачандры Кавираджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Шрилы Гопала Бхатты Госвами Прабху. День ухода Шрилы Рамачандры Кавираджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37666465-6362-4537-b737-373937336164
+DTSTAMP:20270126T000000Z
+DTEND;VALUE=DATE:20270127
+DTSTART;VALUE=DATE:20270126
+SUMMARY:День ухода Шрипада Ядавенду Бхакти Чандана.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрипада Ядавенду Бхакти Чандана.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39633935-6337-4534-a237-636661323135
+DTSTAMP:20270128T000000Z
+DTEND;VALUE=DATE:20270129
+DTSTART;VALUE=DATE:20270128
+SUMMARY:День ухода Шрилы Джаядева Госвами.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрилы Джаядева Госвами.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61626431-6263-4038-b232-323232653036
+DTSTAMP:20270130T000000Z
+DTEND;VALUE=DATE:20270131
+DTSTART;VALUE=DATE:20270130
+SUMMARY:День ухода Шрилы Лочана даса Тхакура.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрилы Лочана даса Тхакура.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64626664-3133-4363-b764-333331653635
+DTSTAMP:20270201T000000Z
+DTEND;VALUE=DATE:20270202
+DTSTART;VALUE=DATE:20270201
+SUMMARY:Шат-тила экадаши.
+                    Пост (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Шат-тила экадаши.
+                    Пост (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38623538-6439-4261-a265-366635623861
+DTSTAMP:20270202T000000Z
+DTEND;VALUE=DATE:20270203
+DTSTART;VALUE=DATE:20270202
+SUMMARY:Паран 07:51 — 10:44 (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 07:51 — 10:44 (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63333761-3866-4134-b137-326166386336
+DTSTAMP:20270207T000000Z
+DTEND;VALUE=DATE:20270208
+DTSTART;VALUE=DATE:20270207
+SUMMARY:День ухода Триданди Свами Шримад Бхакти Гаурава Вайканаса Махараджа. День ухода Шри Харипада Чаудхури даса Адхикари.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Триданди Свами Шримад Бхакти Гаурава Вайканаса Махараджа. День ухода Шри Харипада Чаудхури даса Адхикари.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63396363-3432-4637-b964-313738346632
+DTSTAMP:20270208T000000Z
+DTEND;VALUE=DATE:20270209
+DTSTART;VALUE=DATE:20270208
+SUMMARY:День ухода Триданди Свами Шримад Бхакти Шарана Шанты Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Триданди Свами Шримад Бхакти Шарана Шанты Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34373366-6662-4435-b364-656630386436
+DTSTAMP:20270211T000000Z
+DTEND;VALUE=DATE:20270212
+DTSTART;VALUE=DATE:20270211
+SUMMARY:День явления Шрилы Бхакти Павана Джанардана Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Шрилы Бхакти Павана Джанардана Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66333937-6466-4436-b862-383564643163
+DTSTAMP:20270212T000000Z
+DTEND;VALUE=DATE:20270213
+DTSTART;VALUE=DATE:20270212
+SUMMARY:Шри Кришна Васанта Панчами. День явления Шрилы Рагхунатха даса Госвами. День явления Шри Вишнуприи Деви. День явления Шрилы Пундарика Видьянидхи. День явления Шрилы Рагхунандана Тхакура. День ухода Шрилы Вишванатха Чакраварти Тхакура. День ухода Триданди Свами Шримад Бхакти Вивека Бхарати Махараджа. День ухода Триданди Свами Шримад Бхакти Сварупа Парвата Махараджа. Шри Сарасвати Пуджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Шри Кришна Васанта Панчами. День явления Шрилы Рагхунатха даса Госвами. День явления Шри Вишнуприи Деви. День явления Шрилы Пундарика Видьянидхи. День явления Шрилы Рагхунандана Тхакура. День ухода Шрилы Вишванатха Чакраварти Тхакура. День ухода Триданди Свами Шримад Бхакти Вивека Бхарати Махараджа. День ухода Триданди Свами Шримад Бхакти Сварупа Парвата Махараджа. Шри Сарасвати Пуджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38373431-3436-4865-a438-623266623534
+DTSTAMP:20270213T000000Z
+DTEND;VALUE=DATE:20270214
+DTSTART;VALUE=DATE:20270213
+SUMMARY:Явление Аватара Маха-Вишну, Шри Адвайты Ачарьи.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Явление Аватара Маха-Вишну, Шри Адвайты Ачарьи.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38313562-6162-4131-a234-363331613136
+DTSTAMP:20270214T000000Z
+DTEND;VALUE=DATE:20270215
+DTSTART;VALUE=DATE:20270214
+SUMMARY:День ухода Шрипада Вирендры Кришны Прабху.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрипада Вирендры Кришны Прабху.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33333930-6633-4866-b565-656339633662
+DTSTAMP:20270215T000000Z
+DTEND;VALUE=DATE:20270216
+DTSTART;VALUE=DATE:20270215
+SUMMARY:День ухода Шрилы Мадхвы Ачарьи.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Шрилы Мадхвы Ачарьи.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33303338-6661-4366-b563-343861336131
+DTSTAMP:20270216T000000Z
+DTEND;VALUE=DATE:20270217
+DTSTART;VALUE=DATE:20270216
+SUMMARY:Бхаими экадаши.
+                    Пост (в Веракрузе). День ухода Шрипада Рамануджи Ачарьи.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Бхаими экадаши.
+                    Пост (в Веракрузе). День ухода Шрипада Рамануджи Ачарьи.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63386130-6562-4335-b233-396263313565
+DTSTAMP:20270217T000000Z
+DTEND;VALUE=DATE:20270218
+DTSTART;VALUE=DATE:20270217
+SUMMARY:Паран после поклонения Варахадеву 08:17 — 10:42 (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран после поклонения Варахадеву 08:17 — 10:42 (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38616438-3938-4364-a234-373038653864
+DTSTAMP:20270218T000000Z
+DTEND;VALUE=DATE:20270219
+DTSTART;VALUE=DATE:20270218
+SUMMARY:Вараха Двадаши. День явления Господа Варахадева.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Вараха Двадаши. День явления Господа Варахадева.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39346137-3235-4634-b330-326136613666
+DTSTAMP:20270219T000000Z
+DTEND;VALUE=DATE:20270220
+DTSTART;VALUE=DATE:20270219
+SUMMARY:Явление Шри Нитьянанды Прабху. Пост до полудня. Большой фестиваль в честь годовщины установления Шри Шри Гуру Гауры Нитьянанды Джиу в Шри Чайтанья Сарасвата Кришнанушилана Санге в Экачакра Дхаме.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Явление Шри Нитьянанды Прабху. Пост до полудня. Большой фестиваль в честь годовщины установления Шри Шри Гуру Гауры Нитьянанды Джиу в Шри Чайтанья Сарасвата Кришнанушилана Санге в Экачакра Дхаме.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61623839-6538-4362-a339-663434623165
+DTSTAMP:20270221T000000Z
+DTEND;VALUE=DATE:20270222
+DTSTART;VALUE=DATE:20270221
+SUMMARY:День явления Шрилы Нароттама даса Тхакура (поскольку пурнима титхи короткий (<i>кшая</i>)).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Шрилы Нароттама даса Тхакура (поскольку пурнима титхи короткий (<i>кшая</i>)).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34323532-3866-4539-a430-336238656135
+DTSTAMP:20270223T000000Z
+DTEND;VALUE=DATE:20270224
+DTSTART;VALUE=DATE:20270223
+SUMMARY:День ухода Триданди Свами Шрипада Бхакти Премика Сиддханти Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Триданди Свами Шрипада Бхакти Премика Сиддханти Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37653435-6363-4338-b164-323531306431
+DTSTAMP:20270225T000000Z
+DTEND;VALUE=DATE:20270226
+DTSTART;VALUE=DATE:20270225
+SUMMARY:154-й благословенный праздник явления основателя Шри Чайтанья Матха и всех мировых Гаудия Матхов, Бхагавана Шри Шрилы Бхактисиддханты Сарасвати Госвами Прабхупады. Годовщина установления Шри Гупта Говардхана, Шри Мандира, Шри Говинда Кунды в Навадвипе. День ухода Шрилы Пурушоттама Тхакура.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:154-й благословенный праздник явления основателя Шри Чайтанья Матха и всех мировых Гаудия Матхов, Бхагавана Шри Шрилы Бхактисиддханты Сарасвати Госвами Прабхупады. Годовщина установления Шри Гупта Говардхана, Шри Мандира, Шри Говинда Кунды в Навадвипе. День ухода Шрилы Пурушоттама Тхакура.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38356232-3334-4834-b937-323333326537
+DTSTAMP:20270226T000000Z
+DTEND;VALUE=DATE:20270227
+DTSTART;VALUE=DATE:20270226
+SUMMARY:День явления Триданди Свами Шримад Бхакти Саранги Госвами Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Триданди Свами Шримад Бхакти Саранги Госвами Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61626433-6564-4862-a363-623963306464
+DTSTAMP:20270303T000000Z
+DTEND;VALUE=DATE:20270304
+DTSTART;VALUE=DATE:20270303
+SUMMARY:Виджая экадаши.
+                    Пост (в Веракрузе). День ухода Шрипада Кришны Говинды даса Адхикари.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Виджая экадаши.
+                    Пост (в Веракрузе). День ухода Шрипада Кришны Говинды даса Адхикари.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38643331-6436-4630-b966-343234306262
+DTSTAMP:20270304T000000Z
+DTEND;VALUE=DATE:20270305
+DTSTART;VALUE=DATE:20270304
+SUMMARY:Паран 06:41 — 10:37 (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 06:41 — 10:37 (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62343437-6464-4365-b865-353936343737
+DTSTAMP:20270307T000000Z
+DTEND;VALUE=DATE:20270308
+DTSTART;VALUE=DATE:20270307
+SUMMARY:Шри Шиваратри  (пост по желанию). День ухода Шрипада Юдхаманью Прабху Сева Викрама.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Шри Шиваратри  (пост по желанию). День ухода Шрипада Юдхаманью Прабху Сева Викрама.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61333735-3963-4930-b261-343563376465
+DTSTAMP:20270308T000000Z
+DTEND;VALUE=DATE:20270309
+DTSTART;VALUE=DATE:20270308
+SUMMARY:Годовщина установления Шри Садашивы Гангадхара, Шри Говинда Кунда, Навадвип.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Годовщина установления Шри Садашивы Гангадхара, Шри Говинда Кунда, Навадвип.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33613165-6639-4135-a137-396332316264
+DTSTAMP:20270309T000000Z
+DTEND;VALUE=DATE:20270310
+DTSTART;VALUE=DATE:20270309
+SUMMARY:День ухода Вайшнава Сарвабхаумы Шрилы Джаганнатха даса Бабаджи Махараджа. День ухода Шрилы Расикананды Дева Госвами. День ухода Триданди Свами Шримад Бхакти Дайита Мадхава Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Вайшнава Сарвабхаумы Шрилы Джаганнатха даса Бабаджи Махараджа. День ухода Шрилы Расикананды Дева Госвами. День ухода Триданди Свами Шримад Бхакти Дайита Мадхава Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63373937-3866-4434-a266-313566333536
+DTSTAMP:20270310T000000Z
+DTEND;VALUE=DATE:20270311
+DTSTART;VALUE=DATE:20270310
+SUMMARY:День явления Шрилы Бхакти Кусум Ашрама Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Шрилы Бхакти Кусум Ашрама Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65663838-6232-4133-b435-633537316330
+DTSTAMP:20270311T000000Z
+DTEND;VALUE=DATE:20270312
+DTSTART;VALUE=DATE:20270311
+SUMMARY:Фестиваль, посвящённый годовщине установления Божеств Шри Шри Гуру Гауранги Радха Раманасундар Джиу в Шри Чайтанья Сарасвата Кришнанушилана Санге, Кайкали, Калькутта.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Фестиваль, посвящённый годовщине установления Божеств Шри Шри Гуру Гауранги Радха Раманасундар Джиу в Шри Чайтанья Сарасвата Кришнанушилана Санге, Кайкали, Калькутта.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36383266-3132-4433-b164-396462313464
+DTSTAMP:20270312T000000Z
+DTEND;VALUE=DATE:20270313
+DTSTART;VALUE=DATE:20270312
+SUMMARY:День явления Шрилы Пурушоттама Тхакура. День ухода Шрипада Туласидаса Даса Адхикари Прабху.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Шрилы Пурушоттама Тхакура. День ухода Шрипада Туласидаса Даса Адхикари Прабху.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37653863-6266-4531-a134-373632386230
+DTSTAMP:20270313T000000Z
+DTEND;VALUE=DATE:20270314
+DTSTART;VALUE=DATE:20270313
+SUMMARY:День явления Шрилы Бхакти Севана Хришикеша Махараджа. День ухода Шриюкта Тарангини Деви.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Шрилы Бхакти Севана Хришикеша Махараджа. День ухода Шриюкта Тарангини Деви.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61363663-3834-4464-a137-323638343133
+DTSTAMP:20270317T000000Z
+DTEND;VALUE=DATE:20270318
+DTSTART;VALUE=DATE:20270317
+SUMMARY:Адхивас Шри Навадвип Дхам Парикрамы. Начало ежегодного семидневного фестиваля.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Адхивас Шри Навадвип Дхам Парикрамы. Начало ежегодного семидневного фестиваля.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64373364-3239-4131-b461-653533353839
+DTSTAMP:20270318T000000Z
+DTEND;VALUE=DATE:20270319
+DTSTART;VALUE=DATE:20270318
+SUMMARY:Амалаки экадаши.
+                    Пост (в Веракрузе).  Начало Шри Навадвип Дхамa Парикрамы. Парикрама Шри Ишодьяна, Шри Йогапитха (места явления Шримана Махапрабху), Шривас Ангана, Шри Нрисимха Мандира, Шри Адвайта Бхавана, Мурари Гупта Бхавана, Шри Чайтанья Матха, храма Шри Шри Гандхарвика-Гиридхари и Шримана Махапрабху, а также ачарьев четырёх вайшнавских сампрадай, самадхи-мандира Шрилы Прабхупады, самадхи Шрилы Гауракишора даса Бабаджи Махараджа, самадхи Шри Чханда Кази, Шараданга Шри Джаганнатха Мандира, Шридхар Ангана, Шри Симантадвипа, Шри Рудрадвипа и Шри Антардвипа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Амалаки экадаши.
+                    Пост (в Веракрузе).  Начало Шри Навадвип Дхамa Парикрамы. Парикрама Шри Ишодьяна, Шри Йогапитха (места явления Шримана Махапрабху), Шривас Ангана, Шри Нрисимха Мандира, Шри Адвайта Бхавана, Мурари Гупта Бхавана, Шри Чайтанья Матха, храма Шри Шри Гандхарвика-Гиридхари и Шримана Махапрабху, а также ачарьев четырёх вайшнавских сампрадай, самадхи-мандира Шрилы Прабхупады, самадхи Шрилы Гауракишора даса Бабаджи Махараджа, самадхи Шри Чханда Кази, Шараданга Шри Джаганнатха Мандира, Шридхар Ангана, Шри Симантадвипа, Шри Рудрадвипа и Шри Антардвипа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38653939-3331-4239-a637-663062336637
+DTSTAMP:20270319T000000Z
+DTEND;VALUE=DATE:20270320
+DTSTART;VALUE=DATE:20270319
+SUMMARY:Паран 06:29 — 10:06 (в Веракрузе). Парикрама храма Праудха Майи, Вриддха Шивы, Божества Шри Гауранги, установленного Шри Вишнуприей, Самадхи Мандира Шри Джаганнатха даса Бабаджи Махараджа, Шри Коладвипа и других святых мест. День ухода Шрилы Мадхавендры Пури.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 06:29 — 10:06 (в Веракрузе). Парикрама храма Праудха Майи, Вриддха Шивы, Божества Шри Гауранги, установленного Шри Вишнуприей, Самадхи Мандира Шри Джаганнатха даса Бабаджи Махараджа, Шри Коладвипа и других святых мест. День ухода Шрилы Мадхавендры Пури.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65393331-3235-4338-b537-623439366263
+DTSTAMP:20270320T000000Z
+DTEND;VALUE=DATE:20270321
+DTSTART;VALUE=DATE:20270320
+SUMMARY:Парикрама Шри Годрумадвипа и Мадхьядвипа, Шри Сурабхи Кунджа, Суварнабихар Матха, Шри Нрисимха Палли, Шри Харихара Кшетры и других святых мест.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Парикрама Шри Годрумадвипа и Мадхьядвипа, Шри Сурабхи Кунджа, Суварнабихар Матха, Шри Нрисимха Палли, Шри Харихара Кшетры и других святых мест.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34303732-3764-4863-b930-393563363766
+DTSTAMP:20270321T000000Z
+DTEND;VALUE=DATE:20270322
+DTSTART;VALUE=DATE:20270321
+SUMMARY:Адхивас явления Шри Гауранги. Парикрама Шри Коладвипа, Шри Ритудвипа, Шри Джахнудвипа, Шри Модадрумадвипа, старого Шри Шри Гаура-Гададхар Мандира, Видьянагар Сарвабхаума Гаудия Матха, места явления Шрилы Вриндавана даса Тхакура и Божеств Шри Саранга Мурари и Васудева Датты Тхакура.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Адхивас явления Шри Гауранги. Парикрама Шри Коладвипа, Шри Ритудвипа, Шри Джахнудвипа, Шри Модадрумадвипа, старого Шри Шри Гаура-Гададхар Мандира, Видьянагар Сарвабхаума Гаудия Матха, места явления Шрилы Вриндавана даса Тхакура и Божеств Шри Саранга Мурари и Васудева Датты Тхакура.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61343766-3264-4863-a465-323835653539
+DTSTAMP:20270322T000000Z
+DTEND;VALUE=DATE:20270323
+DTSTART;VALUE=DATE:20270322
+SUMMARY:Шри Гауравирбхав Паурнамаси. Шри Гаура Пурнима  Явление Шри Гауранги Махапрабху. Полный пост до восхода луны, затем пост на зерновые. Главный фестиваль в Шри Чайтанья Сарасват Матхе. Васантотсав и Дол-ятра Шри Шри Радхи-Говинды. Особые подношения и арати. Чтение "Шри Чайтанья-чаритамриты" и маха-санкиртан. Завершение 541-го года эры Гаурабда.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Шри Гауравирбхав Паурнамаси. Шри Гаура Пурнима  Явление Шри Гауранги Махапрабху. Полный пост до восхода луны, затем пост на зерновые. Главный фестиваль в Шри Чайтанья Сарасват Матхе. Васантотсав и Дол-ятра Шри Шри Радхи-Говинды. Особые подношения и арати. Чтение "Шри Чайтанья-чаритамриты" и маха-санкиртан. Завершение 541-го года эры Гаурабда.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38333939-6461-4166-a437-326133633138
+DTSTAMP:20270323T000000Z
+DTEND;VALUE=DATE:20270324
+DTSTART;VALUE=DATE:20270323
+SUMMARY:Шри Гаура Пурнима паран от 06:26 до 10:29 (в Веракрузе). <strong>Анандотсав Шри Джаганнатха Мишры.</strong> Последний день ежегодного недельного фестиваля в Шри Чайтанья Сарасват Матхе. Начало 542 года Гаурабда эры.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Шри Гаура Пурнима паран от 06:26 до 10:29 (в Веракрузе). <strong>Анандотсав Шри Джаганнатха Мишры.</strong> Последний день ежегодного недельного фестиваля в Шри Чайтанья Сарасват Матхе. Начало 542 года Гаурабда эры.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34643132-6264-4261-a232-613366363737
+DTSTAMP:20270327T000000Z
+DTEND;VALUE=DATE:20270328
+DTSTART;VALUE=DATE:20270327
+SUMMARY:Фестиваль в Шрипат Хапании, месте Явления Шрилы Бхакти Ракшака Шридхара Дев-Госвами Махараджа: священный день явления Божеств Шри Шри Гауранга Радха Гопинатх джиу в Шрипат Хапании, Шри Чайтанья Сарасват Ашрам. День явления Триданди Свами Шримад Бхакти Шарана Шанты Махараджа. Панчама Дол.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Фестиваль в Шрипат Хапании, месте Явления Шрилы Бхакти Ракшака Шридхара Дев-Госвами Махараджа: священный день явления Божеств Шри Шри Гауранга Радха Гопинатх джиу в Шрипат Хапании, Шри Чайтанья Сарасват Ашрам. День явления Триданди Свами Шримад Бхакти Шарана Шанты Махараджа. Панчама Дол.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61383134-3365-4164-b332-313236643462
+DTSTAMP:20270330T000000Z
+DTEND;VALUE=DATE:20270331
+DTSTART;VALUE=DATE:20270330
+SUMMARY:День явления Шриваса Пандита.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Шриваса Пандита.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34363932-3231-4461-b437-343433313432
+DTSTAMP:20270331T000000Z
+DTEND;VALUE=DATE:20270401
+DTSTART;VALUE=DATE:20270331
+SUMMARY:День ухода Триданди Свами Шримад Бхакти Виграха Бхикшу Госвами Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День ухода Триданди Свами Шримад Бхакти Виграха Бхикшу Госвами Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31333436-3832-4334-a332-373238323937
+DTSTAMP:20270402T000000Z
+DTEND;VALUE=DATE:20270403
+DTSTART;VALUE=DATE:20270402
+SUMMARY:Папа Вимочани экадаши.
+                    Пост (в Веракрузе).
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Папа Вимочани экадаши.
+                    Пост (в Веракрузе).
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:32336563-6561-4732-b865-366464346431
+DTSTAMP:20270403T000000Z
+DTEND;VALUE=DATE:20270404
+DTSTART;VALUE=DATE:20270403
+SUMMARY:Паран 06:16 — 10:23 (в Веракрузе). Фестиваль в честь дня прибытия Шримана Махапрабху в Вараханагар. День ухода Шрилы Говинды Гхоша Тхакура. День ухода Шрипада Сатьендрачандры Бхаттачарьи Маходоя.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Паран 06:16 — 10:23 (в Веракрузе). Фестиваль в честь дня прибытия Шримана Махапрабху в Вараханагар. День ухода Шрилы Говинды Гхоша Тхакура. День ухода Шрипада Сатьендрачандры Бхаттачарьи Маходоя.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38383633-3235-4631-b231-623131643065
+DTSTAMP:20270411T000000Z
+DTEND;VALUE=DATE:20270412
+DTSTART;VALUE=DATE:20270411
+SUMMARY:День явления Шрипада Рамануджи Ачарьи и Триданди Свами Шримад Бхакти Хридой Бон Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Шрипада Рамануджи Ачарьи и Триданди Свами Шримад Бхакти Хридой Бон Махараджа.
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38366361-6631-4834-b138-393262333135
+DTSTAMP:20270413T000000Z
+DTEND;VALUE=DATE:20270414
+DTSTART;VALUE=DATE:20270413
+SUMMARY:День явления Триданди Свами Шримад Бхакти Вилас Тиртхи Махараджа.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:День явления Триданди Свами Шримад Бхакти Вилас Тиртхи Махараджа.
+END:VALARM
+END:VEVENT
+END:VCALENDAR

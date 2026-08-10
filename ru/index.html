@@ -1,0 +1,1175 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Календарь Шри Чайтанья Сарасват Матха</title>
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/fonts.css">
+    <style>
+        :root {
+            --accent: #b08d57;
+            --accent-dark: #8a6a3d;
+            --accent-soft: #f5ecdf;
+            --paper: #fffdf9;
+            --surface: #ffffff;
+            --ink: #2f2a24;
+            --muted: #6f6a63;
+            --line: #e9dfd0;
+            --shadow: rgba(80, 60, 30, 0.06);
+        }
+
+        html, body {
+            background-color: var(--paper);
+            color: var(--ink);
+            font-family: 'Inter', sans-serif;
+            font-weight: 400;
+            line-height: 1.65;
+            margin: 0;
+        }
+
+        body {
+            min-height: 100vh;
+        }
+
+        a {
+            color: var(--accent-dark);
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: #6d512d;
+            text-decoration: underline;
+        }
+
+        b, strong {
+            font-weight: 700 !important;
+        }
+
+        .page-wrap {
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 2rem 1rem 3rem;
+        }
+
+        .hero {
+            text-align: center;
+            margin-bottom: 1.5rem;
+        }
+
+        .hero h1 {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: clamp(2.5rem, 4.5vw, 4.4rem);
+            font-weight: 600;
+            line-height: 1.08;
+            letter-spacing: 0.01em;
+            color: #2a2118;
+            margin: 0.5rem 0 0.6rem;
+        }
+
+        .subtitle {
+            color: var(--muted);
+            font-size: 1rem;
+            font-weight: 500;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            margin-bottom: 1.25rem;
+        }
+
+        .language-switch {
+            margin: 1rem 0 1.75rem;
+        }
+
+        .language-switch .nav {
+            gap: .4rem;
+        }
+
+        .language-switch .nav-link {
+            color: #5c4a34;
+            border-radius: 999px;
+            padding: .55rem 1rem;
+            font-weight: 500;
+            transition: all .2s ease;
+        }
+
+        .language-switch .nav-link:hover {
+            background: var(--accent-soft);
+            color: #3f3121;
+            text-decoration: none;
+        }
+
+        .language-switch .nav-link.active {
+            background: var(--accent);
+            color: #fff;
+            box-shadow: 0 6px 18px rgba(176, 141, 87, 0.22);
+        }
+
+        .cities-card {
+            background: var(--surface);
+            border: 1px solid var(--line);
+            border-radius: 22px;
+            box-shadow: 0 14px 40px var(--shadow);
+            overflow: hidden;
+        }
+
+        .cities-card-header {
+            padding: 1.15rem 1.35rem;
+            border-bottom: 1px solid var(--line);
+            background: linear-gradient(to bottom, #fffdfa, #fffaf2);
+        }
+
+        .cities-card-title {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 2rem;
+            font-weight: 600;
+            color: #2a2118;
+            margin: 0;
+        }
+
+        .cities-card-note {
+            color: var(--muted);
+            font-size: .98rem;
+            margin: .2rem 0 0;
+        }
+
+        .cities-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .cities-table tr {
+            transition: background-color .18s ease;
+        }
+
+        .cities-table tr:nth-child(odd) {
+            background-color: #fffdf9;
+        }
+
+        .cities-table tr:hover {
+            background-color: #fcf6ea;
+        }
+
+        .cities-table td {
+            padding: 1rem 1.35rem;
+            border-bottom: 1px solid #eee4d5;
+            vertical-align: middle;
+        }
+
+        .cities-table tr:last-child td {
+            border-bottom: none;
+        }
+
+        .city-name-cell {
+            width: 72%;
+        }
+
+        .city-link {
+            display: inline-block;
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: #2e2419;
+            line-height: 1.15;
+        }
+
+        .city-link:hover {
+            color: var(--accent-dark);
+            text-decoration: none;
+        }
+
+        .year-link-cell {
+            text-align: right;
+            white-space: nowrap;
+        }
+
+        .year-link {
+            display: inline-block;
+            padding: .45rem .8rem;
+            border-radius: 999px;
+            background: #f7efe1;
+            color: var(--accent-dark);
+            font-size: .95rem;
+            font-weight: 600;
+            letter-spacing: .03em;
+        }
+
+        .year-link:hover {
+            background: #efdfbf;
+            color: #6d512d;
+            text-decoration: none;
+        }
+
+        .footer-nav {
+            margin-top: 1.5rem;
+        }
+
+        @media (max-width: 768px) {
+            .page-wrap {
+                padding: 1.25rem .75rem 2rem;
+            }
+
+            .cities-card-header,
+            .cities-table td {
+                padding-left: 1rem;
+                padding-right: 1rem;
+            }
+
+            .city-link {
+                font-size: 1.25rem;
+            }
+
+            .year-link {
+                font-size: .9rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="page-wrap">
+        <header class="hero">
+            <h1>Календарь Шри Чайтанья Сарасват Матха</h1>
+            <div class="subtitle">Города и календарный год 2026/2027</div>
+            <nav class="language-switch">
+    <ul class="nav nav-pills justify-content-center">
+        <li class="nav-item">
+            <a class="nav-link " href="../">English</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link active" href="#">Русский</a>
+        </li>
+    </ul>
+</nav>
+
+        </header>
+
+        <section class="cities-card">
+            <div class="cities-card-header">
+                <h2 class="cities-card-title">Выберите город</h2>
+                <p class="cities-card-note">Откройте календарь для вашего города и текущего года.</p>
+            </div>
+
+            <table class="cities-table">
+                <tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/amsterdam/541/ru">Амстердам</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/amsterdam/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/ankara/541/ru">Анкара</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/ankara/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/bad_hersfeld/541/ru">Бад-Херсфельд</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/bad_hersfeld/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/byronbay/541/ru">Байрон-Бей</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/byronbay/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/barnaul/541/ru">Барнаул</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/barnaul/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/barcelona/541/ru">Барселона</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/barcelona/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/bogota/541/ru">Богота</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/bogota/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/budapest/541/ru">Будапешт</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/budapest/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/buffalo/541/ru">Буффало</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/buffalo/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/vancouver/541/ru">Ванкувер</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/vancouver/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/novgorod_the_great/541/ru">Великий Новгород</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/novgorod_the_great/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/veracruz/541/ru">Веракруз</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/veracruz/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/vinnitsa/541/ru">Винница</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/vinnitsa/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/vladivostok/541/ru">Владивосток</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/vladivostok/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/volgograd/541/ru">Волгоград</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/volgograd/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/voronezh/541/ru">Воронеж</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/voronezh/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/vrindavan/541/ru">Вриндаван</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/vrindavan/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/wroclaw/541/ru">Вроцлав</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/wroclaw/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/guadalajara/541/ru">Гвадалахара</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/guadalajara/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/honolulu/541/ru">Гонолулу</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/honolulu/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/delhi/541/ru">Дели</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/delhi/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/derbent/541/ru">Дербент</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/derbent/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/dnepropetrovsk/541/ru">Днепропетровск</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/dnepropetrovsk/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/donetsk/541/ru">Донецк</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/donetsk/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/dublin/541/ru">Дублин</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/dublin/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/yekaterinburg/541/ru">Екатеринбург</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/yekaterinburg/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/zaporizhia/541/ru">Запорожье</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/zaporizhia/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/izhevsk/541/ru">Ижевск</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/izhevsk/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/johannesburg/541/ru">Йоханнесбург</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/johannesburg/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/yoshkar_ola/541/ru">Йошкар-ола</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/yoshkar_ola/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/kazan/541/ru">Казань</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/kazan/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/kaluga/541/ru">Калуга</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/kaluga/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/caracas/541/ru">Каракас</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/caracas/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/kyiv/541/ru">Киев</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/kyiv/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/kingisepp/541/ru">Кингисепп</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/kingisepp/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/quito/541/ru">Кито</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/quito/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/chisinau/541/ru">Кишинёв</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/chisinau/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/kostroma/541/ru">Кострома</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/kostroma/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/krasnodar/541/ru">Краснодар</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/krasnodar/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/krasnoyarsk/541/ru">Красноярск</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/krasnoyarsk/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/kuala_lumpur/541/ru">Куала-Лумпур</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/kuala_lumpur/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/lima/541/ru">Лима</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/lima/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/linkoeping/541/ru">Линчёпинг</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/linkoeping/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/lisbon/541/ru">Лиссабон</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/lisbon/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/london/541/ru">Лондон</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/london/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/luhansk/541/ru">Луганск</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/luhansk/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/lviv/541/ru">Львов</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/lviv/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/luxembourg/541/ru">Люксембург</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/luxembourg/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/maalot_tarshiha/541/ru">Маалот-Таршиха</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/maalot_tarshiha/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/miami/541/ru">Майами</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/miami/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/manila/541/ru">Манила</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/manila/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/merida/541/ru">Мерида</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/merida/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/mexico_city/541/ru">Мехико</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/mexico_city/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/milan/541/ru">Милан</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/milan/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/minsk/541/ru">Минск</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/minsk/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/morelia/541/ru">Морелия</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/morelia/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/moscow/541/ru">Москва</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/moscow/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/nabadwip/541/ru">Навадвип</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/nabadwip/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/nizhny_novgorod/541/ru">Нижний Новгород</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/nizhny_novgorod/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/novosibirsk/541/ru">Новосибирск</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/novosibirsk/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/new_york/541/ru">Нью-Йорк</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/new_york/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/odessa/541/ru">Одесса</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/odessa/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/omsk/541/ru">Омск</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/omsk/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/orenburg/541/ru">Оренбург</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/orenburg/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/orsk/541/ru">Орск</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/orsk/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/oslo/541/ru">Осло</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/oslo/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/perm/541/ru">Пермь</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/perm/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/petrozavodsk/541/ru">Петрозаводск</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/petrozavodsk/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/petropavl/541/ru">Петропавловск</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/petropavl/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/petropavlovsk_kamchatsky/541/ru">Петропавловск-Камчатский</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/petropavlovsk_kamchatsky/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/port_luis/541/ru">Порт-Луи</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/port_luis/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/prague/541/ru">Прага</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/prague/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/paernu/541/ru">Пярну</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/paernu/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/riga/541/ru">Рига</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/riga/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/rome/541/ru">Рим</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/rome/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/rostov_on_don/541/ru">Ростов-на-Дону</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/rostov_on_don/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/samara/541/ru">Самара</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/samara/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/san_luis_potosi/541/ru">Сан-Луи-Потоси</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/san_luis_potosi/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/san_paulo/541/ru">Сан-Паулу</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/san_paulo/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/san_francisco/541/ru">Сан-Франциско</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/san_francisco/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/saint_petersburg/541/ru">Санкт-Петербург</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/saint_petersburg/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/saratov/541/ru">Саратов</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/saratov/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/sydney/541/ru">Сидней</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/sydney/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/simferopol/541/ru">Симферополь</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/simferopol/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/singapore/541/ru">Сингапур</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/singapore/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/smolensk/541/ru">Смоленск</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/smolensk/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/soquel/541/ru">Соквель</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/soquel/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/salt_lake_city/541/ru">Солт-Лейк-Сити</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/salt_lake_city/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/sochi/541/ru">Сочи</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/sochi/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/stavropol/541/ru">Ставрополь</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/stavropol/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/istanbul/541/ru">Стамбул</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/istanbul/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/surgut/541/ru">Сургут</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/surgut/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/sukhum/541/ru">Сухум</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/sukhum/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/tambov/541/ru">Тамбов</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/tambov/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/tampere/541/ru">Тампере</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/tampere/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/timmins/541/ru">Тимминс</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/timmins/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/tijuana/541/ru">Тихуана</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/tijuana/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/tolyatti/541/ru">Тольятти</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/tolyatti/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/tomsk/541/ru">Томск</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/tomsk/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/tuapse/541/ru">Туапсе</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/tuapse/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/ufa/541/ru">Уфа</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/ufa/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/khabarovsk/541/ru">Хабаровск</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/khabarovsk/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/heilbronn/541/ru">Хайльбронн</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/heilbronn/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/haifa/541/ru">Хайфа</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/haifa/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/khanty-mansiysk/541/ru">Ханты-Мансийск</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/khanty-mansiysk/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/kharkiv/541/ru">Харьков</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/kharkiv/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/helsinki/541/ru">Хельсинки</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/helsinki/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/herson/541/ru">Херсон</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/herson/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/chelyabinsk/541/ru">Челябинск</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/chelyabinsk/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/chiangmai/541/ru">Чианг Май</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/chiangmai/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/shenzhen/541/ru">Шэньчжэнь</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/shenzhen/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/yuzhno_sakhalinsk/541/ru">Южно-Сахалинск</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/yuzhno_sakhalinsk/541/ru">2026/2027</a>
+    </td>
+</tr>
+<tr>
+    <td class="city-name-cell">
+        <a class="city-link" href="/yaroslavl/541/ru">Ярославль</a>
+    </td>
+    <td class="year-link-cell">
+        <a class="year-link" href="/yaroslavl/541/ru">2026/2027</a>
+    </td>
+</tr>
+
+            </table>
+        </section>
+
+        <div class="footer-nav">
+            <nav class="language-switch">
+    <ul class="nav nav-pills justify-content-center">
+        <li class="nav-item">
+            <a class="nav-link " href="../">English</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link active" href="#">Русский</a>
+        </li>
+    </ul>
+</nav>
+
+        </div>
+    </div>
+</body>
+</html>
